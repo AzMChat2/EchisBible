@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{49590AE0-F838-4A81-990B-B3D6D717B131}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XmlGenerator</RootNamespace>
+    <AssemblyName>XmlGenerator</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Echis.Core, Version=3.5.1.20902, Culture=neutral, PublicKeyToken=b1eeb490fbd3a204, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Framework\bin\3.5\Release\Echis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Echis.Data, Version=3.5.1.20902, Culture=neutral, PublicKeyToken=2bc24e938a5b3ca5, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Framework\bin\3.5\Release\Echis.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Echis.Data.SqlClient, Version=3.5.1.20902, Culture=neutral, PublicKeyToken=5d99dbcbb0362996, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Framework\bin\3.5\Release\Echis.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Echis.Spring, Version=3.5.1.20902, Culture=neutral, PublicKeyToken=617d3e87220e0761, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Framework\bin\3.5\Release\Echis.Spring.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bible.Core\Bible.Core.csproj">
+      <Project>{B9E3F6BD-3B0D-468D-9392-3681DC3A905C}</Project>
+      <Name>Bible.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bible.Database\Bible.Database.csproj">
+      <Project>{BCBD3BB5-67E7-44BC-81E5-27EEAB51A3DE}</Project>
+      <Name>Bible.Database</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bible.Xml.KJ\Bible.Xml.KJ.csproj">
+      <Project>{DFB15D7A-0BFD-4B70-903E-465AA2232FE0}</Project>
+      <Name>Bible.Xml.KJ</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bible.Xml.YLT\Bible.Xml.YLT.csproj">
+      <Project>{342493FB-C32D-4BAB-B85C-AB85263BB120}</Project>
+      <Name>Bible.Xml.YLT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bible.Xml\Bible.Xml.csproj">
+      <Project>{40BD018C-AA89-49ED-BD97-54BE91B3BC82}</Project>
+      <Name>Bible.Xml</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Bible.GUI\App.config">
+      <Link>App.config</Link>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

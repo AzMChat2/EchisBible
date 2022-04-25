@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DFB15D7A-0BFD-4B70-903E-465AA2232FE0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bible.Xml</RootNamespace>
+    <AssemblyName>Bible.Xml.KJ</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>Bible.Xml.KJ.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <CodeAnalysisRules>-Microsoft.Design#CA1002</CodeAnalysisRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\AssemblyInfo_Common.cs">
+      <Link>Properties\AssemblyInfo_Common.cs</Link>
+    </Compile>
+    <Compile Include="..\AssemblyInfo_Version.cs">
+      <Link>Properties\AssemblyInfo_Version.cs</Link>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Xml\NewTestament\1 Corinthians.xml" />
+    <None Include="Xml\NewTestament\1 John.xml" />
+    <None Include="Xml\NewTestament\1 Peter.xml" />
+    <None Include="Xml\NewTestament\1 Thessalonians.xml" />
+    <None Include="Xml\NewTestament\1 Timothy.xml" />
+    <None Include="Xml\NewTestament\2 Corinthians.xml" />
+    <None Include="Xml\NewTestament\2 John.xml" />
+    <None Include="Xml\NewTestament\2 Peter.xml" />
+    <None Include="Xml\NewTestament\2 Thessalonians.xml" />
+    <None Include="Xml\NewTestament\2 Timothy.xml" />
+    <None Include="Xml\NewTestament\3 John.xml" />
+    <None Include="Xml\NewTestament\Acts.xml" />
+    <None Include="Xml\NewTestament\Colossians.xml" />
+    <None Include="Xml\NewTestament\Ephesians.xml" />
+    <None Include="Xml\NewTestament\Galatians.xml" />
+    <None Include="Xml\NewTestament\Hebrews.xml" />
+    <None Include="Xml\NewTestament\James.xml" />
+    <None Include="Xml\NewTestament\John.xml" />
+    <None Include="Xml\NewTestament\Jude.xml" />
+    <None Include="Xml\NewTestament\Luke.xml" />
+    <None Include="Xml\NewTestament\Mark.xml" />
+    <None Include="Xml\NewTestament\Matthew.xml" />
+    <None Include="Xml\NewTestament\Philemon.xml" />
+    <None Include="Xml\NewTestament\Philippians.xml" />
+    <None Include="Xml\NewTestament\Revelation.xml" />
+    <None Include="Xml\NewTestament\Romans.xml" />
+    <None Include="Xml\NewTestament\Titus.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Xml\OldTestament\1 Chronicles.xml" />
+    <None Include="Xml\OldTestament\1 Kings.xml" />
+    <None Include="Xml\OldTestament\1 Samuel.xml" />
+    <None Include="Xml\OldTestament\2 Chronicles.xml" />
+    <None Include="Xml\OldTestament\2 Kings.xml" />
+    <None Include="Xml\OldTestament\2 Samuel.xml" />
+    <None Include="Xml\OldTestament\Amos.xml" />
+    <None Include="Xml\OldTestament\Daniel.xml" />
+    <None Include="Xml\OldTestament\Deuteronomy.xml" />
+    <None Include="Xml\OldTestament\Ecclesiastes.xml" />
+    <None Include="Xml\OldTestament\Esther.xml" />
+    <None Include="Xml\OldTestament\Exodus.xml" />
+    <None Include="Xml\OldTestament\Ezekiel.xml" />
+    <None Include="Xml\OldTestament\Ezra.xml" />
+    <None Include="Xml\OldTestament\Genesis.xml" />
+    <None Include="Xml\OldTestament\Habakkuk.xml" />
+    <None Include="Xml\OldTestament\Haggai.xml" />
+    <None Include="Xml\OldTestament\Hosea.xml" />
+    <None Include="Xml\OldTestament\Isaiah.xml" />
+    <None Include="Xml\OldTestament\Jeremiah.xml" />
+    <None Include="Xml\OldTestament\Job.xml" />
+    <None Include="Xml\OldTestament\Joel.xml" />
+    <None Include="Xml\OldTestament\Jonah.xml" />
+    <None Include="Xml\OldTestament\Joshua.xml" />
+    <None Include="Xml\OldTestament\Judges.xml" />
+    <None Include="Xml\OldTestament\Lamentations.xml" />
+    <None Include="Xml\OldTestament\Leviticus.xml" />
+    <None Include="Xml\OldTestament\Malachi.xml" />
+    <None Include="Xml\OldTestament\Micah.xml" />
+    <None Include="Xml\OldTestament\Nahum.xml" />
+    <None Include="Xml\OldTestament\Nehemiah.xml" />
+    <None Include="Xml\OldTestament\Numbers.xml" />
+    <None Include="Xml\OldTestament\Obadiah.xml" />
+    <None Include="Xml\OldTestament\Proverbs.xml" />
+    <None Include="Xml\OldTestament\Psalms.xml" />
+    <None Include="Xml\OldTestament\Ruth.xml" />
+    <None Include="Xml\OldTestament\Song of Solomon.xml" />
+    <None Include="Xml\OldTestament\Zechariah.xml" />
+    <None Include="Xml\OldTestament\Zephaniah.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Bible.Xml.KJ.snk" />
+    <EmbeddedResource Include="Resources\Version.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\1 Corinthians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\1 John.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\1 Peter.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\1 Thessalonians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\1 Timothy.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\2 Corinthians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\2 John.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\2 Peter.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\2 Thessalonians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\2 Timothy.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\3 John.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Acts.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Colossians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Ephesians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Galatians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Hebrews.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\James.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\John.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Jude.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Luke.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Mark.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Matthew.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Philemon.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Philippians.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Revelation.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Romans.dat" />
+    <EmbeddedResource Include="Resources\NewTestament\Titus.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\1 Chronicles.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\1 Kings.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\1 Samuel.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\2 Chronicles.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\2 Kings.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\2 Samuel.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Amos.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Daniel.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Deuteronomy.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Ecclesiastes.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Esther.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Exodus.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Ezekiel.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Ezra.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Genesis.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Habakkuk.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Haggai.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Hosea.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Isaiah.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Jeremiah.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Job.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Joel.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Jonah.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Joshua.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Judges.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Lamentations.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Leviticus.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Malachi.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Micah.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Nahum.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Nehemiah.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Numbers.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Obadiah.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Proverbs.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Psalms.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Ruth.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Song of Solomon.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Zechariah.dat" />
+    <EmbeddedResource Include="Resources\OldTestament\Zephaniah.dat" />
+  </ItemGroup>
+  <ItemGroup>
+    <CodeAnalysisDictionary Include="..\Dictionary.xml">
+      <Link>Properties\Dictionary.xml</Link>
+    </CodeAnalysisDictionary>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Xml\Version.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

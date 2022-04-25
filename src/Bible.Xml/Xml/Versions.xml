@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version VersionId="1" VersionName="KJ" LongName="King James Version" Copyright="Public Domain" />
+  <Version VersionId="2" VersionName="KJ21" LongName="21st Century King James Version" Copyright="Copyright © 1994 by Deuel Enterprises, Inc., Gary, SD 57237" />
+  <Version VersionId="3" VersionName="NKJV" LongName="New King James Version" Copyright="Copyright © 1982 by Thomas Nelson," />
+  <Version VersionId="4" VersionName="NASB" LongName="New American Standard Bible" Copyright="Copyright © 1960,1962,1963,1968,1971,1972,1973,1975,1977,1995 by The Lockman Foundation" />
+  <Version VersionId="5" VersionName="YLT" LongName="Young's Literal Translation" Copyright="Public Domain" />
+  <Version VersionId="6" VersionName="NIV" LongName="New International Version" Copyright="Copyright © 1973, 1978, 1984 Biblica" />
+</ArrayOfVersion>

@@ -1,0 +1,1575 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" BookId="65" BookName="Jude" IsNewTestament="true">
+  <Chapter ChapterId="1167" ChapterNumber="1">
+    <Verse VerseId="30673" VerseNumber="1">
+      <VerseVersion VerseId="30673" VersionId="1">
+        <Word WordId="777025" WordIndex="1" WordText="Jude,">
+          <StrongsId>10739</StrongsId>
+        </Word>
+        <Word WordId="777026" WordIndex="2" WordText="the" />
+        <Word WordId="777027" WordIndex="3" WordText="servant">
+          <StrongsId>9946</StrongsId>
+        </Word>
+        <Word WordId="777028" WordIndex="4" WordText="of" />
+        <Word WordId="777029" WordIndex="5" WordText="Jesus">
+          <StrongsId>10710</StrongsId>
+        </Word>
+        <Word WordId="777030" WordIndex="6" WordText="Christ,">
+          <StrongsId>13729</StrongsId>
+        </Word>
+        <Word WordId="777031" WordIndex="7" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777032" WordIndex="8" WordText="brother">
+          <StrongsId>8750</StrongsId>
+        </Word>
+        <Word WordId="777033" WordIndex="9" WordText="of" />
+        <Word WordId="777034" WordIndex="10" WordText="James,">
+          <StrongsId>10684</StrongsId>
+        </Word>
+        <Word WordId="777035" WordIndex="11" WordText="to" />
+        <Word WordId="777036" WordIndex="12" WordText="them" />
+        <Word WordId="777037" WordIndex="13" WordText="that" />
+        <Word WordId="777038" WordIndex="14" WordText="are" />
+        <Word WordId="777039" WordIndex="15" WordText="sanctified">
+          <StrongsId>8707</StrongsId>
+        </Word>
+        <Word WordId="777040" WordIndex="16" WordText="by">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777041" WordIndex="17" WordText="God">
+          <StrongsId>10630</StrongsId>
+        </Word>
+        <Word WordId="777042" WordIndex="18" WordText="the" />
+        <Word WordId="777043" WordIndex="19" WordText="Father,">
+          <StrongsId>12144</StrongsId>
+        </Word>
+        <Word WordId="777044" WordIndex="20" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777045" WordIndex="21" WordText="preserved">
+          <StrongsId>13265</StrongsId>
+        </Word>
+        <Word WordId="777046" WordIndex="22" WordText="in">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777047" WordIndex="23" WordText="Jesus">
+          <StrongsId>10710</StrongsId>
+        </Word>
+        <Word WordId="777048" WordIndex="24" WordText="Christ,">
+          <StrongsId>13729</StrongsId>
+        </Word>
+        <Word WordId="777049" WordIndex="25" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777050" WordIndex="26" WordText="called:">
+          <StrongsId>11105</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30674" VerseNumber="2">
+      <VerseVersion VerseId="30674" VersionId="1">
+        <Word WordId="777051" WordIndex="1" WordText="Mercy">
+          <StrongsId>10145</StrongsId>
+        </Word>
+        <Word WordId="777052" WordIndex="2" WordText="unto" />
+        <Word WordId="777053" WordIndex="3" WordText="you,">
+          <StrongsId>13395</StrongsId>
+        </Word>
+        <Word WordId="777054" WordIndex="4" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777055" WordIndex="5" WordText="peace,">
+          <StrongsId>10034</StrongsId>
+        </Word>
+        <Word WordId="777056" WordIndex="6" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777057" WordIndex="7" WordText="love,">
+          <StrongsId>8696</StrongsId>
+        </Word>
+        <Word WordId="777058" WordIndex="8" WordText="be" />
+        <Word WordId="777059" WordIndex="9" WordText="multiplied.">
+          <StrongsId>12311</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30675" VerseNumber="3">
+      <VerseVersion VerseId="30675" VersionId="1">
+        <Word WordId="777060" WordIndex="1" WordText="Beloved,">
+          <StrongsId>8697</StrongsId>
+        </Word>
+        <Word WordId="777061" WordIndex="2" WordText="when" />
+        <Word WordId="777062" WordIndex="3" WordText="I" />
+        <Word WordId="777063" WordIndex="4" WordText="gave">
+          <StrongsId>12342</StrongsId>
+        </Word>
+        <Word WordId="777064" WordIndex="5" WordText="all">
+          <StrongsId>12138</StrongsId>
+        </Word>
+        <Word WordId="777065" WordIndex="6" WordText="diligence">
+          <StrongsId>12892</StrongsId>
+        </Word>
+        <Word WordId="777066" WordIndex="7" WordText="to" />
+        <Word WordId="777067" WordIndex="8" WordText="write">
+          <StrongsId>9741</StrongsId>
+        </Word>
+        <Word WordId="777068" WordIndex="9" WordText="unto" />
+        <Word WordId="777069" WordIndex="10" WordText="you">
+          <StrongsId>13395</StrongsId>
+        </Word>
+        <Word WordId="777070" WordIndex="11" WordText="of">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777071" WordIndex="12" WordText="the" />
+        <Word WordId="777072" WordIndex="13" WordText="common">
+          <StrongsId>11122</StrongsId>
+        </Word>
+        <Word WordId="777073" WordIndex="14" WordText="salvation,">
+          <StrongsId>13173</StrongsId>
+        </Word>
+        <Word WordId="777074" WordIndex="15" WordText="it" />
+        <Word WordId="777075" WordIndex="16" WordText="was">
+          <StrongsId>10539</StrongsId>
+        </Word>
+        <Word WordId="777076" WordIndex="17" WordText="needful">
+          <StrongsId>8953</StrongsId>
+        </Word>
+        <Word WordId="777077" WordIndex="18" WordText="for">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777078" WordIndex="19" WordText="me">
+          <StrongsId>10539</StrongsId>
+        </Word>
+        <Word WordId="777079" WordIndex="20" WordText="to" />
+        <Word WordId="777080" WordIndex="21" WordText="write">
+          <StrongsId>9741</StrongsId>
+        </Word>
+        <Word WordId="777081" WordIndex="22" WordText="unto" />
+        <Word WordId="777082" WordIndex="23" WordText="you,">
+          <StrongsId>13395</StrongsId>
+        </Word>
+        <Word WordId="777083" WordIndex="24" WordText="and" />
+        <Word WordId="777084" WordIndex="25" WordText="exhort">
+          <StrongsId>12052</StrongsId>
+        </Word>
+        <Word WordId="777085" WordIndex="26" WordText="you">
+          <StrongsId>13395</StrongsId>
+        </Word>
+        <Word WordId="777086" WordIndex="27" WordText="that" />
+        <Word WordId="777087" WordIndex="28" WordText="ye">
+          <StrongsId>13395</StrongsId>
+        </Word>
+        <Word WordId="777088" WordIndex="29" WordText="should" />
+        <Word WordId="777089" WordIndex="30" WordText="earnestly">
+          <StrongsId>10294</StrongsId>
+        </Word>
+        <Word WordId="777090" WordIndex="31" WordText="contend">
+          <StrongsId>10294</StrongsId>
+        </Word>
+        <Word WordId="777091" WordIndex="32" WordText="for" />
+        <Word WordId="777092" WordIndex="33" WordText="the" />
+        <Word WordId="777093" WordIndex="34" WordText="faith">
+          <StrongsId>12284</StrongsId>
+        </Word>
+        <Word WordId="777094" WordIndex="35" WordText="which">
+          <StrongsId>11771</StrongsId>
+        </Word>
+        <Word WordId="777095" WordIndex="36" WordText="was" />
+        <Word WordId="777096" WordIndex="37" WordText="once">
+          <StrongsId>9165</StrongsId>
+        </Word>
+        <Word WordId="777097" WordIndex="38" WordText="delivered">
+          <StrongsId>12042</StrongsId>
+        </Word>
+        <Word WordId="777098" WordIndex="39" WordText="unto" />
+        <Word WordId="777099" WordIndex="40" WordText="the" />
+        <Word WordId="777100" WordIndex="41" WordText="saints.">
+          <StrongsId>8710</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30676" VerseNumber="4">
+      <VerseVersion VerseId="30676" VersionId="1">
+        <Word WordId="777101" WordIndex="1" WordText="For">
+          <StrongsId>9693</StrongsId>
+        </Word>
+        <Word WordId="777102" WordIndex="2" WordText="there" />
+        <Word WordId="777103" WordIndex="3" WordText="are" />
+        <Word WordId="777104" WordIndex="4" WordText="certain">
+          <StrongsId>13282</StrongsId>
+        </Word>
+        <Word WordId="777105" WordIndex="5" WordText="men">
+          <StrongsId>9079</StrongsId>
+        </Word>
+        <Word WordId="777106" WordIndex="6" WordText="crept" />
+        <Word WordId="777107" WordIndex="7" WordText="in">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777108" WordIndex="8" WordText="unawares,">
+          <StrongsId>12103</StrongsId>
+        </Word>
+        <Word WordId="777109" WordIndex="9" WordText="who">
+          <StrongsId>11771</StrongsId>
+        </Word>
+        <Word WordId="777110" WordIndex="10" WordText="were" />
+        <Word WordId="777111" WordIndex="11" WordText="before">
+          <StrongsId>12452</StrongsId>
+        </Word>
+        <Word WordId="777112" WordIndex="12" WordText="of">
+          <StrongsId>12001</StrongsId>
+        </Word>
+        <Word WordId="777113" WordIndex="13" WordText="old">
+          <StrongsId>12001</StrongsId>
+        </Word>
+        <Word WordId="777114" WordIndex="14" WordText="ordained">
+          <StrongsId>12452</StrongsId>
+        </Word>
+        <Word WordId="777115" WordIndex="15" WordText="to">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777116" WordIndex="16" WordText="this">
+          <StrongsId>13306</StrongsId>
+        </Word>
+        <Word WordId="777117" WordIndex="17" WordText="condemnation,">
+          <StrongsId>11200</StrongsId>
+        </Word>
+        <Word WordId="777118" WordIndex="18" WordText="ungodly">
+          <StrongsId>9400</StrongsId>
+        </Word>
+        <Word WordId="777119" WordIndex="19" WordText="men,">
+          <StrongsId>9400</StrongsId>
+        </Word>
+        <Word WordId="777120" WordIndex="20" WordText="turning">
+          <StrongsId>11529</StrongsId>
+        </Word>
+        <Word WordId="777121" WordIndex="21" WordText="the" />
+        <Word WordId="777122" WordIndex="22" WordText="grace">
+          <StrongsId>13667</StrongsId>
+        </Word>
+        <Word WordId="777123" WordIndex="23" WordText="of" />
+        <Word WordId="777124" WordIndex="24" WordText="our">
+          <StrongsId>10586</StrongsId>
+        </Word>
+        <Word WordId="777125" WordIndex="25" WordText="God">
+          <StrongsId>10630</StrongsId>
+        </Word>
+        <Word WordId="777126" WordIndex="26" WordText="into">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777127" WordIndex="27" WordText="lasciviousness,">
+          <StrongsId>9401</StrongsId>
+        </Word>
+        <Word WordId="777128" WordIndex="28" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777129" WordIndex="29" WordText="denying">
+          <StrongsId>9355</StrongsId>
+        </Word>
+        <Word WordId="777130" WordIndex="30" WordText="the" />
+        <Word WordId="777131" WordIndex="31" WordText="only">
+          <StrongsId>11624</StrongsId>
+        </Word>
+        <Word WordId="777132" WordIndex="32" WordText="Lord">
+          <StrongsId>9809</StrongsId>
+        </Word>
+        <Word WordId="777133" WordIndex="33" WordText="God,">
+          <StrongsId>10630</StrongsId>
+        </Word>
+        <Word WordId="777134" WordIndex="34" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777135" WordIndex="35" WordText="our">
+          <StrongsId>10586</StrongsId>
+        </Word>
+        <Word WordId="777136" WordIndex="36" WordText="Lord">
+          <StrongsId>11245</StrongsId>
+        </Word>
+        <Word WordId="777137" WordIndex="37" WordText="Jesus">
+          <StrongsId>10710</StrongsId>
+        </Word>
+        <Word WordId="777138" WordIndex="38" WordText="Christ.">
+          <StrongsId>13729</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30677" VerseNumber="5">
+      <VerseVersion VerseId="30677" VersionId="1">
+        <Word WordId="777139" WordIndex="1" WordText="I" />
+        <Word WordId="777140" WordIndex="2" WordText="will">
+          <StrongsId>9648</StrongsId>
+        </Word>
+        <Word WordId="777141" WordIndex="3" WordText="therefore">
+          <StrongsId>13306</StrongsId>
+        </Word>
+        <Word WordId="777142" WordIndex="4" WordText="put">
+          <StrongsId>13461</StrongsId>
+        </Word>
+        <Word WordId="777143" WordIndex="5" WordText="you">
+          <StrongsId>13391</StrongsId>
+        </Word>
+        <Word WordId="777144" WordIndex="6" WordText="in" />
+        <Word WordId="777145" WordIndex="7" WordText="remembrance,">
+          <StrongsId>13461</StrongsId>
+        </Word>
+        <Word WordId="777146" WordIndex="8" WordText="though" />
+        <Word WordId="777147" WordIndex="9" WordText="ye">
+          <StrongsId>13391</StrongsId>
+        </Word>
+        <Word WordId="777148" WordIndex="10" WordText="once">
+          <StrongsId>9165</StrongsId>
+        </Word>
+        <Word WordId="777149" WordIndex="11" WordText="knew">
+          <StrongsId>10016</StrongsId>
+        </Word>
+        <Word WordId="777150" WordIndex="12" WordText="this,">
+          <StrongsId>13306</StrongsId>
+        </Word>
+        <Word WordId="777151" WordIndex="13" WordText="how">
+          <StrongsId>11937</StrongsId>
+        </Word>
+        <Word WordId="777152" WordIndex="14" WordText="that">
+          <StrongsId>11937</StrongsId>
+        </Word>
+        <Word WordId="777153" WordIndex="15" WordText="the" />
+        <Word WordId="777154" WordIndex="16" WordText="Lord,">
+          <StrongsId>11245</StrongsId>
+        </Word>
+        <Word WordId="777155" WordIndex="17" WordText="having" />
+        <Word WordId="777156" WordIndex="18" WordText="saved">
+          <StrongsId>13164</StrongsId>
+        </Word>
+        <Word WordId="777157" WordIndex="19" WordText="the" />
+        <Word WordId="777158" WordIndex="20" WordText="people">
+          <StrongsId>11275</StrongsId>
+        </Word>
+        <Word WordId="777159" WordIndex="21" WordText="out">
+          <StrongsId>10050</StrongsId>
+        </Word>
+        <Word WordId="777160" WordIndex="22" WordText="of">
+          <StrongsId>10050</StrongsId>
+        </Word>
+        <Word WordId="777161" WordIndex="23" WordText="the" />
+        <Word WordId="777162" WordIndex="24" WordText="land">
+          <StrongsId>9718</StrongsId>
+        </Word>
+        <Word WordId="777163" WordIndex="25" WordText="of">
+          <StrongsId>10050</StrongsId>
+        </Word>
+        <Word WordId="777164" WordIndex="26" WordText="Egypt,">
+          <StrongsId>8789</StrongsId>
+        </Word>
+        <Word WordId="777165" WordIndex="27" WordText="afterward">
+          <StrongsId>9813</StrongsId>
+        </Word>
+        <Word WordId="777166" WordIndex="28" WordText="destroyed">
+          <StrongsId>9257</StrongsId>
+        </Word>
+        <Word WordId="777167" WordIndex="29" WordText="them" />
+        <Word WordId="777168" WordIndex="30" WordText="that" />
+        <Word WordId="777169" WordIndex="31" WordText="believed">
+          <StrongsId>12282</StrongsId>
+        </Word>
+        <Word WordId="777170" WordIndex="32" WordText="not.">
+          <StrongsId>11544</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30678" VerseNumber="6">
+      <VerseVersion VerseId="30678" VersionId="1">
+        <Word WordId="777171" WordIndex="1" WordText="And">
+          <StrongsId>13219</StrongsId>
+        </Word>
+        <Word WordId="777172" WordIndex="2" WordText="the" />
+        <Word WordId="777173" WordIndex="3" WordText="angels">
+          <StrongsId>8702</StrongsId>
+        </Word>
+        <Word WordId="777174" WordIndex="4" WordText="which">
+          <StrongsId>11771</StrongsId>
+        </Word>
+        <Word WordId="777175" WordIndex="5" WordText="kept">
+          <StrongsId>13265</StrongsId>
+        </Word>
+        <Word WordId="777176" WordIndex="6" WordText="not">
+          <StrongsId>11544</StrongsId>
+        </Word>
+        <Word WordId="777177" WordIndex="7" WordText="their" />
+        <Word WordId="777178" WordIndex="8" WordText="first">
+          <StrongsId>9381</StrongsId>
+        </Word>
+        <Word WordId="777179" WordIndex="9" WordText="estate,">
+          <StrongsId>9381</StrongsId>
+        </Word>
+        <Word WordId="777180" WordIndex="10" WordText="but">
+          <StrongsId>8873</StrongsId>
+        </Word>
+        <Word WordId="777181" WordIndex="11" WordText="left">
+          <StrongsId>9255</StrongsId>
+        </Word>
+        <Word WordId="777182" WordIndex="12" WordText="their" />
+        <Word WordId="777183" WordIndex="13" WordText="own" />
+        <Word WordId="777184" WordIndex="14" WordText="habitation,">
+          <StrongsId>11796</StrongsId>
+        </Word>
+        <Word WordId="777185" WordIndex="15" WordText="he" />
+        <Word WordId="777186" WordIndex="16" WordText="hath" />
+        <Word WordId="777187" WordIndex="17" WordText="reserved">
+          <StrongsId>13265</StrongsId>
+        </Word>
+        <Word WordId="777188" WordIndex="18" WordText="in" />
+        <Word WordId="777189" WordIndex="19" WordText="everlasting">
+          <StrongsId>8790</StrongsId>
+        </Word>
+        <Word WordId="777190" WordIndex="20" WordText="chains">
+          <StrongsId>9805</StrongsId>
+        </Word>
+        <Word WordId="777191" WordIndex="21" WordText="under">
+          <StrongsId>13441</StrongsId>
+        </Word>
+        <Word WordId="777192" WordIndex="22" WordText="darkness">
+          <StrongsId>10555</StrongsId>
+        </Word>
+        <Word WordId="777193" WordIndex="23" WordText="unto">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777194" WordIndex="24" WordText="the" />
+        <Word WordId="777195" WordIndex="25" WordText="judgment">
+          <StrongsId>11203</StrongsId>
+        </Word>
+        <Word WordId="777196" WordIndex="26" WordText="of">
+          <StrongsId>13441</StrongsId>
+        </Word>
+        <Word WordId="777197" WordIndex="27" WordText="the" />
+        <Word WordId="777198" WordIndex="28" WordText="great">
+          <StrongsId>11456</StrongsId>
+        </Word>
+        <Word WordId="777199" WordIndex="29" WordText="day." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30679" VerseNumber="7">
+      <VerseVersion VerseId="30679" VersionId="1">
+        <Word WordId="777200" WordIndex="1" WordText="Even" />
+        <Word WordId="777201" WordIndex="2" WordText="as">
+          <StrongsId>13795</StrongsId>
+        </Word>
+        <Word WordId="777202" WordIndex="3" WordText="Sodom">
+          <StrongsId>12852</StrongsId>
+        </Word>
+        <Word WordId="777203" WordIndex="4" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777204" WordIndex="5" WordText="Gomorrha," />
+        <Word WordId="777205" WordIndex="6" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777206" WordIndex="7" WordText="the" />
+        <Word WordId="777207" WordIndex="8" WordText="cities">
+          <StrongsId>12354</StrongsId>
+        </Word>
+        <Word WordId="777208" WordIndex="9" WordText="about">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777209" WordIndex="10" WordText="them">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777210" WordIndex="11" WordText="in" />
+        <Word WordId="777211" WordIndex="12" WordText="like">
+          <StrongsId>11847</StrongsId>
+          <StrongsId>13307</StrongsId>
+        </Word>
+        <Word WordId="777212" WordIndex="13" WordText="manner,">
+          <StrongsId>13340</StrongsId>
+        </Word>
+        <Word WordId="777213" WordIndex="14" WordText="giving" />
+        <Word WordId="777214" WordIndex="15" WordText="themselves" />
+        <Word WordId="777215" WordIndex="16" WordText="over" />
+        <Word WordId="777216" WordIndex="17" WordText="to" />
+        <Word WordId="777217" WordIndex="18" WordText="fornication,">
+          <StrongsId>10104</StrongsId>
+        </Word>
+        <Word WordId="777218" WordIndex="19" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777219" WordIndex="20" WordText="going">
+          <StrongsId>9200</StrongsId>
+        </Word>
+        <Word WordId="777220" WordIndex="21" WordText="after">
+          <StrongsId>11877</StrongsId>
+        </Word>
+        <Word WordId="777221" WordIndex="22" WordText="strange" />
+        <Word WordId="777222" WordIndex="23" WordText="flesh,">
+          <StrongsId>12743</StrongsId>
+        </Word>
+        <Word WordId="777223" WordIndex="24" WordText="are" />
+        <Word WordId="777224" WordIndex="25" WordText="set" />
+        <Word WordId="777225" WordIndex="26" WordText="forth" />
+        <Word WordId="777226" WordIndex="27" WordText="for">
+          <StrongsId>12194</StrongsId>
+          <StrongsId>12477</StrongsId>
+        </Word>
+        <Word WordId="777227" WordIndex="28" WordText="an" />
+        <Word WordId="777228" WordIndex="29" WordText="example,">
+          <StrongsId>9775</StrongsId>
+        </Word>
+        <Word WordId="777229" WordIndex="30" WordText="suffering">
+          <StrongsId>13436</StrongsId>
+        </Word>
+        <Word WordId="777230" WordIndex="31" WordText="the" />
+        <Word WordId="777231" WordIndex="32" WordText="vengeance" />
+        <Word WordId="777232" WordIndex="33" WordText="of">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777233" WordIndex="34" WordText="eternal">
+          <StrongsId>8824</StrongsId>
+        </Word>
+        <Word WordId="777234" WordIndex="35" WordText="fire.">
+          <StrongsId>12624</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30680" VerseNumber="8">
+      <VerseVersion VerseId="30680" VersionId="1">
+        <Word WordId="777235" WordIndex="1" WordText="Likewise">
+          <StrongsId>11488</StrongsId>
+          <StrongsId>11851</StrongsId>
+        </Word>
+        <Word WordId="777236" WordIndex="2" WordText="also">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777237" WordIndex="3" WordText="these">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777238" WordIndex="4" WordText="filthy">
+          <StrongsId>10248</StrongsId>
+        </Word>
+        <Word WordId="777239" WordIndex="5" WordText="dreamers">
+          <StrongsId>10248</StrongsId>
+        </Word>
+        <Word WordId="777240" WordIndex="6" WordText="defile">
+          <StrongsId>11575</StrongsId>
+        </Word>
+        <Word WordId="777241" WordIndex="7" WordText="the">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777242" WordIndex="8" WordText="flesh,">
+          <StrongsId>11486</StrongsId>
+          <StrongsId>12743</StrongsId>
+        </Word>
+        <Word WordId="777243" WordIndex="9" WordText="despise">
+          <StrongsId>8782</StrongsId>
+        </Word>
+        <Word WordId="777244" WordIndex="10" WordText="dominion,">
+          <StrongsId>11246</StrongsId>
+        </Word>
+        <Word WordId="777245" WordIndex="11" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777246" WordIndex="12" WordText="speak">
+          <StrongsId>9622</StrongsId>
+        </Word>
+        <Word WordId="777247" WordIndex="13" WordText="evil">
+          <StrongsId>9622</StrongsId>
+        </Word>
+        <Word WordId="777248" WordIndex="14" WordText="of">
+          <StrongsId>9622</StrongsId>
+        </Word>
+        <Word WordId="777249" WordIndex="15" WordText="dignities.">
+          <StrongsId>9939</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30681" VerseNumber="9">
+      <VerseVersion VerseId="30681" VersionId="1">
+        <Word WordId="777250" WordIndex="1" WordText="Yet">
+          <StrongsId>8873</StrongsId>
+        </Word>
+        <Word WordId="777251" WordIndex="2" WordText="Michael">
+          <StrongsId>11596</StrongsId>
+        </Word>
+        <Word WordId="777252" WordIndex="3" WordText="the" />
+        <Word WordId="777253" WordIndex="4" WordText="archangel,">
+          <StrongsId>9378</StrongsId>
+        </Word>
+        <Word WordId="777254" WordIndex="5" WordText="when">
+          <StrongsId>11936</StrongsId>
+        </Word>
+        <Word WordId="777255" WordIndex="6" WordText="contending" />
+        <Word WordId="777256" WordIndex="7" WordText="with" />
+        <Word WordId="777257" WordIndex="8" WordText="the" />
+        <Word WordId="777258" WordIndex="9" WordText="devil">
+          <StrongsId>9830</StrongsId>
+        </Word>
+        <Word WordId="777259" WordIndex="10" WordText="he" />
+        <Word WordId="777260" WordIndex="11" WordText="disputed">
+          <StrongsId>9848</StrongsId>
+        </Word>
+        <Word WordId="777261" WordIndex="12" WordText="about">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777262" WordIndex="13" WordText="the" />
+        <Word WordId="777263" WordIndex="14" WordText="body">
+          <StrongsId>13165</StrongsId>
+        </Word>
+        <Word WordId="777264" WordIndex="15" WordText="of">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777265" WordIndex="16" WordText="Moses,">
+          <StrongsId>11658</StrongsId>
+        </Word>
+        <Word WordId="777266" WordIndex="17" WordText="durst">
+          <StrongsId>13293</StrongsId>
+        </Word>
+        <Word WordId="777267" WordIndex="18" WordText="not">
+          <StrongsId>11939</StrongsId>
+        </Word>
+        <Word WordId="777268" WordIndex="19" WordText="bring">
+          <StrongsId>10410</StrongsId>
+        </Word>
+        <Word WordId="777269" WordIndex="20" WordText="against" />
+        <Word WordId="777270" WordIndex="21" WordText="him">
+          <StrongsId>10410</StrongsId>
+        </Word>
+        <Word WordId="777271" WordIndex="22" WordText="a" />
+        <Word WordId="777272" WordIndex="23" WordText="railing">
+          <StrongsId>9623</StrongsId>
+        </Word>
+        <Word WordId="777273" WordIndex="24" WordText="accusation,">
+          <StrongsId>11203</StrongsId>
+        </Word>
+        <Word WordId="777274" WordIndex="25" WordText="but">
+          <StrongsId>8873</StrongsId>
+        </Word>
+        <Word WordId="777275" WordIndex="26" WordText="said,">
+          <StrongsId>10425</StrongsId>
+        </Word>
+        <Word WordId="777276" WordIndex="27" WordText="The" />
+        <Word WordId="777277" WordIndex="28" WordText="Lord">
+          <StrongsId>11245</StrongsId>
+        </Word>
+        <Word WordId="777278" WordIndex="29" WordText="rebuke">
+          <StrongsId>10401</StrongsId>
+        </Word>
+        <Word WordId="777279" WordIndex="30" WordText="thee.">
+          <StrongsId>12853</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30682" VerseNumber="10">
+      <VerseVersion VerseId="30682" VersionId="1">
+        <Word WordId="777280" WordIndex="1" WordText="But" />
+        <Word WordId="777281" WordIndex="2" WordText="these">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777282" WordIndex="3" WordText="speak">
+          <StrongsId>9622</StrongsId>
+        </Word>
+        <Word WordId="777283" WordIndex="4" WordText="evil">
+          <StrongsId>9622</StrongsId>
+        </Word>
+        <Word WordId="777284" WordIndex="5" WordText="of">
+          <StrongsId>9622</StrongsId>
+        </Word>
+        <Word WordId="777285" WordIndex="6" WordText="those" />
+        <Word WordId="777286" WordIndex="7" WordText="things" />
+        <Word WordId="777287" WordIndex="8" WordText="which">
+          <StrongsId>11486</StrongsId>
+          <StrongsId>11771</StrongsId>
+        </Word>
+        <Word WordId="777288" WordIndex="9" WordText="they">
+          <StrongsId>11928</StrongsId>
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777289" WordIndex="10" WordText="know">
+          <StrongsId>10016</StrongsId>
+        </Word>
+        <Word WordId="777290" WordIndex="11" WordText="not:">
+          <StrongsId>11939</StrongsId>
+        </Word>
+        <Word WordId="777291" WordIndex="12" WordText="but" />
+        <Word WordId="777292" WordIndex="13" WordText="what">
+          <StrongsId>11928</StrongsId>
+        </Word>
+        <Word WordId="777293" WordIndex="14" WordText="they">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777294" WordIndex="15" WordText="know">
+          <StrongsId>10385</StrongsId>
+        </Word>
+        <Word WordId="777295" WordIndex="16" WordText="naturally,">
+          <StrongsId>13629</StrongsId>
+        </Word>
+        <Word WordId="777296" WordIndex="17" WordText="as">
+          <StrongsId>13795</StrongsId>
+        </Word>
+        <Word WordId="777297" WordIndex="18" WordText="brute">
+          <StrongsId>8885</StrongsId>
+        </Word>
+        <Word WordId="777298" WordIndex="19" WordText="beasts,">
+          <StrongsId>10560</StrongsId>
+        </Word>
+        <Word WordId="777299" WordIndex="20" WordText="in">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777300" WordIndex="21" WordText="those" />
+        <Word WordId="777301" WordIndex="22" WordText="things">
+          <StrongsId>13307</StrongsId>
+        </Word>
+        <Word WordId="777302" WordIndex="23" WordText="they">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777303" WordIndex="24" WordText="corrupt">
+          <StrongsId>13533</StrongsId>
+        </Word>
+        <Word WordId="777304" WordIndex="25" WordText="themselves.">
+          <StrongsId>13533</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30683" VerseNumber="11">
+      <VerseVersion VerseId="30683" VersionId="1">
+        <Word WordId="777305" WordIndex="1" WordText="Woe">
+          <StrongsId>11942</StrongsId>
+        </Word>
+        <Word WordId="777306" WordIndex="2" WordText="unto" />
+        <Word WordId="777307" WordIndex="3" WordText="them!">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777308" WordIndex="4" WordText="for">
+          <StrongsId>11937</StrongsId>
+        </Word>
+        <Word WordId="777309" WordIndex="5" WordText="they" />
+        <Word WordId="777310" WordIndex="6" WordText="have" />
+        <Word WordId="777311" WordIndex="7" WordText="gone">
+          <StrongsId>12380</StrongsId>
+        </Word>
+        <Word WordId="777312" WordIndex="8" WordText="in" />
+        <Word WordId="777313" WordIndex="9" WordText="the" />
+        <Word WordId="777314" WordIndex="10" WordText="way">
+          <StrongsId>11781</StrongsId>
+        </Word>
+        <Word WordId="777315" WordIndex="11" WordText="of" />
+        <Word WordId="777316" WordIndex="12" WordText="Cain,">
+          <StrongsId>10819</StrongsId>
+        </Word>
+        <Word WordId="777317" WordIndex="13" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777318" WordIndex="14" WordText="ran" />
+        <Word WordId="777319" WordIndex="15" WordText="greedily" />
+        <Word WordId="777320" WordIndex="16" WordText="after">
+          <StrongsId>10123</StrongsId>
+        </Word>
+        <Word WordId="777321" WordIndex="17" WordText="the" />
+        <Word WordId="777322" WordIndex="18" WordText="error">
+          <StrongsId>12288</StrongsId>
+        </Word>
+        <Word WordId="777323" WordIndex="19" WordText="of" />
+        <Word WordId="777324" WordIndex="20" WordText="Balaam">
+          <StrongsId>9538</StrongsId>
+        </Word>
+        <Word WordId="777325" WordIndex="21" WordText="for">
+          <StrongsId>11937</StrongsId>
+        </Word>
+        <Word WordId="777326" WordIndex="22" WordText="reward,">
+          <StrongsId>11591</StrongsId>
+        </Word>
+        <Word WordId="777327" WordIndex="23" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777328" WordIndex="24" WordText="perished">
+          <StrongsId>9257</StrongsId>
+        </Word>
+        <Word WordId="777329" WordIndex="25" WordText="in" />
+        <Word WordId="777330" WordIndex="26" WordText="the" />
+        <Word WordId="777331" WordIndex="27" WordText="gainsaying">
+          <StrongsId>9120</StrongsId>
+        </Word>
+        <Word WordId="777332" WordIndex="28" WordText="of" />
+        <Word WordId="777333" WordIndex="29" WordText="Core.">
+          <StrongsId>11162</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30684" VerseNumber="12">
+      <VerseVersion VerseId="30684" VersionId="1">
+        <Word WordId="777334" WordIndex="1" WordText="These">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777335" WordIndex="2" WordText="are">
+          <StrongsId>10041</StrongsId>
+        </Word>
+        <Word WordId="777336" WordIndex="3" WordText="spots">
+          <StrongsId>12876</StrongsId>
+        </Word>
+        <Word WordId="777337" WordIndex="4" WordText="in">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777338" WordIndex="5" WordText="your">
+          <StrongsId>13398</StrongsId>
+        </Word>
+        <Word WordId="777339" WordIndex="6" WordText="feasts" />
+        <Word WordId="777340" WordIndex="7" WordText="of">
+          <StrongsId>13441</StrongsId>
+        </Word>
+        <Word WordId="777341" WordIndex="8" WordText="charity,">
+          <StrongsId>8696</StrongsId>
+        </Word>
+        <Word WordId="777342" WordIndex="9" WordText="when" />
+        <Word WordId="777343" WordIndex="10" WordText="they">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777344" WordIndex="11" WordText="feast">
+          <StrongsId>13092</StrongsId>
+        </Word>
+        <Word WordId="777345" WordIndex="12" WordText="with" />
+        <Word WordId="777346" WordIndex="13" WordText="you,">
+          <StrongsId>13395</StrongsId>
+        </Word>
+        <Word WordId="777347" WordIndex="14" WordText="feeding">
+          <StrongsId>12347</StrongsId>
+        </Word>
+        <Word WordId="777348" WordIndex="15" WordText="themselves" />
+        <Word WordId="777349" WordIndex="16" WordText="without">
+          <StrongsId>9505</StrongsId>
+        </Word>
+        <Word WordId="777350" WordIndex="17" WordText="fear:">
+          <StrongsId>9505</StrongsId>
+        </Word>
+        <Word WordId="777351" WordIndex="18" WordText="clouds">
+          <StrongsId>11690</StrongsId>
+        </Word>
+        <Word WordId="777352" WordIndex="19" WordText="they">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777353" WordIndex="20" WordText="are">
+          <StrongsId>10041</StrongsId>
+        </Word>
+        <Word WordId="777354" WordIndex="21" WordText="without">
+          <StrongsId>9139</StrongsId>
+        </Word>
+        <Word WordId="777355" WordIndex="22" WordText="water,">
+          <StrongsId>9139</StrongsId>
+        </Word>
+        <Word WordId="777356" WordIndex="23" WordText="carried" />
+        <Word WordId="777357" WordIndex="24" WordText="about">
+          <StrongsId>12246</StrongsId>
+        </Word>
+        <Word WordId="777358" WordIndex="25" WordText="of">
+          <StrongsId>13441</StrongsId>
+        </Word>
+        <Word WordId="777359" WordIndex="26" WordText="winds;">
+          <StrongsId>9052</StrongsId>
+        </Word>
+        <Word WordId="777360" WordIndex="27" WordText="trees">
+          <StrongsId>9795</StrongsId>
+        </Word>
+        <Word WordId="777361" WordIndex="28" WordText="whose" />
+        <Word WordId="777362" WordIndex="29" WordText="fruit" />
+        <Word WordId="777363" WordIndex="30" WordText="withereth,">
+          <StrongsId>13534</StrongsId>
+        </Word>
+        <Word WordId="777364" WordIndex="31" WordText="without" />
+        <Word WordId="777365" WordIndex="32" WordText="fruit," />
+        <Word WordId="777366" WordIndex="33" WordText="twice" />
+        <Word WordId="777367" WordIndex="34" WordText="dead,">
+          <StrongsId>9234</StrongsId>
+        </Word>
+        <Word WordId="777368" WordIndex="35" WordText="plucked" />
+        <Word WordId="777369" WordIndex="36" WordText="up" />
+        <Word WordId="777370" WordIndex="37" WordText="by" />
+        <Word WordId="777371" WordIndex="38" WordText="the">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777372" WordIndex="39" WordText="roots;">
+          <StrongsId>10106</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30685" VerseNumber="13">
+      <VerseVersion VerseId="30685" VersionId="1">
+        <Word WordId="777373" WordIndex="1" WordText="Raging">
+          <StrongsId>8736</StrongsId>
+        </Word>
+        <Word WordId="777374" WordIndex="2" WordText="waves">
+          <StrongsId>11232</StrongsId>
+        </Word>
+        <Word WordId="777375" WordIndex="3" WordText="of" />
+        <Word WordId="777376" WordIndex="4" WordText="the" />
+        <Word WordId="777377" WordIndex="5" WordText="sea,">
+          <StrongsId>10605</StrongsId>
+        </Word>
+        <Word WordId="777378" WordIndex="6" WordText="foaming" />
+        <Word WordId="777379" WordIndex="7" WordText="out">
+          <StrongsId>10311</StrongsId>
+        </Word>
+        <Word WordId="777380" WordIndex="8" WordText="their" />
+        <Word WordId="777381" WordIndex="9" WordText="own" />
+        <Word WordId="777382" WordIndex="10" WordText="shame;">
+          <StrongsId>8812</StrongsId>
+        </Word>
+        <Word WordId="777383" WordIndex="11" WordText="wandering">
+          <StrongsId>12289</StrongsId>
+        </Word>
+        <Word WordId="777384" WordIndex="12" WordText="stars,">
+          <StrongsId>9427</StrongsId>
+        </Word>
+        <Word WordId="777385" WordIndex="13" WordText="to">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777386" WordIndex="14" WordText="whom">
+          <StrongsId>11922</StrongsId>
+        </Word>
+        <Word WordId="777387" WordIndex="15" WordText="is" />
+        <Word WordId="777388" WordIndex="16" WordText="reserved">
+          <StrongsId>13265</StrongsId>
+        </Word>
+        <Word WordId="777389" WordIndex="17" WordText="the" />
+        <Word WordId="777390" WordIndex="18" WordText="blackness">
+          <StrongsId>10555</StrongsId>
+        </Word>
+        <Word WordId="777391" WordIndex="19" WordText="of" />
+        <Word WordId="777392" WordIndex="20" WordText="darkness">
+          <StrongsId>12837</StrongsId>
+        </Word>
+        <Word WordId="777393" WordIndex="21" WordText="for">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777394" WordIndex="22" WordText="ever.">
+          <StrongsId>8823</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30686" VerseNumber="14">
+      <VerseVersion VerseId="30686" VersionId="1">
+        <Word WordId="777395" WordIndex="1" WordText="And">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777396" WordIndex="2" WordText="Enoch" />
+        <Word WordId="777397" WordIndex="3" WordText="also,">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777398" WordIndex="4" WordText="the" />
+        <Word WordId="777399" WordIndex="5" WordText="seventh" />
+        <Word WordId="777400" WordIndex="6" WordText="from">
+          <StrongsId>9210</StrongsId>
+        </Word>
+        <Word WordId="777401" WordIndex="7" WordText="Adam,">
+          <StrongsId>8746</StrongsId>
+        </Word>
+        <Word WordId="777402" WordIndex="8" WordText="prophesied">
+          <StrongsId>12577</StrongsId>
+        </Word>
+        <Word WordId="777403" WordIndex="9" WordText="of">
+          <StrongsId>9210</StrongsId>
+        </Word>
+        <Word WordId="777404" WordIndex="10" WordText="these,">
+          <StrongsId>13307</StrongsId>
+        </Word>
+        <Word WordId="777405" WordIndex="11" WordText="saying,">
+          <StrongsId>11287</StrongsId>
+        </Word>
+        <Word WordId="777406" WordIndex="12" WordText="Behold," />
+        <Word WordId="777407" WordIndex="13" WordText="the" />
+        <Word WordId="777408" WordIndex="14" WordText="Lord">
+          <StrongsId>11245</StrongsId>
+        </Word>
+        <Word WordId="777409" WordIndex="15" WordText="cometh">
+          <StrongsId>10449</StrongsId>
+        </Word>
+        <Word WordId="777410" WordIndex="16" WordText="with">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777411" WordIndex="17" WordText="ten">
+          <StrongsId>11644</StrongsId>
+        </Word>
+        <Word WordId="777412" WordIndex="18" WordText="thousands">
+          <StrongsId>11644</StrongsId>
+        </Word>
+        <Word WordId="777413" WordIndex="19" WordText="of">
+          <StrongsId>9210</StrongsId>
+        </Word>
+        <Word WordId="777414" WordIndex="20" WordText="his">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777415" WordIndex="21" WordText="saints,">
+          <StrongsId>8710</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30687" VerseNumber="15">
+      <VerseVersion VerseId="30687" VersionId="1">
+        <Word WordId="777416" WordIndex="1" WordText="To" />
+        <Word WordId="777417" WordIndex="2" WordText="execute">
+          <StrongsId>12342</StrongsId>
+        </Word>
+        <Word WordId="777418" WordIndex="3" WordText="judgment">
+          <StrongsId>11203</StrongsId>
+        </Word>
+        <Word WordId="777419" WordIndex="4" WordText="upon">
+          <StrongsId>10880</StrongsId>
+        </Word>
+        <Word WordId="777420" WordIndex="5" WordText="all,">
+          <StrongsId>12138</StrongsId>
+        </Word>
+        <Word WordId="777421" WordIndex="6" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777422" WordIndex="7" WordText="to" />
+        <Word WordId="777423" WordIndex="8" WordText="convince" />
+        <Word WordId="777424" WordIndex="9" WordText="all">
+          <StrongsId>12138</StrongsId>
+        </Word>
+        <Word WordId="777425" WordIndex="10" WordText="that">
+          <StrongsId>11922</StrongsId>
+        </Word>
+        <Word WordId="777426" WordIndex="11" WordText="are" />
+        <Word WordId="777427" WordIndex="12" WordText="ungodly">
+          <StrongsId>9400</StrongsId>
+        </Word>
+        <Word WordId="777428" WordIndex="13" WordText="among" />
+        <Word WordId="777429" WordIndex="14" WordText="them">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777430" WordIndex="15" WordText="of">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777431" WordIndex="16" WordText="all">
+          <StrongsId>12138</StrongsId>
+        </Word>
+        <Word WordId="777432" WordIndex="17" WordText="their">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777433" WordIndex="18" WordText="ungodly">
+          <StrongsId>9398</StrongsId>
+        </Word>
+        <Word WordId="777434" WordIndex="19" WordText="deeds">
+          <StrongsId>10429</StrongsId>
+        </Word>
+        <Word WordId="777435" WordIndex="20" WordText="which">
+          <StrongsId>11922</StrongsId>
+        </Word>
+        <Word WordId="777436" WordIndex="21" WordText="they" />
+        <Word WordId="777437" WordIndex="22" WordText="have" />
+        <Word WordId="777438" WordIndex="23" WordText="ungodly" />
+        <Word WordId="777439" WordIndex="24" WordText="committed,">
+          <StrongsId>9399</StrongsId>
+          <StrongsId>12342</StrongsId>
+        </Word>
+        <Word WordId="777440" WordIndex="25" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777441" WordIndex="26" WordText="of">
+          <StrongsId>12194</StrongsId>
+        </Word>
+        <Word WordId="777442" WordIndex="27" WordText="all">
+          <StrongsId>12138</StrongsId>
+        </Word>
+        <Word WordId="777443" WordIndex="28" WordText="their" />
+        <Word WordId="777444" WordIndex="29" WordText="hard">
+          <StrongsId>12824</StrongsId>
+        </Word>
+        <Word WordId="777445" WordIndex="30" WordText="speeches" />
+        <Word WordId="777446" WordIndex="31" WordText="which">
+          <StrongsId>11922</StrongsId>
+        </Word>
+        <Word WordId="777447" WordIndex="32" WordText="ungodly">
+          <StrongsId>9400</StrongsId>
+        </Word>
+        <Word WordId="777448" WordIndex="33" WordText="sinners">
+          <StrongsId>8903</StrongsId>
+        </Word>
+        <Word WordId="777449" WordIndex="34" WordText="have" />
+        <Word WordId="777450" WordIndex="35" WordText="spoken">
+          <StrongsId>11263</StrongsId>
+        </Word>
+        <Word WordId="777451" WordIndex="36" WordText="against">
+          <StrongsId>10880</StrongsId>
+        </Word>
+        <Word WordId="777452" WordIndex="37" WordText="him.">
+          <StrongsId>9481</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30688" VerseNumber="16">
+      <VerseVersion VerseId="30688" VersionId="1">
+        <Word WordId="777453" WordIndex="1" WordText="These">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777454" WordIndex="2" WordText="are">
+          <StrongsId>10041</StrongsId>
+        </Word>
+        <Word WordId="777455" WordIndex="3" WordText="murmurers,">
+          <StrongsId>9732</StrongsId>
+        </Word>
+        <Word WordId="777456" WordIndex="4" WordText="complainers,">
+          <StrongsId>11485</StrongsId>
+        </Word>
+        <Word WordId="777457" WordIndex="5" WordText="walking">
+          <StrongsId>12380</StrongsId>
+        </Word>
+        <Word WordId="777458" WordIndex="6" WordText="after">
+          <StrongsId>10880</StrongsId>
+        </Word>
+        <Word WordId="777459" WordIndex="7" WordText="their" />
+        <Word WordId="777460" WordIndex="8" WordText="own">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777461" WordIndex="9" WordText="lusts;">
+          <StrongsId>10347</StrongsId>
+        </Word>
+        <Word WordId="777462" WordIndex="10" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777463" WordIndex="11" WordText="their">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777464" WordIndex="12" WordText="mouth">
+          <StrongsId>12932</StrongsId>
+        </Word>
+        <Word WordId="777465" WordIndex="13" WordText="speaketh">
+          <StrongsId>11263</StrongsId>
+        </Word>
+        <Word WordId="777466" WordIndex="14" WordText="great">
+          <StrongsId>13428</StrongsId>
+        </Word>
+        <Word WordId="777467" WordIndex="15" WordText="swelling">
+          <StrongsId>13428</StrongsId>
+        </Word>
+        <Word WordId="777468" WordIndex="16" WordText="words," />
+        <Word WordId="777469" WordIndex="17" WordText="having" />
+        <Word WordId="777470" WordIndex="18" WordText="men's" />
+        <Word WordId="777471" WordIndex="19" WordText="persons">
+          <StrongsId>12565</StrongsId>
+        </Word>
+        <Word WordId="777472" WordIndex="20" WordText="in">
+          <StrongsId>10880</StrongsId>
+        </Word>
+        <Word WordId="777473" WordIndex="21" WordText="admiration" />
+        <Word WordId="777474" WordIndex="22" WordText="because">
+          <StrongsId>13666</StrongsId>
+        </Word>
+        <Word WordId="777475" WordIndex="23" WordText="of">
+          <StrongsId>13666</StrongsId>
+        </Word>
+        <Word WordId="777476" WordIndex="24" WordText="advantage.">
+          <StrongsId>13804</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30689" VerseNumber="17">
+      <VerseVersion VerseId="30689" VersionId="1">
+        <Word WordId="777477" WordIndex="1" WordText="But," />
+        <Word WordId="777478" WordIndex="2" WordText="beloved,">
+          <StrongsId>8697</StrongsId>
+        </Word>
+        <Word WordId="777479" WordIndex="3" WordText="remember">
+          <StrongsId>11598</StrongsId>
+        </Word>
+        <Word WordId="777480" WordIndex="4" WordText="ye">
+          <StrongsId>13392</StrongsId>
+        </Word>
+        <Word WordId="777481" WordIndex="5" WordText="the" />
+        <Word WordId="777482" WordIndex="6" WordText="words">
+          <StrongsId>12669</StrongsId>
+        </Word>
+        <Word WordId="777483" WordIndex="7" WordText="which">
+          <StrongsId>11771</StrongsId>
+        </Word>
+        <Word WordId="777484" WordIndex="8" WordText="were" />
+        <Word WordId="777485" WordIndex="9" WordText="spoken" />
+        <Word WordId="777486" WordIndex="10" WordText="before">
+          <StrongsId>12462</StrongsId>
+        </Word>
+        <Word WordId="777487" WordIndex="11" WordText="of">
+          <StrongsId>13441</StrongsId>
+        </Word>
+        <Word WordId="777488" WordIndex="12" WordText="the" />
+        <Word WordId="777489" WordIndex="13" WordText="apostles">
+          <StrongsId>9287</StrongsId>
+        </Word>
+        <Word WordId="777490" WordIndex="14" WordText="of">
+          <StrongsId>13441</StrongsId>
+        </Word>
+        <Word WordId="777491" WordIndex="15" WordText="our">
+          <StrongsId>10586</StrongsId>
+        </Word>
+        <Word WordId="777492" WordIndex="16" WordText="Lord">
+          <StrongsId>11245</StrongsId>
+        </Word>
+        <Word WordId="777493" WordIndex="17" WordText="Jesus">
+          <StrongsId>10710</StrongsId>
+        </Word>
+        <Word WordId="777494" WordIndex="18" WordText="Christ;">
+          <StrongsId>13729</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30690" VerseNumber="18">
+      <VerseVersion VerseId="30690" VersionId="1">
+        <Word WordId="777495" WordIndex="1" WordText="How">
+          <StrongsId>11937</StrongsId>
+        </Word>
+        <Word WordId="777496" WordIndex="2" WordText="that">
+          <StrongsId>11937</StrongsId>
+        </Word>
+        <Word WordId="777497" WordIndex="3" WordText="they" />
+        <Word WordId="777498" WordIndex="4" WordText="told">
+          <StrongsId>11287</StrongsId>
+        </Word>
+        <Word WordId="777499" WordIndex="5" WordText="you">
+          <StrongsId>13395</StrongsId>
+        </Word>
+        <Word WordId="777500" WordIndex="6" WordText="there" />
+        <Word WordId="777501" WordIndex="7" WordText="should" />
+        <Word WordId="777502" WordIndex="8" WordText="be">
+          <StrongsId>10456</StrongsId>
+        </Word>
+        <Word WordId="777503" WordIndex="9" WordText="mockers">
+          <StrongsId>10178</StrongsId>
+        </Word>
+        <Word WordId="777504" WordIndex="10" WordText="in">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777505" WordIndex="11" WordText="the" />
+        <Word WordId="777506" WordIndex="12" WordText="last" />
+        <Word WordId="777507" WordIndex="13" WordText="time,">
+          <StrongsId>13732</StrongsId>
+        </Word>
+        <Word WordId="777508" WordIndex="14" WordText="who">
+          <StrongsId>11771</StrongsId>
+        </Word>
+        <Word WordId="777509" WordIndex="15" WordText="should" />
+        <Word WordId="777510" WordIndex="16" WordText="walk">
+          <StrongsId>12380</StrongsId>
+        </Word>
+        <Word WordId="777511" WordIndex="17" WordText="after">
+          <StrongsId>10880</StrongsId>
+        </Word>
+        <Word WordId="777512" WordIndex="18" WordText="their" />
+        <Word WordId="777513" WordIndex="19" WordText="own" />
+        <Word WordId="777514" WordIndex="20" WordText="ungodly">
+          <StrongsId>9398</StrongsId>
+        </Word>
+        <Word WordId="777515" WordIndex="21" WordText="lusts.">
+          <StrongsId>10347</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30691" VerseNumber="19">
+      <VerseVersion VerseId="30691" VersionId="1">
+        <Word WordId="777516" WordIndex="1" WordText="These">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777517" WordIndex="2" WordText="be">
+          <StrongsId>10041</StrongsId>
+        </Word>
+        <Word WordId="777518" WordIndex="3" WordText="they">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777519" WordIndex="4" WordText="who">
+          <StrongsId>11771</StrongsId>
+        </Word>
+        <Word WordId="777520" WordIndex="5" WordText="separate">
+          <StrongsId>9227</StrongsId>
+        </Word>
+        <Word WordId="777521" WordIndex="6" WordText="themselves," />
+        <Word WordId="777522" WordIndex="7" WordText="sensual,">
+          <StrongsId>13773</StrongsId>
+        </Word>
+        <Word WordId="777523" WordIndex="8" WordText="having">
+          <StrongsId>10539</StrongsId>
+        </Word>
+        <Word WordId="777524" WordIndex="9" WordText="not">
+          <StrongsId>11544</StrongsId>
+        </Word>
+        <Word WordId="777525" WordIndex="10" WordText="the">
+          <StrongsId>11961</StrongsId>
+        </Word>
+        <Word WordId="777526" WordIndex="11" WordText="Spirit.">
+          <StrongsId>12333</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30692" VerseNumber="20">
+      <VerseVersion VerseId="30692" VersionId="1">
+        <Word WordId="777527" WordIndex="1" WordText="But" />
+        <Word WordId="777528" WordIndex="2" WordText="ye,">
+          <StrongsId>13392</StrongsId>
+        </Word>
+        <Word WordId="777529" WordIndex="3" WordText="beloved,">
+          <StrongsId>8697</StrongsId>
+        </Word>
+        <Word WordId="777530" WordIndex="4" WordText="building" />
+        <Word WordId="777531" WordIndex="5" WordText="up" />
+        <Word WordId="777532" WordIndex="6" WordText="yourselves">
+          <StrongsId>13392</StrongsId>
+        </Word>
+        <Word WordId="777533" WordIndex="7" WordText="on">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777534" WordIndex="8" WordText="your">
+          <StrongsId>13398</StrongsId>
+        </Word>
+        <Word WordId="777535" WordIndex="9" WordText="most" />
+        <Word WordId="777536" WordIndex="10" WordText="holy">
+          <StrongsId>8710</StrongsId>
+        </Word>
+        <Word WordId="777537" WordIndex="11" WordText="faith,">
+          <StrongsId>12284</StrongsId>
+        </Word>
+        <Word WordId="777538" WordIndex="12" WordText="praying">
+          <StrongsId>12518</StrongsId>
+        </Word>
+        <Word WordId="777539" WordIndex="13" WordText="in">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777540" WordIndex="14" WordText="the" />
+        <Word WordId="777541" WordIndex="15" WordText="Holy">
+          <StrongsId>8710</StrongsId>
+        </Word>
+        <Word WordId="777542" WordIndex="16" WordText="Ghost,">
+          <StrongsId>12333</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30693" VerseNumber="21">
+      <VerseVersion VerseId="30693" VersionId="1">
+        <Word WordId="777543" WordIndex="1" WordText="Keep">
+          <StrongsId>13265</StrongsId>
+        </Word>
+        <Word WordId="777544" WordIndex="2" WordText="yourselves" />
+        <Word WordId="777545" WordIndex="3" WordText="in">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777546" WordIndex="4" WordText="the" />
+        <Word WordId="777547" WordIndex="5" WordText="love">
+          <StrongsId>8696</StrongsId>
+        </Word>
+        <Word WordId="777548" WordIndex="6" WordText="of" />
+        <Word WordId="777549" WordIndex="7" WordText="God,">
+          <StrongsId>10630</StrongsId>
+        </Word>
+        <Word WordId="777550" WordIndex="8" WordText="looking" />
+        <Word WordId="777551" WordIndex="9" WordText="for">
+          <StrongsId>10036</StrongsId>
+          <StrongsId>12509</StrongsId>
+        </Word>
+        <Word WordId="777552" WordIndex="10" WordText="the" />
+        <Word WordId="777553" WordIndex="11" WordText="mercy">
+          <StrongsId>10145</StrongsId>
+        </Word>
+        <Word WordId="777554" WordIndex="12" WordText="of" />
+        <Word WordId="777555" WordIndex="13" WordText="our">
+          <StrongsId>10586</StrongsId>
+        </Word>
+        <Word WordId="777556" WordIndex="14" WordText="Lord">
+          <StrongsId>11245</StrongsId>
+        </Word>
+        <Word WordId="777557" WordIndex="15" WordText="Jesus">
+          <StrongsId>10710</StrongsId>
+        </Word>
+        <Word WordId="777558" WordIndex="16" WordText="Christ">
+          <StrongsId>13729</StrongsId>
+        </Word>
+        <Word WordId="777559" WordIndex="17" WordText="unto">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777560" WordIndex="18" WordText="eternal">
+          <StrongsId>8824</StrongsId>
+        </Word>
+        <Word WordId="777561" WordIndex="19" WordText="life." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30694" VerseNumber="22">
+      <VerseVersion VerseId="30694" VersionId="1">
+        <Word WordId="777562" WordIndex="1" WordText="And">
+          <StrongsId>10816</StrongsId>
+          <StrongsId>11486</StrongsId>
+        </Word>
+        <Word WordId="777563" WordIndex="2" WordText="of">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777564" WordIndex="3" WordText="some">
+          <StrongsId>11922</StrongsId>
+        </Word>
+        <Word WordId="777565" WordIndex="4" WordText="have" />
+        <Word WordId="777566" WordIndex="5" WordText="compassion," />
+        <Word WordId="777567" WordIndex="6" WordText="making" />
+        <Word WordId="777568" WordIndex="7" WordText="a" />
+        <Word WordId="777569" WordIndex="8" WordText="difference:" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30695" VerseNumber="23">
+      <VerseVersion VerseId="30695" VersionId="1">
+        <Word WordId="777570" WordIndex="1" WordText="And">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777571" WordIndex="2" WordText="others">
+          <StrongsId>11922</StrongsId>
+        </Word>
+        <Word WordId="777572" WordIndex="3" WordText="save">
+          <StrongsId>13164</StrongsId>
+        </Word>
+        <Word WordId="777573" WordIndex="4" WordText="with">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777574" WordIndex="5" WordText="fear,">
+          <StrongsId>13583</StrongsId>
+        </Word>
+        <Word WordId="777575" WordIndex="6" WordText="pulling">
+          <StrongsId>9361</StrongsId>
+        </Word>
+        <Word WordId="777576" WordIndex="7" WordText="them" />
+        <Word WordId="777577" WordIndex="8" WordText="out" />
+        <Word WordId="777578" WordIndex="9" WordText="of">
+          <StrongsId>10050</StrongsId>
+        </Word>
+        <Word WordId="777579" WordIndex="10" WordText="the" />
+        <Word WordId="777580" WordIndex="11" WordText="fire;">
+          <StrongsId>12624</StrongsId>
+        </Word>
+        <Word WordId="777581" WordIndex="12" WordText="hating">
+          <StrongsId>11587</StrongsId>
+        </Word>
+        <Word WordId="777582" WordIndex="13" WordText="even">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777583" WordIndex="14" WordText="the" />
+        <Word WordId="777584" WordIndex="15" WordText="garment">
+          <StrongsId>13691</StrongsId>
+        </Word>
+        <Word WordId="777585" WordIndex="16" WordText="spotted">
+          <StrongsId>12877</StrongsId>
+        </Word>
+        <Word WordId="777586" WordIndex="17" WordText="by">
+          <StrongsId>9210</StrongsId>
+        </Word>
+        <Word WordId="777587" WordIndex="18" WordText="the" />
+        <Word WordId="777588" WordIndex="19" WordText="flesh.">
+          <StrongsId>12743</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30696" VerseNumber="24">
+      <VerseVersion VerseId="30696" VersionId="1">
+        <Word WordId="777589" WordIndex="1" WordText="Now" />
+        <Word WordId="777590" WordIndex="2" WordText="unto" />
+        <Word WordId="777591" WordIndex="3" WordText="him">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777592" WordIndex="4" WordText="that" />
+        <Word WordId="777593" WordIndex="5" WordText="is" />
+        <Word WordId="777594" WordIndex="6" WordText="able">
+          <StrongsId>9953</StrongsId>
+        </Word>
+        <Word WordId="777595" WordIndex="7" WordText="to" />
+        <Word WordId="777596" WordIndex="8" WordText="keep">
+          <StrongsId>13624</StrongsId>
+        </Word>
+        <Word WordId="777597" WordIndex="9" WordText="you">
+          <StrongsId>9481</StrongsId>
+          <StrongsId>13391</StrongsId>
+        </Word>
+        <Word WordId="777598" WordIndex="10" WordText="from" />
+        <Word WordId="777599" WordIndex="11" WordText="falling,">
+          <StrongsId>9314</StrongsId>
+        </Word>
+        <Word WordId="777600" WordIndex="12" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777601" WordIndex="13" WordText="to" />
+        <Word WordId="777602" WordIndex="14" WordText="present">
+          <StrongsId>10760</StrongsId>
+        </Word>
+        <Word WordId="777603" WordIndex="15" WordText="you">
+          <StrongsId>13391</StrongsId>
+        </Word>
+        <Word WordId="777604" WordIndex="16" WordText="faultless">
+          <StrongsId>8934</StrongsId>
+        </Word>
+        <Word WordId="777605" WordIndex="17" WordText="before">
+          <StrongsId>10998</StrongsId>
+        </Word>
+        <Word WordId="777606" WordIndex="18" WordText="the" />
+        <Word WordId="777607" WordIndex="19" WordText="presence">
+          <StrongsId>10998</StrongsId>
+        </Word>
+        <Word WordId="777608" WordIndex="20" WordText="of" />
+        <Word WordId="777609" WordIndex="21" WordText="his">
+          <StrongsId>9481</StrongsId>
+        </Word>
+        <Word WordId="777610" WordIndex="22" WordText="glory">
+          <StrongsId>9939</StrongsId>
+        </Word>
+        <Word WordId="777611" WordIndex="23" WordText="with">
+          <StrongsId>10190</StrongsId>
+        </Word>
+        <Word WordId="777612" WordIndex="24" WordText="exceeding">
+          <StrongsId>8690</StrongsId>
+        </Word>
+        <Word WordId="777613" WordIndex="25" WordText="joy,">
+          <StrongsId>8690</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="30697" VerseNumber="25">
+      <VerseVersion VerseId="30697" VersionId="1">
+        <Word WordId="777614" WordIndex="1" WordText="To">
+          <StrongsId>10036</StrongsId>
+        </Word>
+        <Word WordId="777615" WordIndex="2" WordText="the" />
+        <Word WordId="777616" WordIndex="3" WordText="only">
+          <StrongsId>11624</StrongsId>
+        </Word>
+        <Word WordId="777617" WordIndex="4" WordText="wise">
+          <StrongsId>12862</StrongsId>
+        </Word>
+        <Word WordId="777618" WordIndex="5" WordText="God">
+          <StrongsId>10630</StrongsId>
+        </Word>
+        <Word WordId="777619" WordIndex="6" WordText="our">
+          <StrongsId>10586</StrongsId>
+        </Word>
+        <Word WordId="777620" WordIndex="7" WordText="Saviour,">
+          <StrongsId>13172</StrongsId>
+        </Word>
+        <Word WordId="777621" WordIndex="8" WordText="be" />
+        <Word WordId="777622" WordIndex="9" WordText="glory">
+          <StrongsId>9939</StrongsId>
+        </Word>
+        <Word WordId="777623" WordIndex="10" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777624" WordIndex="11" WordText="majesty,">
+          <StrongsId>11455</StrongsId>
+        </Word>
+        <Word WordId="777625" WordIndex="12" WordText="dominion">
+          <StrongsId>11187</StrongsId>
+        </Word>
+        <Word WordId="777626" WordIndex="13" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777627" WordIndex="14" WordText="power,">
+          <StrongsId>11187</StrongsId>
+        </Word>
+        <Word WordId="777628" WordIndex="15" WordText="both">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777629" WordIndex="16" WordText="now">
+          <StrongsId>11751</StrongsId>
+        </Word>
+        <Word WordId="777630" WordIndex="17" WordText="and">
+          <StrongsId>10816</StrongsId>
+        </Word>
+        <Word WordId="777631" WordIndex="18" WordText="ever.">
+          <StrongsId>8823</StrongsId>
+          <StrongsId>10036</StrongsId>
+          <StrongsId>12138</StrongsId>
+        </Word>
+        <Word WordId="777632" WordIndex="19" WordText="Amen.">
+          <StrongsId>8916</StrongsId>
+        </Word>
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+</Book>

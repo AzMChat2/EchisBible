@@ -1,0 +1,3038 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" BookId="22" BookName="Song of Solomon" IsNewTestament="false">
+  <Chapter ChapterId="672" ChapterNumber="1">
+    <Verse VerseId="17538" VerseNumber="1">
+      <VerseVersion VerseId="17538" VersionId="5">
+        <Word WordId="3579986" WordIndex="1" WordText="The" />
+        <Word WordId="3579987" WordIndex="2" WordText="Song" />
+        <Word WordId="3579988" WordIndex="3" WordText="of" />
+        <Word WordId="3579989" WordIndex="4" WordText="Songs," />
+        <Word WordId="3579990" WordIndex="5" WordText="that" />
+        <Word WordId="3579991" WordIndex="6" WordText="[is]" />
+        <Word WordId="3579992" WordIndex="7" WordText="Solomon's." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17539" VerseNumber="2">
+      <VerseVersion VerseId="17539" VersionId="5">
+        <Word WordId="3579993" WordIndex="1" WordText="Let" />
+        <Word WordId="3579994" WordIndex="2" WordText="him" />
+        <Word WordId="3579995" WordIndex="3" WordText="kiss" />
+        <Word WordId="3579996" WordIndex="4" WordText="me" />
+        <Word WordId="3579997" WordIndex="5" WordText="with" />
+        <Word WordId="3579998" WordIndex="6" WordText="kisses" />
+        <Word WordId="3579999" WordIndex="7" WordText="of" />
+        <Word WordId="3580000" WordIndex="8" WordText="his" />
+        <Word WordId="3580001" WordIndex="9" WordText="mouth," />
+        <Word WordId="3580002" WordIndex="10" WordText="For" />
+        <Word WordId="3580003" WordIndex="11" WordText="better" />
+        <Word WordId="3580004" WordIndex="12" WordText="[are]" />
+        <Word WordId="3580005" WordIndex="13" WordText="thy" />
+        <Word WordId="3580006" WordIndex="14" WordText="loves" />
+        <Word WordId="3580007" WordIndex="15" WordText="than" />
+        <Word WordId="3580008" WordIndex="16" WordText="wine." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17540" VerseNumber="3">
+      <VerseVersion VerseId="17540" VersionId="5">
+        <Word WordId="3580009" WordIndex="1" WordText="For" />
+        <Word WordId="3580010" WordIndex="2" WordText="fragrance" />
+        <Word WordId="3580011" WordIndex="3" WordText="[are]" />
+        <Word WordId="3580012" WordIndex="4" WordText="thy" />
+        <Word WordId="3580013" WordIndex="5" WordText="perfumes" />
+        <Word WordId="3580014" WordIndex="6" WordText="good." />
+        <Word WordId="3580015" WordIndex="7" WordText="Perfume" />
+        <Word WordId="3580016" WordIndex="8" WordText="emptied" />
+        <Word WordId="3580017" WordIndex="9" WordText="out" />
+        <Word WordId="3580018" WordIndex="10" WordText="--" />
+        <Word WordId="3580019" WordIndex="11" WordText="thy" />
+        <Word WordId="3580020" WordIndex="12" WordText="name," />
+        <Word WordId="3580021" WordIndex="13" WordText="Therefore" />
+        <Word WordId="3580022" WordIndex="14" WordText="have" />
+        <Word WordId="3580023" WordIndex="15" WordText="virgins" />
+        <Word WordId="3580024" WordIndex="16" WordText="loved" />
+        <Word WordId="3580025" WordIndex="17" WordText="thee!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17541" VerseNumber="4">
+      <VerseVersion VerseId="17541" VersionId="5">
+        <Word WordId="3580026" WordIndex="1" WordText="Draw" />
+        <Word WordId="3580027" WordIndex="2" WordText="me:" />
+        <Word WordId="3580028" WordIndex="3" WordText="after" />
+        <Word WordId="3580029" WordIndex="4" WordText="thee" />
+        <Word WordId="3580030" WordIndex="5" WordText="we" />
+        <Word WordId="3580031" WordIndex="6" WordText="run," />
+        <Word WordId="3580032" WordIndex="7" WordText="The" />
+        <Word WordId="3580033" WordIndex="8" WordText="king" />
+        <Word WordId="3580034" WordIndex="9" WordText="hath" />
+        <Word WordId="3580035" WordIndex="10" WordText="brought" />
+        <Word WordId="3580036" WordIndex="11" WordText="me" />
+        <Word WordId="3580037" WordIndex="12" WordText="into" />
+        <Word WordId="3580038" WordIndex="13" WordText="his" />
+        <Word WordId="3580039" WordIndex="14" WordText="inner" />
+        <Word WordId="3580040" WordIndex="15" WordText="chambers," />
+        <Word WordId="3580041" WordIndex="16" WordText="We" />
+        <Word WordId="3580042" WordIndex="17" WordText="do" />
+        <Word WordId="3580043" WordIndex="18" WordText="joy" />
+        <Word WordId="3580044" WordIndex="19" WordText="and" />
+        <Word WordId="3580045" WordIndex="20" WordText="rejoice" />
+        <Word WordId="3580046" WordIndex="21" WordText="in" />
+        <Word WordId="3580047" WordIndex="22" WordText="thee," />
+        <Word WordId="3580048" WordIndex="23" WordText="We" />
+        <Word WordId="3580049" WordIndex="24" WordText="mention" />
+        <Word WordId="3580050" WordIndex="25" WordText="thy" />
+        <Word WordId="3580051" WordIndex="26" WordText="loves" />
+        <Word WordId="3580052" WordIndex="27" WordText="more" />
+        <Word WordId="3580053" WordIndex="28" WordText="than" />
+        <Word WordId="3580054" WordIndex="29" WordText="wine," />
+        <Word WordId="3580055" WordIndex="30" WordText="Uprightly" />
+        <Word WordId="3580056" WordIndex="31" WordText="they" />
+        <Word WordId="3580057" WordIndex="32" WordText="have" />
+        <Word WordId="3580058" WordIndex="33" WordText="loved" />
+        <Word WordId="3580059" WordIndex="34" WordText="thee!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17542" VerseNumber="5">
+      <VerseVersion VerseId="17542" VersionId="5">
+        <Word WordId="3580060" WordIndex="1" WordText="Dark" />
+        <Word WordId="3580061" WordIndex="2" WordText="[am]" />
+        <Word WordId="3580062" WordIndex="3" WordText="I," />
+        <Word WordId="3580063" WordIndex="4" WordText="and" />
+        <Word WordId="3580064" WordIndex="5" WordText="comely," />
+        <Word WordId="3580065" WordIndex="6" WordText="daughters" />
+        <Word WordId="3580066" WordIndex="7" WordText="of" />
+        <Word WordId="3580067" WordIndex="8" WordText="Jerusalem," />
+        <Word WordId="3580068" WordIndex="9" WordText="As" />
+        <Word WordId="3580069" WordIndex="10" WordText="tents" />
+        <Word WordId="3580070" WordIndex="11" WordText="of" />
+        <Word WordId="3580071" WordIndex="12" WordText="Kedar," />
+        <Word WordId="3580072" WordIndex="13" WordText="as" />
+        <Word WordId="3580073" WordIndex="14" WordText="curtains" />
+        <Word WordId="3580074" WordIndex="15" WordText="of" />
+        <Word WordId="3580075" WordIndex="16" WordText="Solomon." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17543" VerseNumber="6">
+      <VerseVersion VerseId="17543" VersionId="5">
+        <Word WordId="3580076" WordIndex="1" WordText="Fear" />
+        <Word WordId="3580077" WordIndex="2" WordText="me" />
+        <Word WordId="3580078" WordIndex="3" WordText="not," />
+        <Word WordId="3580079" WordIndex="4" WordText="because" />
+        <Word WordId="3580080" WordIndex="5" WordText="I" />
+        <Word WordId="3580081" WordIndex="6" WordText="[am]" />
+        <Word WordId="3580082" WordIndex="7" WordText="very" />
+        <Word WordId="3580083" WordIndex="8" WordText="dark," />
+        <Word WordId="3580084" WordIndex="9" WordText="Because" />
+        <Word WordId="3580085" WordIndex="10" WordText="the" />
+        <Word WordId="3580086" WordIndex="11" WordText="sun" />
+        <Word WordId="3580087" WordIndex="12" WordText="hath" />
+        <Word WordId="3580088" WordIndex="13" WordText="scorched" />
+        <Word WordId="3580089" WordIndex="14" WordText="me," />
+        <Word WordId="3580090" WordIndex="15" WordText="The" />
+        <Word WordId="3580091" WordIndex="16" WordText="sons" />
+        <Word WordId="3580092" WordIndex="17" WordText="of" />
+        <Word WordId="3580093" WordIndex="18" WordText="my" />
+        <Word WordId="3580094" WordIndex="19" WordText="mother" />
+        <Word WordId="3580095" WordIndex="20" WordText="were" />
+        <Word WordId="3580096" WordIndex="21" WordText="angry" />
+        <Word WordId="3580097" WordIndex="22" WordText="with" />
+        <Word WordId="3580098" WordIndex="23" WordText="me," />
+        <Word WordId="3580099" WordIndex="24" WordText="They" />
+        <Word WordId="3580100" WordIndex="25" WordText="made" />
+        <Word WordId="3580101" WordIndex="26" WordText="me" />
+        <Word WordId="3580102" WordIndex="27" WordText="keeper" />
+        <Word WordId="3580103" WordIndex="28" WordText="of" />
+        <Word WordId="3580104" WordIndex="29" WordText="the" />
+        <Word WordId="3580105" WordIndex="30" WordText="vineyards," />
+        <Word WordId="3580106" WordIndex="31" WordText="My" />
+        <Word WordId="3580107" WordIndex="32" WordText="vineyard" />
+        <Word WordId="3580108" WordIndex="33" WordText="--" />
+        <Word WordId="3580109" WordIndex="34" WordText="my" />
+        <Word WordId="3580110" WordIndex="35" WordText="own" />
+        <Word WordId="3580111" WordIndex="36" WordText="--" />
+        <Word WordId="3580112" WordIndex="37" WordText="I" />
+        <Word WordId="3580113" WordIndex="38" WordText="have" />
+        <Word WordId="3580114" WordIndex="39" WordText="not" />
+        <Word WordId="3580115" WordIndex="40" WordText="kept." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17544" VerseNumber="7">
+      <VerseVersion VerseId="17544" VersionId="5">
+        <Word WordId="3580116" WordIndex="1" WordText="Declare" />
+        <Word WordId="3580117" WordIndex="2" WordText="to" />
+        <Word WordId="3580118" WordIndex="3" WordText="me," />
+        <Word WordId="3580119" WordIndex="4" WordText="thou" />
+        <Word WordId="3580120" WordIndex="5" WordText="whom" />
+        <Word WordId="3580121" WordIndex="6" WordText="my" />
+        <Word WordId="3580122" WordIndex="7" WordText="soul" />
+        <Word WordId="3580123" WordIndex="8" WordText="hath" />
+        <Word WordId="3580124" WordIndex="9" WordText="loved," />
+        <Word WordId="3580125" WordIndex="10" WordText="Where" />
+        <Word WordId="3580126" WordIndex="11" WordText="thou" />
+        <Word WordId="3580127" WordIndex="12" WordText="delightest," />
+        <Word WordId="3580128" WordIndex="13" WordText="Where" />
+        <Word WordId="3580129" WordIndex="14" WordText="thou" />
+        <Word WordId="3580130" WordIndex="15" WordText="liest" />
+        <Word WordId="3580131" WordIndex="16" WordText="down" />
+        <Word WordId="3580132" WordIndex="17" WordText="at" />
+        <Word WordId="3580133" WordIndex="18" WordText="noon," />
+        <Word WordId="3580134" WordIndex="19" WordText="For" />
+        <Word WordId="3580135" WordIndex="20" WordText="why" />
+        <Word WordId="3580136" WordIndex="21" WordText="am" />
+        <Word WordId="3580137" WordIndex="22" WordText="I" />
+        <Word WordId="3580138" WordIndex="23" WordText="as" />
+        <Word WordId="3580139" WordIndex="24" WordText="one" />
+        <Word WordId="3580140" WordIndex="25" WordText="veiled," />
+        <Word WordId="3580141" WordIndex="26" WordText="By" />
+        <Word WordId="3580142" WordIndex="27" WordText="the" />
+        <Word WordId="3580143" WordIndex="28" WordText="ranks" />
+        <Word WordId="3580144" WordIndex="29" WordText="of" />
+        <Word WordId="3580145" WordIndex="30" WordText="thy" />
+        <Word WordId="3580146" WordIndex="31" WordText="companions?" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17545" VerseNumber="8">
+      <VerseVersion VerseId="17545" VersionId="5">
+        <Word WordId="3580147" WordIndex="1" WordText="If" />
+        <Word WordId="3580148" WordIndex="2" WordText="thou" />
+        <Word WordId="3580149" WordIndex="3" WordText="knowest" />
+        <Word WordId="3580150" WordIndex="4" WordText="not," />
+        <Word WordId="3580151" WordIndex="5" WordText="O" />
+        <Word WordId="3580152" WordIndex="6" WordText="fair" />
+        <Word WordId="3580153" WordIndex="7" WordText="among" />
+        <Word WordId="3580154" WordIndex="8" WordText="women," />
+        <Word WordId="3580155" WordIndex="9" WordText="Get" />
+        <Word WordId="3580156" WordIndex="10" WordText="thee" />
+        <Word WordId="3580157" WordIndex="11" WordText="forth" />
+        <Word WordId="3580158" WordIndex="12" WordText="by" />
+        <Word WordId="3580159" WordIndex="13" WordText="the" />
+        <Word WordId="3580160" WordIndex="14" WordText="traces" />
+        <Word WordId="3580161" WordIndex="15" WordText="of" />
+        <Word WordId="3580162" WordIndex="16" WordText="the" />
+        <Word WordId="3580163" WordIndex="17" WordText="flock," />
+        <Word WordId="3580164" WordIndex="18" WordText="And" />
+        <Word WordId="3580165" WordIndex="19" WordText="feed" />
+        <Word WordId="3580166" WordIndex="20" WordText="thy" />
+        <Word WordId="3580167" WordIndex="21" WordText="kids" />
+        <Word WordId="3580168" WordIndex="22" WordText="by" />
+        <Word WordId="3580169" WordIndex="23" WordText="the" />
+        <Word WordId="3580170" WordIndex="24" WordText="shepherds'" />
+        <Word WordId="3580171" WordIndex="25" WordText="dwellings!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17546" VerseNumber="9">
+      <VerseVersion VerseId="17546" VersionId="5">
+        <Word WordId="3580172" WordIndex="1" WordText="To" />
+        <Word WordId="3580173" WordIndex="2" WordText="my" />
+        <Word WordId="3580174" WordIndex="3" WordText="joyous" />
+        <Word WordId="3580175" WordIndex="4" WordText="one" />
+        <Word WordId="3580176" WordIndex="5" WordText="in" />
+        <Word WordId="3580177" WordIndex="6" WordText="chariots" />
+        <Word WordId="3580178" WordIndex="7" WordText="of" />
+        <Word WordId="3580179" WordIndex="8" WordText="Pharaoh," />
+        <Word WordId="3580180" WordIndex="9" WordText="I" />
+        <Word WordId="3580181" WordIndex="10" WordText="have" />
+        <Word WordId="3580182" WordIndex="11" WordText="compared" />
+        <Word WordId="3580183" WordIndex="12" WordText="thee," />
+        <Word WordId="3580184" WordIndex="13" WordText="my" />
+        <Word WordId="3580185" WordIndex="14" WordText="friend," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17547" VerseNumber="10">
+      <VerseVersion VerseId="17547" VersionId="5">
+        <Word WordId="3580186" WordIndex="1" WordText="Comely" />
+        <Word WordId="3580187" WordIndex="2" WordText="have" />
+        <Word WordId="3580188" WordIndex="3" WordText="been" />
+        <Word WordId="3580189" WordIndex="4" WordText="thy" />
+        <Word WordId="3580190" WordIndex="5" WordText="cheeks" />
+        <Word WordId="3580191" WordIndex="6" WordText="with" />
+        <Word WordId="3580192" WordIndex="7" WordText="garlands," />
+        <Word WordId="3580193" WordIndex="8" WordText="Thy" />
+        <Word WordId="3580194" WordIndex="9" WordText="neck" />
+        <Word WordId="3580195" WordIndex="10" WordText="with" />
+        <Word WordId="3580196" WordIndex="11" WordText="chains." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17548" VerseNumber="11">
+      <VerseVersion VerseId="17548" VersionId="5">
+        <Word WordId="3580197" WordIndex="1" WordText="Garlands" />
+        <Word WordId="3580198" WordIndex="2" WordText="of" />
+        <Word WordId="3580199" WordIndex="3" WordText="gold" />
+        <Word WordId="3580200" WordIndex="4" WordText="we" />
+        <Word WordId="3580201" WordIndex="5" WordText="do" />
+        <Word WordId="3580202" WordIndex="6" WordText="make" />
+        <Word WordId="3580203" WordIndex="7" WordText="for" />
+        <Word WordId="3580204" WordIndex="8" WordText="thee," />
+        <Word WordId="3580205" WordIndex="9" WordText="With" />
+        <Word WordId="3580206" WordIndex="10" WordText="studs" />
+        <Word WordId="3580207" WordIndex="11" WordText="of" />
+        <Word WordId="3580208" WordIndex="12" WordText="silver!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17549" VerseNumber="12">
+      <VerseVersion VerseId="17549" VersionId="5">
+        <Word WordId="3580209" WordIndex="1" WordText="While" />
+        <Word WordId="3580210" WordIndex="2" WordText="the" />
+        <Word WordId="3580211" WordIndex="3" WordText="king" />
+        <Word WordId="3580212" WordIndex="4" WordText="[is]" />
+        <Word WordId="3580213" WordIndex="5" WordText="in" />
+        <Word WordId="3580214" WordIndex="6" WordText="his" />
+        <Word WordId="3580215" WordIndex="7" WordText="circle," />
+        <Word WordId="3580216" WordIndex="8" WordText="My" />
+        <Word WordId="3580217" WordIndex="9" WordText="spikenard" />
+        <Word WordId="3580218" WordIndex="10" WordText="hath" />
+        <Word WordId="3580219" WordIndex="11" WordText="given" />
+        <Word WordId="3580220" WordIndex="12" WordText="its" />
+        <Word WordId="3580221" WordIndex="13" WordText="fragrance." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17550" VerseNumber="13">
+      <VerseVersion VerseId="17550" VersionId="5">
+        <Word WordId="3580222" WordIndex="1" WordText="A" />
+        <Word WordId="3580223" WordIndex="2" WordText="bundle" />
+        <Word WordId="3580224" WordIndex="3" WordText="of" />
+        <Word WordId="3580225" WordIndex="4" WordText="myrrh" />
+        <Word WordId="3580226" WordIndex="5" WordText="[is]" />
+        <Word WordId="3580227" WordIndex="6" WordText="my" />
+        <Word WordId="3580228" WordIndex="7" WordText="beloved" />
+        <Word WordId="3580229" WordIndex="8" WordText="to" />
+        <Word WordId="3580230" WordIndex="9" WordText="me," />
+        <Word WordId="3580231" WordIndex="10" WordText="Between" />
+        <Word WordId="3580232" WordIndex="11" WordText="my" />
+        <Word WordId="3580233" WordIndex="12" WordText="breasts" />
+        <Word WordId="3580234" WordIndex="13" WordText="it" />
+        <Word WordId="3580235" WordIndex="14" WordText="lodgeth." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17551" VerseNumber="14">
+      <VerseVersion VerseId="17551" VersionId="5">
+        <Word WordId="3580236" WordIndex="1" WordText="A" />
+        <Word WordId="3580237" WordIndex="2" WordText="cluster" />
+        <Word WordId="3580238" WordIndex="3" WordText="of" />
+        <Word WordId="3580239" WordIndex="4" WordText="cypress" />
+        <Word WordId="3580240" WordIndex="5" WordText="[is]" />
+        <Word WordId="3580241" WordIndex="6" WordText="my" />
+        <Word WordId="3580242" WordIndex="7" WordText="beloved" />
+        <Word WordId="3580243" WordIndex="8" WordText="to" />
+        <Word WordId="3580244" WordIndex="9" WordText="me," />
+        <Word WordId="3580245" WordIndex="10" WordText="In" />
+        <Word WordId="3580246" WordIndex="11" WordText="the" />
+        <Word WordId="3580247" WordIndex="12" WordText="vineyards" />
+        <Word WordId="3580248" WordIndex="13" WordText="of" />
+        <Word WordId="3580249" WordIndex="14" WordText="En-Gedi!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17552" VerseNumber="15">
+      <VerseVersion VerseId="17552" VersionId="5">
+        <Word WordId="3580250" WordIndex="1" WordText="Lo," />
+        <Word WordId="3580251" WordIndex="2" WordText="thou" />
+        <Word WordId="3580252" WordIndex="3" WordText="[art]" />
+        <Word WordId="3580253" WordIndex="4" WordText="fair," />
+        <Word WordId="3580254" WordIndex="5" WordText="my" />
+        <Word WordId="3580255" WordIndex="6" WordText="friend," />
+        <Word WordId="3580256" WordIndex="7" WordText="Lo," />
+        <Word WordId="3580257" WordIndex="8" WordText="thou" />
+        <Word WordId="3580258" WordIndex="9" WordText="[art]" />
+        <Word WordId="3580259" WordIndex="10" WordText="fair," />
+        <Word WordId="3580260" WordIndex="11" WordText="thine" />
+        <Word WordId="3580261" WordIndex="12" WordText="eyes" />
+        <Word WordId="3580262" WordIndex="13" WordText="[are]" />
+        <Word WordId="3580263" WordIndex="14" WordText="doves!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17553" VerseNumber="16">
+      <VerseVersion VerseId="17553" VersionId="5">
+        <Word WordId="3580264" WordIndex="1" WordText="Lo," />
+        <Word WordId="3580265" WordIndex="2" WordText="thou" />
+        <Word WordId="3580266" WordIndex="3" WordText="[art]" />
+        <Word WordId="3580267" WordIndex="4" WordText="fair," />
+        <Word WordId="3580268" WordIndex="5" WordText="my" />
+        <Word WordId="3580269" WordIndex="6" WordText="love," />
+        <Word WordId="3580270" WordIndex="7" WordText="yea," />
+        <Word WordId="3580271" WordIndex="8" WordText="pleasant," />
+        <Word WordId="3580272" WordIndex="9" WordText="Yea," />
+        <Word WordId="3580273" WordIndex="10" WordText="our" />
+        <Word WordId="3580274" WordIndex="11" WordText="couch" />
+        <Word WordId="3580275" WordIndex="12" WordText="[is]" />
+        <Word WordId="3580276" WordIndex="13" WordText="green," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17554" VerseNumber="17">
+      <VerseVersion VerseId="17554" VersionId="5">
+        <Word WordId="3580277" WordIndex="1" WordText="The" />
+        <Word WordId="3580278" WordIndex="2" WordText="beams" />
+        <Word WordId="3580279" WordIndex="3" WordText="of" />
+        <Word WordId="3580280" WordIndex="4" WordText="our" />
+        <Word WordId="3580281" WordIndex="5" WordText="houses" />
+        <Word WordId="3580282" WordIndex="6" WordText="[are]" />
+        <Word WordId="3580283" WordIndex="7" WordText="cedars," />
+        <Word WordId="3580284" WordIndex="8" WordText="Our" />
+        <Word WordId="3580285" WordIndex="9" WordText="rafters" />
+        <Word WordId="3580286" WordIndex="10" WordText="[are]" />
+        <Word WordId="3580287" WordIndex="11" WordText="firs," />
+        <Word WordId="3580288" WordIndex="12" WordText="I" />
+        <Word WordId="3580289" WordIndex="13" WordText="[am]" />
+        <Word WordId="3580290" WordIndex="14" WordText="a" />
+        <Word WordId="3580291" WordIndex="15" WordText="rose" />
+        <Word WordId="3580292" WordIndex="16" WordText="of" />
+        <Word WordId="3580293" WordIndex="17" WordText="Sharon," />
+        <Word WordId="3580294" WordIndex="18" WordText="a" />
+        <Word WordId="3580295" WordIndex="19" WordText="lily" />
+        <Word WordId="3580296" WordIndex="20" WordText="of" />
+        <Word WordId="3580297" WordIndex="21" WordText="the" />
+        <Word WordId="3580298" WordIndex="22" WordText="valleys!" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+  <Chapter ChapterId="673" ChapterNumber="2">
+    <Verse VerseId="17555" VerseNumber="1">
+      <VerseVersion VerseId="17555" VersionId="5">
+        <Word WordId="3580299" WordIndex="1" WordText="As" />
+        <Word WordId="3580300" WordIndex="2" WordText="a" />
+        <Word WordId="3580301" WordIndex="3" WordText="lily" />
+        <Word WordId="3580302" WordIndex="4" WordText="among" />
+        <Word WordId="3580303" WordIndex="5" WordText="the" />
+        <Word WordId="3580304" WordIndex="6" WordText="thorns," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17556" VerseNumber="2">
+      <VerseVersion VerseId="17556" VersionId="5">
+        <Word WordId="3580305" WordIndex="1" WordText="So" />
+        <Word WordId="3580306" WordIndex="2" WordText="[is]" />
+        <Word WordId="3580307" WordIndex="3" WordText="my" />
+        <Word WordId="3580308" WordIndex="4" WordText="friend" />
+        <Word WordId="3580309" WordIndex="5" WordText="among" />
+        <Word WordId="3580310" WordIndex="6" WordText="the" />
+        <Word WordId="3580311" WordIndex="7" WordText="daughters!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17557" VerseNumber="3">
+      <VerseVersion VerseId="17557" VersionId="5">
+        <Word WordId="3580312" WordIndex="1" WordText="As" />
+        <Word WordId="3580313" WordIndex="2" WordText="a" />
+        <Word WordId="3580314" WordIndex="3" WordText="citron" />
+        <Word WordId="3580315" WordIndex="4" WordText="among" />
+        <Word WordId="3580316" WordIndex="5" WordText="trees" />
+        <Word WordId="3580317" WordIndex="6" WordText="of" />
+        <Word WordId="3580318" WordIndex="7" WordText="the" />
+        <Word WordId="3580319" WordIndex="8" WordText="forest," />
+        <Word WordId="3580320" WordIndex="9" WordText="So" />
+        <Word WordId="3580321" WordIndex="10" WordText="[is]" />
+        <Word WordId="3580322" WordIndex="11" WordText="my" />
+        <Word WordId="3580323" WordIndex="12" WordText="beloved" />
+        <Word WordId="3580324" WordIndex="13" WordText="among" />
+        <Word WordId="3580325" WordIndex="14" WordText="the" />
+        <Word WordId="3580326" WordIndex="15" WordText="sons," />
+        <Word WordId="3580327" WordIndex="16" WordText="In" />
+        <Word WordId="3580328" WordIndex="17" WordText="his" />
+        <Word WordId="3580329" WordIndex="18" WordText="shade" />
+        <Word WordId="3580330" WordIndex="19" WordText="I" />
+        <Word WordId="3580331" WordIndex="20" WordText="delighted," />
+        <Word WordId="3580332" WordIndex="21" WordText="and" />
+        <Word WordId="3580333" WordIndex="22" WordText="sat" />
+        <Word WordId="3580334" WordIndex="23" WordText="down," />
+        <Word WordId="3580335" WordIndex="24" WordText="And" />
+        <Word WordId="3580336" WordIndex="25" WordText="his" />
+        <Word WordId="3580337" WordIndex="26" WordText="fruit" />
+        <Word WordId="3580338" WordIndex="27" WordText="[is]" />
+        <Word WordId="3580339" WordIndex="28" WordText="sweet" />
+        <Word WordId="3580340" WordIndex="29" WordText="to" />
+        <Word WordId="3580341" WordIndex="30" WordText="my" />
+        <Word WordId="3580342" WordIndex="31" WordText="palate." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17558" VerseNumber="4">
+      <VerseVersion VerseId="17558" VersionId="5">
+        <Word WordId="3580343" WordIndex="1" WordText="He" />
+        <Word WordId="3580344" WordIndex="2" WordText="hath" />
+        <Word WordId="3580345" WordIndex="3" WordText="brought" />
+        <Word WordId="3580346" WordIndex="4" WordText="me" />
+        <Word WordId="3580347" WordIndex="5" WordText="in" />
+        <Word WordId="3580348" WordIndex="6" WordText="unto" />
+        <Word WordId="3580349" WordIndex="7" WordText="a" />
+        <Word WordId="3580350" WordIndex="8" WordText="house" />
+        <Word WordId="3580351" WordIndex="9" WordText="of" />
+        <Word WordId="3580352" WordIndex="10" WordText="wine," />
+        <Word WordId="3580353" WordIndex="11" WordText="And" />
+        <Word WordId="3580354" WordIndex="12" WordText="his" />
+        <Word WordId="3580355" WordIndex="13" WordText="banner" />
+        <Word WordId="3580356" WordIndex="14" WordText="over" />
+        <Word WordId="3580357" WordIndex="15" WordText="me" />
+        <Word WordId="3580358" WordIndex="16" WordText="[is]" />
+        <Word WordId="3580359" WordIndex="17" WordText="love," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17559" VerseNumber="5">
+      <VerseVersion VerseId="17559" VersionId="5">
+        <Word WordId="3580360" WordIndex="1" WordText="Sustain" />
+        <Word WordId="3580361" WordIndex="2" WordText="me" />
+        <Word WordId="3580362" WordIndex="3" WordText="with" />
+        <Word WordId="3580363" WordIndex="4" WordText="grape-cakes," />
+        <Word WordId="3580364" WordIndex="5" WordText="Support" />
+        <Word WordId="3580365" WordIndex="6" WordText="me" />
+        <Word WordId="3580366" WordIndex="7" WordText="with" />
+        <Word WordId="3580367" WordIndex="8" WordText="citrons," />
+        <Word WordId="3580368" WordIndex="9" WordText="for" />
+        <Word WordId="3580369" WordIndex="10" WordText="I" />
+        <Word WordId="3580370" WordIndex="11" WordText="[am]" />
+        <Word WordId="3580371" WordIndex="12" WordText="sick" />
+        <Word WordId="3580372" WordIndex="13" WordText="with" />
+        <Word WordId="3580373" WordIndex="14" WordText="love." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17560" VerseNumber="6">
+      <VerseVersion VerseId="17560" VersionId="5">
+        <Word WordId="3580374" WordIndex="1" WordText="His" />
+        <Word WordId="3580375" WordIndex="2" WordText="left" />
+        <Word WordId="3580376" WordIndex="3" WordText="hand" />
+        <Word WordId="3580377" WordIndex="4" WordText="[is]" />
+        <Word WordId="3580378" WordIndex="5" WordText="under" />
+        <Word WordId="3580379" WordIndex="6" WordText="my" />
+        <Word WordId="3580380" WordIndex="7" WordText="head," />
+        <Word WordId="3580381" WordIndex="8" WordText="And" />
+        <Word WordId="3580382" WordIndex="9" WordText="his" />
+        <Word WordId="3580383" WordIndex="10" WordText="right" />
+        <Word WordId="3580384" WordIndex="11" WordText="doth" />
+        <Word WordId="3580385" WordIndex="12" WordText="embrace" />
+        <Word WordId="3580386" WordIndex="13" WordText="me." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17561" VerseNumber="7">
+      <VerseVersion VerseId="17561" VersionId="5">
+        <Word WordId="3580387" WordIndex="1" WordText="I" />
+        <Word WordId="3580388" WordIndex="2" WordText="have" />
+        <Word WordId="3580389" WordIndex="3" WordText="adjured" />
+        <Word WordId="3580390" WordIndex="4" WordText="you," />
+        <Word WordId="3580391" WordIndex="5" WordText="daughters" />
+        <Word WordId="3580392" WordIndex="6" WordText="of" />
+        <Word WordId="3580393" WordIndex="7" WordText="Jerusalem," />
+        <Word WordId="3580394" WordIndex="8" WordText="By" />
+        <Word WordId="3580395" WordIndex="9" WordText="the" />
+        <Word WordId="3580396" WordIndex="10" WordText="roes" />
+        <Word WordId="3580397" WordIndex="11" WordText="or" />
+        <Word WordId="3580398" WordIndex="12" WordText="by" />
+        <Word WordId="3580399" WordIndex="13" WordText="the" />
+        <Word WordId="3580400" WordIndex="14" WordText="hinds" />
+        <Word WordId="3580401" WordIndex="15" WordText="of" />
+        <Word WordId="3580402" WordIndex="16" WordText="the" />
+        <Word WordId="3580403" WordIndex="17" WordText="field," />
+        <Word WordId="3580404" WordIndex="18" WordText="Stir" />
+        <Word WordId="3580405" WordIndex="19" WordText="not" />
+        <Word WordId="3580406" WordIndex="20" WordText="up" />
+        <Word WordId="3580407" WordIndex="21" WordText="nor" />
+        <Word WordId="3580408" WordIndex="22" WordText="wake" />
+        <Word WordId="3580409" WordIndex="23" WordText="the" />
+        <Word WordId="3580410" WordIndex="24" WordText="love" />
+        <Word WordId="3580411" WordIndex="25" WordText="till" />
+        <Word WordId="3580412" WordIndex="26" WordText="she" />
+        <Word WordId="3580413" WordIndex="27" WordText="please!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17562" VerseNumber="8">
+      <VerseVersion VerseId="17562" VersionId="5">
+        <Word WordId="3580414" WordIndex="1" WordText="The" />
+        <Word WordId="3580415" WordIndex="2" WordText="voice" />
+        <Word WordId="3580416" WordIndex="3" WordText="of" />
+        <Word WordId="3580417" WordIndex="4" WordText="my" />
+        <Word WordId="3580418" WordIndex="5" WordText="beloved!" />
+        <Word WordId="3580419" WordIndex="6" WordText="lo," />
+        <Word WordId="3580420" WordIndex="7" WordText="this" />
+        <Word WordId="3580421" WordIndex="8" WordText="--" />
+        <Word WordId="3580422" WordIndex="9" WordText="he" />
+        <Word WordId="3580423" WordIndex="10" WordText="is" />
+        <Word WordId="3580424" WordIndex="11" WordText="coming," />
+        <Word WordId="3580425" WordIndex="12" WordText="Leaping" />
+        <Word WordId="3580426" WordIndex="13" WordText="on" />
+        <Word WordId="3580427" WordIndex="14" WordText="the" />
+        <Word WordId="3580428" WordIndex="15" WordText="mountains," />
+        <Word WordId="3580429" WordIndex="16" WordText="skipping" />
+        <Word WordId="3580430" WordIndex="17" WordText="on" />
+        <Word WordId="3580431" WordIndex="18" WordText="the" />
+        <Word WordId="3580432" WordIndex="19" WordText="hills." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17563" VerseNumber="9">
+      <VerseVersion VerseId="17563" VersionId="5">
+        <Word WordId="3580433" WordIndex="1" WordText="My" />
+        <Word WordId="3580434" WordIndex="2" WordText="beloved" />
+        <Word WordId="3580435" WordIndex="3" WordText="[is]" />
+        <Word WordId="3580436" WordIndex="4" WordText="like" />
+        <Word WordId="3580437" WordIndex="5" WordText="to" />
+        <Word WordId="3580438" WordIndex="6" WordText="a" />
+        <Word WordId="3580439" WordIndex="7" WordText="roe," />
+        <Word WordId="3580440" WordIndex="8" WordText="Or" />
+        <Word WordId="3580441" WordIndex="9" WordText="to" />
+        <Word WordId="3580442" WordIndex="10" WordText="a" />
+        <Word WordId="3580443" WordIndex="11" WordText="young" />
+        <Word WordId="3580444" WordIndex="12" WordText="one" />
+        <Word WordId="3580445" WordIndex="13" WordText="of" />
+        <Word WordId="3580446" WordIndex="14" WordText="the" />
+        <Word WordId="3580447" WordIndex="15" WordText="harts." />
+        <Word WordId="3580448" WordIndex="16" WordText="Lo," />
+        <Word WordId="3580449" WordIndex="17" WordText="this" />
+        <Word WordId="3580450" WordIndex="18" WordText="--" />
+        <Word WordId="3580451" WordIndex="19" WordText="he" />
+        <Word WordId="3580452" WordIndex="20" WordText="is" />
+        <Word WordId="3580453" WordIndex="21" WordText="standing" />
+        <Word WordId="3580454" WordIndex="22" WordText="behind" />
+        <Word WordId="3580455" WordIndex="23" WordText="our" />
+        <Word WordId="3580456" WordIndex="24" WordText="wall," />
+        <Word WordId="3580457" WordIndex="25" WordText="Looking" />
+        <Word WordId="3580458" WordIndex="26" WordText="from" />
+        <Word WordId="3580459" WordIndex="27" WordText="the" />
+        <Word WordId="3580460" WordIndex="28" WordText="windows," />
+        <Word WordId="3580461" WordIndex="29" WordText="Blooming" />
+        <Word WordId="3580462" WordIndex="30" WordText="from" />
+        <Word WordId="3580463" WordIndex="31" WordText="the" />
+        <Word WordId="3580464" WordIndex="32" WordText="lattice." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17564" VerseNumber="10">
+      <VerseVersion VerseId="17564" VersionId="5">
+        <Word WordId="3580465" WordIndex="1" WordText="My" />
+        <Word WordId="3580466" WordIndex="2" WordText="beloved" />
+        <Word WordId="3580467" WordIndex="3" WordText="hath" />
+        <Word WordId="3580468" WordIndex="4" WordText="answered" />
+        <Word WordId="3580469" WordIndex="5" WordText="and" />
+        <Word WordId="3580470" WordIndex="6" WordText="said" />
+        <Word WordId="3580471" WordIndex="7" WordText="to" />
+        <Word WordId="3580472" WordIndex="8" WordText="me," />
+        <Word WordId="3580473" WordIndex="9" WordText="`Rise" />
+        <Word WordId="3580474" WordIndex="10" WordText="up," />
+        <Word WordId="3580475" WordIndex="11" WordText="my" />
+        <Word WordId="3580476" WordIndex="12" WordText="friend," />
+        <Word WordId="3580477" WordIndex="13" WordText="my" />
+        <Word WordId="3580478" WordIndex="14" WordText="fair" />
+        <Word WordId="3580479" WordIndex="15" WordText="one," />
+        <Word WordId="3580480" WordIndex="16" WordText="and" />
+        <Word WordId="3580481" WordIndex="17" WordText="come" />
+        <Word WordId="3580482" WordIndex="18" WordText="away," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17565" VerseNumber="11">
+      <VerseVersion VerseId="17565" VersionId="5">
+        <Word WordId="3580483" WordIndex="1" WordText="For" />
+        <Word WordId="3580484" WordIndex="2" WordText="lo," />
+        <Word WordId="3580485" WordIndex="3" WordText="the" />
+        <Word WordId="3580486" WordIndex="4" WordText="winter" />
+        <Word WordId="3580487" WordIndex="5" WordText="hath" />
+        <Word WordId="3580488" WordIndex="6" WordText="passed" />
+        <Word WordId="3580489" WordIndex="7" WordText="by," />
+        <Word WordId="3580490" WordIndex="8" WordText="The" />
+        <Word WordId="3580491" WordIndex="9" WordText="rain" />
+        <Word WordId="3580492" WordIndex="10" WordText="hath" />
+        <Word WordId="3580493" WordIndex="11" WordText="passed" />
+        <Word WordId="3580494" WordIndex="12" WordText="away" />
+        <Word WordId="3580495" WordIndex="13" WordText="--" />
+        <Word WordId="3580496" WordIndex="14" WordText="it" />
+        <Word WordId="3580497" WordIndex="15" WordText="hath" />
+        <Word WordId="3580498" WordIndex="16" WordText="gone." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17566" VerseNumber="12">
+      <VerseVersion VerseId="17566" VersionId="5">
+        <Word WordId="3580499" WordIndex="1" WordText="The" />
+        <Word WordId="3580500" WordIndex="2" WordText="flowers" />
+        <Word WordId="3580501" WordIndex="3" WordText="have" />
+        <Word WordId="3580502" WordIndex="4" WordText="appeared" />
+        <Word WordId="3580503" WordIndex="5" WordText="in" />
+        <Word WordId="3580504" WordIndex="6" WordText="the" />
+        <Word WordId="3580505" WordIndex="7" WordText="earth," />
+        <Word WordId="3580506" WordIndex="8" WordText="The" />
+        <Word WordId="3580507" WordIndex="9" WordText="time" />
+        <Word WordId="3580508" WordIndex="10" WordText="of" />
+        <Word WordId="3580509" WordIndex="11" WordText="the" />
+        <Word WordId="3580510" WordIndex="12" WordText="singing" />
+        <Word WordId="3580511" WordIndex="13" WordText="hath" />
+        <Word WordId="3580512" WordIndex="14" WordText="come," />
+        <Word WordId="3580513" WordIndex="15" WordText="And" />
+        <Word WordId="3580514" WordIndex="16" WordText="the" />
+        <Word WordId="3580515" WordIndex="17" WordText="voice" />
+        <Word WordId="3580516" WordIndex="18" WordText="of" />
+        <Word WordId="3580517" WordIndex="19" WordText="the" />
+        <Word WordId="3580518" WordIndex="20" WordText="turtle" />
+        <Word WordId="3580519" WordIndex="21" WordText="was" />
+        <Word WordId="3580520" WordIndex="22" WordText="heard" />
+        <Word WordId="3580521" WordIndex="23" WordText="in" />
+        <Word WordId="3580522" WordIndex="24" WordText="our" />
+        <Word WordId="3580523" WordIndex="25" WordText="land," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17567" VerseNumber="13">
+      <VerseVersion VerseId="17567" VersionId="5">
+        <Word WordId="3580524" WordIndex="1" WordText="The" />
+        <Word WordId="3580525" WordIndex="2" WordText="fig-tree" />
+        <Word WordId="3580526" WordIndex="3" WordText="hath" />
+        <Word WordId="3580527" WordIndex="4" WordText="ripened" />
+        <Word WordId="3580528" WordIndex="5" WordText="her" />
+        <Word WordId="3580529" WordIndex="6" WordText="green" />
+        <Word WordId="3580530" WordIndex="7" WordText="figs," />
+        <Word WordId="3580531" WordIndex="8" WordText="And" />
+        <Word WordId="3580532" WordIndex="9" WordText="the" />
+        <Word WordId="3580533" WordIndex="10" WordText="sweet-smelling" />
+        <Word WordId="3580534" WordIndex="11" WordText="vines" />
+        <Word WordId="3580535" WordIndex="12" WordText="have" />
+        <Word WordId="3580536" WordIndex="13" WordText="given" />
+        <Word WordId="3580537" WordIndex="14" WordText="forth" />
+        <Word WordId="3580538" WordIndex="15" WordText="fragrance," />
+        <Word WordId="3580539" WordIndex="16" WordText="Rise," />
+        <Word WordId="3580540" WordIndex="17" WordText="come," />
+        <Word WordId="3580541" WordIndex="18" WordText="my" />
+        <Word WordId="3580542" WordIndex="19" WordText="friend," />
+        <Word WordId="3580543" WordIndex="20" WordText="my" />
+        <Word WordId="3580544" WordIndex="21" WordText="fair" />
+        <Word WordId="3580545" WordIndex="22" WordText="one," />
+        <Word WordId="3580546" WordIndex="23" WordText="yea," />
+        <Word WordId="3580547" WordIndex="24" WordText="come" />
+        <Word WordId="3580548" WordIndex="25" WordText="away." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17568" VerseNumber="14">
+      <VerseVersion VerseId="17568" VersionId="5">
+        <Word WordId="3580549" WordIndex="1" WordText="My" />
+        <Word WordId="3580550" WordIndex="2" WordText="dove," />
+        <Word WordId="3580551" WordIndex="3" WordText="in" />
+        <Word WordId="3580552" WordIndex="4" WordText="clefts" />
+        <Word WordId="3580553" WordIndex="5" WordText="of" />
+        <Word WordId="3580554" WordIndex="6" WordText="the" />
+        <Word WordId="3580555" WordIndex="7" WordText="rock," />
+        <Word WordId="3580556" WordIndex="8" WordText="In" />
+        <Word WordId="3580557" WordIndex="9" WordText="a" />
+        <Word WordId="3580558" WordIndex="10" WordText="secret" />
+        <Word WordId="3580559" WordIndex="11" WordText="place" />
+        <Word WordId="3580560" WordIndex="12" WordText="of" />
+        <Word WordId="3580561" WordIndex="13" WordText="the" />
+        <Word WordId="3580562" WordIndex="14" WordText="ascent," />
+        <Word WordId="3580563" WordIndex="15" WordText="Cause" />
+        <Word WordId="3580564" WordIndex="16" WordText="me" />
+        <Word WordId="3580565" WordIndex="17" WordText="to" />
+        <Word WordId="3580566" WordIndex="18" WordText="see" />
+        <Word WordId="3580567" WordIndex="19" WordText="thine" />
+        <Word WordId="3580568" WordIndex="20" WordText="appearance," />
+        <Word WordId="3580569" WordIndex="21" WordText="Cause" />
+        <Word WordId="3580570" WordIndex="22" WordText="me" />
+        <Word WordId="3580571" WordIndex="23" WordText="to" />
+        <Word WordId="3580572" WordIndex="24" WordText="hear" />
+        <Word WordId="3580573" WordIndex="25" WordText="thy" />
+        <Word WordId="3580574" WordIndex="26" WordText="voice," />
+        <Word WordId="3580575" WordIndex="27" WordText="For" />
+        <Word WordId="3580576" WordIndex="28" WordText="thy" />
+        <Word WordId="3580577" WordIndex="29" WordText="voice" />
+        <Word WordId="3580578" WordIndex="30" WordText="[is]" />
+        <Word WordId="3580579" WordIndex="31" WordText="sweet," />
+        <Word WordId="3580580" WordIndex="32" WordText="and" />
+        <Word WordId="3580581" WordIndex="33" WordText="thy" />
+        <Word WordId="3580582" WordIndex="34" WordText="appearance" />
+        <Word WordId="3580583" WordIndex="35" WordText="comely." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17569" VerseNumber="15">
+      <VerseVersion VerseId="17569" VersionId="5">
+        <Word WordId="3580584" WordIndex="1" WordText="Seize" />
+        <Word WordId="3580585" WordIndex="2" WordText="ye" />
+        <Word WordId="3580586" WordIndex="3" WordText="for" />
+        <Word WordId="3580587" WordIndex="4" WordText="us" />
+        <Word WordId="3580588" WordIndex="5" WordText="foxes," />
+        <Word WordId="3580589" WordIndex="6" WordText="Little" />
+        <Word WordId="3580590" WordIndex="7" WordText="foxes" />
+        <Word WordId="3580591" WordIndex="8" WordText="--" />
+        <Word WordId="3580592" WordIndex="9" WordText="destroyers" />
+        <Word WordId="3580593" WordIndex="10" WordText="of" />
+        <Word WordId="3580594" WordIndex="11" WordText="vineyards," />
+        <Word WordId="3580595" WordIndex="12" WordText="Even" />
+        <Word WordId="3580596" WordIndex="13" WordText="our" />
+        <Word WordId="3580597" WordIndex="14" WordText="sweet-smelling" />
+        <Word WordId="3580598" WordIndex="15" WordText="vineyards." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17570" VerseNumber="16">
+      <VerseVersion VerseId="17570" VersionId="5">
+        <Word WordId="3580599" WordIndex="1" WordText="My" />
+        <Word WordId="3580600" WordIndex="2" WordText="beloved" />
+        <Word WordId="3580601" WordIndex="3" WordText="[is]" />
+        <Word WordId="3580602" WordIndex="4" WordText="mine," />
+        <Word WordId="3580603" WordIndex="5" WordText="and" />
+        <Word WordId="3580604" WordIndex="6" WordText="I" />
+        <Word WordId="3580605" WordIndex="7" WordText="[am]" />
+        <Word WordId="3580606" WordIndex="8" WordText="his," />
+        <Word WordId="3580607" WordIndex="9" WordText="Who" />
+        <Word WordId="3580608" WordIndex="10" WordText="is" />
+        <Word WordId="3580609" WordIndex="11" WordText="delighting" />
+        <Word WordId="3580610" WordIndex="12" WordText="among" />
+        <Word WordId="3580611" WordIndex="13" WordText="the" />
+        <Word WordId="3580612" WordIndex="14" WordText="lilies," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17571" VerseNumber="17">
+      <VerseVersion VerseId="17571" VersionId="5">
+        <Word WordId="3580613" WordIndex="1" WordText="Till" />
+        <Word WordId="3580614" WordIndex="2" WordText="the" />
+        <Word WordId="3580615" WordIndex="3" WordText="day" />
+        <Word WordId="3580616" WordIndex="4" WordText="doth" />
+        <Word WordId="3580617" WordIndex="5" WordText="break" />
+        <Word WordId="3580618" WordIndex="6" WordText="forth," />
+        <Word WordId="3580619" WordIndex="7" WordText="And" />
+        <Word WordId="3580620" WordIndex="8" WordText="the" />
+        <Word WordId="3580621" WordIndex="9" WordText="shadows" />
+        <Word WordId="3580622" WordIndex="10" WordText="have" />
+        <Word WordId="3580623" WordIndex="11" WordText="fled" />
+        <Word WordId="3580624" WordIndex="12" WordText="away," />
+        <Word WordId="3580625" WordIndex="13" WordText="Turn," />
+        <Word WordId="3580626" WordIndex="14" WordText="be" />
+        <Word WordId="3580627" WordIndex="15" WordText="like," />
+        <Word WordId="3580628" WordIndex="16" WordText="my" />
+        <Word WordId="3580629" WordIndex="17" WordText="beloved," />
+        <Word WordId="3580630" WordIndex="18" WordText="To" />
+        <Word WordId="3580631" WordIndex="19" WordText="a" />
+        <Word WordId="3580632" WordIndex="20" WordText="roe," />
+        <Word WordId="3580633" WordIndex="21" WordText="or" />
+        <Word WordId="3580634" WordIndex="22" WordText="to" />
+        <Word WordId="3580635" WordIndex="23" WordText="a" />
+        <Word WordId="3580636" WordIndex="24" WordText="young" />
+        <Word WordId="3580637" WordIndex="25" WordText="one" />
+        <Word WordId="3580638" WordIndex="26" WordText="of" />
+        <Word WordId="3580639" WordIndex="27" WordText="the" />
+        <Word WordId="3580640" WordIndex="28" WordText="harts," />
+        <Word WordId="3580641" WordIndex="29" WordText="On" />
+        <Word WordId="3580642" WordIndex="30" WordText="the" />
+        <Word WordId="3580643" WordIndex="31" WordText="mountains" />
+        <Word WordId="3580644" WordIndex="32" WordText="of" />
+        <Word WordId="3580645" WordIndex="33" WordText="separation!" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+  <Chapter ChapterId="674" ChapterNumber="3">
+    <Verse VerseId="17572" VerseNumber="1">
+      <VerseVersion VerseId="17572" VersionId="5">
+        <Word WordId="3580646" WordIndex="1" WordText="On" />
+        <Word WordId="3580647" WordIndex="2" WordText="my" />
+        <Word WordId="3580648" WordIndex="3" WordText="couch" />
+        <Word WordId="3580649" WordIndex="4" WordText="by" />
+        <Word WordId="3580650" WordIndex="5" WordText="night," />
+        <Word WordId="3580651" WordIndex="6" WordText="I" />
+        <Word WordId="3580652" WordIndex="7" WordText="sought" />
+        <Word WordId="3580653" WordIndex="8" WordText="him" />
+        <Word WordId="3580654" WordIndex="9" WordText="whom" />
+        <Word WordId="3580655" WordIndex="10" WordText="my" />
+        <Word WordId="3580656" WordIndex="11" WordText="soul" />
+        <Word WordId="3580657" WordIndex="12" WordText="hath" />
+        <Word WordId="3580658" WordIndex="13" WordText="loved;" />
+        <Word WordId="3580659" WordIndex="14" WordText="I" />
+        <Word WordId="3580660" WordIndex="15" WordText="sought" />
+        <Word WordId="3580661" WordIndex="16" WordText="him," />
+        <Word WordId="3580662" WordIndex="17" WordText="and" />
+        <Word WordId="3580663" WordIndex="18" WordText="I" />
+        <Word WordId="3580664" WordIndex="19" WordText="found" />
+        <Word WordId="3580665" WordIndex="20" WordText="him" />
+        <Word WordId="3580666" WordIndex="21" WordText="not!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17573" VerseNumber="2">
+      <VerseVersion VerseId="17573" VersionId="5">
+        <Word WordId="3580667" WordIndex="1" WordText="--" />
+        <Word WordId="3580668" WordIndex="2" WordText="Pray," />
+        <Word WordId="3580669" WordIndex="3" WordText="let" />
+        <Word WordId="3580670" WordIndex="4" WordText="me" />
+        <Word WordId="3580671" WordIndex="5" WordText="rise," />
+        <Word WordId="3580672" WordIndex="6" WordText="and" />
+        <Word WordId="3580673" WordIndex="7" WordText="go" />
+        <Word WordId="3580674" WordIndex="8" WordText="round" />
+        <Word WordId="3580675" WordIndex="9" WordText="the" />
+        <Word WordId="3580676" WordIndex="10" WordText="city," />
+        <Word WordId="3580677" WordIndex="11" WordText="In" />
+        <Word WordId="3580678" WordIndex="12" WordText="the" />
+        <Word WordId="3580679" WordIndex="13" WordText="streets" />
+        <Word WordId="3580680" WordIndex="14" WordText="and" />
+        <Word WordId="3580681" WordIndex="15" WordText="in" />
+        <Word WordId="3580682" WordIndex="16" WordText="the" />
+        <Word WordId="3580683" WordIndex="17" WordText="broad" />
+        <Word WordId="3580684" WordIndex="18" WordText="places," />
+        <Word WordId="3580685" WordIndex="19" WordText="I" />
+        <Word WordId="3580686" WordIndex="20" WordText="seek" />
+        <Word WordId="3580687" WordIndex="21" WordText="him" />
+        <Word WordId="3580688" WordIndex="22" WordText="whom" />
+        <Word WordId="3580689" WordIndex="23" WordText="my" />
+        <Word WordId="3580690" WordIndex="24" WordText="soul" />
+        <Word WordId="3580691" WordIndex="25" WordText="hath" />
+        <Word WordId="3580692" WordIndex="26" WordText="loved!" />
+        <Word WordId="3580693" WordIndex="27" WordText="--" />
+        <Word WordId="3580694" WordIndex="28" WordText="I" />
+        <Word WordId="3580695" WordIndex="29" WordText="sought" />
+        <Word WordId="3580696" WordIndex="30" WordText="him," />
+        <Word WordId="3580697" WordIndex="31" WordText="and" />
+        <Word WordId="3580698" WordIndex="32" WordText="I" />
+        <Word WordId="3580699" WordIndex="33" WordText="found" />
+        <Word WordId="3580700" WordIndex="34" WordText="him" />
+        <Word WordId="3580701" WordIndex="35" WordText="not." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17574" VerseNumber="3">
+      <VerseVersion VerseId="17574" VersionId="5">
+        <Word WordId="3580702" WordIndex="1" WordText="The" />
+        <Word WordId="3580703" WordIndex="2" WordText="watchmen" />
+        <Word WordId="3580704" WordIndex="3" WordText="have" />
+        <Word WordId="3580705" WordIndex="4" WordText="found" />
+        <Word WordId="3580706" WordIndex="5" WordText="me," />
+        <Word WordId="3580707" WordIndex="6" WordText="(Who" />
+        <Word WordId="3580708" WordIndex="7" WordText="are" />
+        <Word WordId="3580709" WordIndex="8" WordText="going" />
+        <Word WordId="3580710" WordIndex="9" WordText="round" />
+        <Word WordId="3580711" WordIndex="10" WordText="about" />
+        <Word WordId="3580712" WordIndex="11" WordText="the" />
+        <Word WordId="3580713" WordIndex="12" WordText="city)," />
+        <Word WordId="3580714" WordIndex="13" WordText="`Him" />
+        <Word WordId="3580715" WordIndex="14" WordText="whom" />
+        <Word WordId="3580716" WordIndex="15" WordText="my" />
+        <Word WordId="3580717" WordIndex="16" WordText="soul" />
+        <Word WordId="3580718" WordIndex="17" WordText="have" />
+        <Word WordId="3580719" WordIndex="18" WordText="loved" />
+        <Word WordId="3580720" WordIndex="19" WordText="saw" />
+        <Word WordId="3580721" WordIndex="20" WordText="ye?'" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17575" VerseNumber="4">
+      <VerseVersion VerseId="17575" VersionId="5">
+        <Word WordId="3580722" WordIndex="1" WordText="But" />
+        <Word WordId="3580723" WordIndex="2" WordText="a" />
+        <Word WordId="3580724" WordIndex="3" WordText="little" />
+        <Word WordId="3580725" WordIndex="4" WordText="I" />
+        <Word WordId="3580726" WordIndex="5" WordText="passed" />
+        <Word WordId="3580727" WordIndex="6" WordText="on" />
+        <Word WordId="3580728" WordIndex="7" WordText="from" />
+        <Word WordId="3580729" WordIndex="8" WordText="them," />
+        <Word WordId="3580730" WordIndex="9" WordText="Till" />
+        <Word WordId="3580731" WordIndex="10" WordText="I" />
+        <Word WordId="3580732" WordIndex="11" WordText="found" />
+        <Word WordId="3580733" WordIndex="12" WordText="him" />
+        <Word WordId="3580734" WordIndex="13" WordText="whom" />
+        <Word WordId="3580735" WordIndex="14" WordText="my" />
+        <Word WordId="3580736" WordIndex="15" WordText="soul" />
+        <Word WordId="3580737" WordIndex="16" WordText="hath" />
+        <Word WordId="3580738" WordIndex="17" WordText="loved!" />
+        <Word WordId="3580739" WordIndex="18" WordText="I" />
+        <Word WordId="3580740" WordIndex="19" WordText="seized" />
+        <Word WordId="3580741" WordIndex="20" WordText="him," />
+        <Word WordId="3580742" WordIndex="21" WordText="and" />
+        <Word WordId="3580743" WordIndex="22" WordText="let" />
+        <Word WordId="3580744" WordIndex="23" WordText="him" />
+        <Word WordId="3580745" WordIndex="24" WordText="not" />
+        <Word WordId="3580746" WordIndex="25" WordText="go," />
+        <Word WordId="3580747" WordIndex="26" WordText="Till" />
+        <Word WordId="3580748" WordIndex="27" WordText="I" />
+        <Word WordId="3580749" WordIndex="28" WordText="brought" />
+        <Word WordId="3580750" WordIndex="29" WordText="him" />
+        <Word WordId="3580751" WordIndex="30" WordText="in" />
+        <Word WordId="3580752" WordIndex="31" WordText="unto" />
+        <Word WordId="3580753" WordIndex="32" WordText="the" />
+        <Word WordId="3580754" WordIndex="33" WordText="house" />
+        <Word WordId="3580755" WordIndex="34" WordText="of" />
+        <Word WordId="3580756" WordIndex="35" WordText="my" />
+        <Word WordId="3580757" WordIndex="36" WordText="mother" />
+        <Word WordId="3580758" WordIndex="37" WordText="--" />
+        <Word WordId="3580759" WordIndex="38" WordText="And" />
+        <Word WordId="3580760" WordIndex="39" WordText="the" />
+        <Word WordId="3580761" WordIndex="40" WordText="chamber" />
+        <Word WordId="3580762" WordIndex="41" WordText="of" />
+        <Word WordId="3580763" WordIndex="42" WordText="her" />
+        <Word WordId="3580764" WordIndex="43" WordText="that" />
+        <Word WordId="3580765" WordIndex="44" WordText="conceived" />
+        <Word WordId="3580766" WordIndex="45" WordText="me." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17576" VerseNumber="5">
+      <VerseVersion VerseId="17576" VersionId="5">
+        <Word WordId="3580767" WordIndex="1" WordText="I" />
+        <Word WordId="3580768" WordIndex="2" WordText="have" />
+        <Word WordId="3580769" WordIndex="3" WordText="adjured" />
+        <Word WordId="3580770" WordIndex="4" WordText="you," />
+        <Word WordId="3580771" WordIndex="5" WordText="daughters" />
+        <Word WordId="3580772" WordIndex="6" WordText="of" />
+        <Word WordId="3580773" WordIndex="7" WordText="Jerusalem," />
+        <Word WordId="3580774" WordIndex="8" WordText="By" />
+        <Word WordId="3580775" WordIndex="9" WordText="the" />
+        <Word WordId="3580776" WordIndex="10" WordText="roes" />
+        <Word WordId="3580777" WordIndex="11" WordText="or" />
+        <Word WordId="3580778" WordIndex="12" WordText="by" />
+        <Word WordId="3580779" WordIndex="13" WordText="the" />
+        <Word WordId="3580780" WordIndex="14" WordText="hinds" />
+        <Word WordId="3580781" WordIndex="15" WordText="of" />
+        <Word WordId="3580782" WordIndex="16" WordText="the" />
+        <Word WordId="3580783" WordIndex="17" WordText="field," />
+        <Word WordId="3580784" WordIndex="18" WordText="Stir" />
+        <Word WordId="3580785" WordIndex="19" WordText="not" />
+        <Word WordId="3580786" WordIndex="20" WordText="up" />
+        <Word WordId="3580787" WordIndex="21" WordText="nor" />
+        <Word WordId="3580788" WordIndex="22" WordText="wake" />
+        <Word WordId="3580789" WordIndex="23" WordText="the" />
+        <Word WordId="3580790" WordIndex="24" WordText="love" />
+        <Word WordId="3580791" WordIndex="25" WordText="till" />
+        <Word WordId="3580792" WordIndex="26" WordText="she" />
+        <Word WordId="3580793" WordIndex="27" WordText="please!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17577" VerseNumber="6">
+      <VerseVersion VerseId="17577" VersionId="5">
+        <Word WordId="3580794" WordIndex="1" WordText="Who" />
+        <Word WordId="3580795" WordIndex="2" WordText="[is]" />
+        <Word WordId="3580796" WordIndex="3" WordText="this" />
+        <Word WordId="3580797" WordIndex="4" WordText="coming" />
+        <Word WordId="3580798" WordIndex="5" WordText="up" />
+        <Word WordId="3580799" WordIndex="6" WordText="from" />
+        <Word WordId="3580800" WordIndex="7" WordText="the" />
+        <Word WordId="3580801" WordIndex="8" WordText="wilderness," />
+        <Word WordId="3580802" WordIndex="9" WordText="Like" />
+        <Word WordId="3580803" WordIndex="10" WordText="palm-trees" />
+        <Word WordId="3580804" WordIndex="11" WordText="of" />
+        <Word WordId="3580805" WordIndex="12" WordText="smoke," />
+        <Word WordId="3580806" WordIndex="13" WordText="Perfumed" />
+        <Word WordId="3580807" WordIndex="14" WordText="[with]" />
+        <Word WordId="3580808" WordIndex="15" WordText="myrrh" />
+        <Word WordId="3580809" WordIndex="16" WordText="and" />
+        <Word WordId="3580810" WordIndex="17" WordText="frankincense," />
+        <Word WordId="3580811" WordIndex="18" WordText="From" />
+        <Word WordId="3580812" WordIndex="19" WordText="every" />
+        <Word WordId="3580813" WordIndex="20" WordText="powder" />
+        <Word WordId="3580814" WordIndex="21" WordText="of" />
+        <Word WordId="3580815" WordIndex="22" WordText="the" />
+        <Word WordId="3580816" WordIndex="23" WordText="merchant?" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17578" VerseNumber="7">
+      <VerseVersion VerseId="17578" VersionId="5">
+        <Word WordId="3580817" WordIndex="1" WordText="Lo," />
+        <Word WordId="3580818" WordIndex="2" WordText="his" />
+        <Word WordId="3580819" WordIndex="3" WordText="couch," />
+        <Word WordId="3580820" WordIndex="4" WordText="that" />
+        <Word WordId="3580821" WordIndex="5" WordText="[is]" />
+        <Word WordId="3580822" WordIndex="6" WordText="Solomon's," />
+        <Word WordId="3580823" WordIndex="7" WordText="Sixty" />
+        <Word WordId="3580824" WordIndex="8" WordText="mighty" />
+        <Word WordId="3580825" WordIndex="9" WordText="ones" />
+        <Word WordId="3580826" WordIndex="10" WordText="[are]" />
+        <Word WordId="3580827" WordIndex="11" WordText="around" />
+        <Word WordId="3580828" WordIndex="12" WordText="it," />
+        <Word WordId="3580829" WordIndex="13" WordText="Of" />
+        <Word WordId="3580830" WordIndex="14" WordText="the" />
+        <Word WordId="3580831" WordIndex="15" WordText="mighty" />
+        <Word WordId="3580832" WordIndex="16" WordText="of" />
+        <Word WordId="3580833" WordIndex="17" WordText="Israel," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17579" VerseNumber="8">
+      <VerseVersion VerseId="17579" VersionId="5">
+        <Word WordId="3580834" WordIndex="1" WordText="All" />
+        <Word WordId="3580835" WordIndex="2" WordText="of" />
+        <Word WordId="3580836" WordIndex="3" WordText="them" />
+        <Word WordId="3580837" WordIndex="4" WordText="holding" />
+        <Word WordId="3580838" WordIndex="5" WordText="sword," />
+        <Word WordId="3580839" WordIndex="6" WordText="taught" />
+        <Word WordId="3580840" WordIndex="7" WordText="of" />
+        <Word WordId="3580841" WordIndex="8" WordText="battle," />
+        <Word WordId="3580842" WordIndex="9" WordText="Each" />
+        <Word WordId="3580843" WordIndex="10" WordText="his" />
+        <Word WordId="3580844" WordIndex="11" WordText="sword" />
+        <Word WordId="3580845" WordIndex="12" WordText="by" />
+        <Word WordId="3580846" WordIndex="13" WordText="his" />
+        <Word WordId="3580847" WordIndex="14" WordText="thigh," />
+        <Word WordId="3580848" WordIndex="15" WordText="for" />
+        <Word WordId="3580849" WordIndex="16" WordText="fear" />
+        <Word WordId="3580850" WordIndex="17" WordText="at" />
+        <Word WordId="3580851" WordIndex="18" WordText="night." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17580" VerseNumber="9">
+      <VerseVersion VerseId="17580" VersionId="5">
+        <Word WordId="3580852" WordIndex="1" WordText="A" />
+        <Word WordId="3580853" WordIndex="2" WordText="palanquin" />
+        <Word WordId="3580854" WordIndex="3" WordText="king" />
+        <Word WordId="3580855" WordIndex="4" WordText="Solomon" />
+        <Word WordId="3580856" WordIndex="5" WordText="made" />
+        <Word WordId="3580857" WordIndex="6" WordText="for" />
+        <Word WordId="3580858" WordIndex="7" WordText="himself," />
+        <Word WordId="3580859" WordIndex="8" WordText="Of" />
+        <Word WordId="3580860" WordIndex="9" WordText="the" />
+        <Word WordId="3580861" WordIndex="10" WordText="wood" />
+        <Word WordId="3580862" WordIndex="11" WordText="of" />
+        <Word WordId="3580863" WordIndex="12" WordText="Lebanon," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17581" VerseNumber="10">
+      <VerseVersion VerseId="17581" VersionId="5">
+        <Word WordId="3580864" WordIndex="1" WordText="Its" />
+        <Word WordId="3580865" WordIndex="2" WordText="pillars" />
+        <Word WordId="3580866" WordIndex="3" WordText="he" />
+        <Word WordId="3580867" WordIndex="4" WordText="made" />
+        <Word WordId="3580868" WordIndex="5" WordText="of" />
+        <Word WordId="3580869" WordIndex="6" WordText="silver," />
+        <Word WordId="3580870" WordIndex="7" WordText="Its" />
+        <Word WordId="3580871" WordIndex="8" WordText="bottom" />
+        <Word WordId="3580872" WordIndex="9" WordText="of" />
+        <Word WordId="3580873" WordIndex="10" WordText="gold," />
+        <Word WordId="3580874" WordIndex="11" WordText="its" />
+        <Word WordId="3580875" WordIndex="12" WordText="seat" />
+        <Word WordId="3580876" WordIndex="13" WordText="of" />
+        <Word WordId="3580877" WordIndex="14" WordText="purple," />
+        <Word WordId="3580878" WordIndex="15" WordText="Its" />
+        <Word WordId="3580879" WordIndex="16" WordText="midst" />
+        <Word WordId="3580880" WordIndex="17" WordText="lined" />
+        <Word WordId="3580881" WordIndex="18" WordText="[with]" />
+        <Word WordId="3580882" WordIndex="19" WordText="love," />
+        <Word WordId="3580883" WordIndex="20" WordText="By" />
+        <Word WordId="3580884" WordIndex="21" WordText="the" />
+        <Word WordId="3580885" WordIndex="22" WordText="daughters" />
+        <Word WordId="3580886" WordIndex="23" WordText="of" />
+        <Word WordId="3580887" WordIndex="24" WordText="Jerusalem." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17582" VerseNumber="11">
+      <VerseVersion VerseId="17582" VersionId="5">
+        <Word WordId="3580888" WordIndex="1" WordText="Go" />
+        <Word WordId="3580889" WordIndex="2" WordText="forth," />
+        <Word WordId="3580890" WordIndex="3" WordText="and" />
+        <Word WordId="3580891" WordIndex="4" WordText="look," />
+        <Word WordId="3580892" WordIndex="5" WordText="ye" />
+        <Word WordId="3580893" WordIndex="6" WordText="daughters" />
+        <Word WordId="3580894" WordIndex="7" WordText="of" />
+        <Word WordId="3580895" WordIndex="8" WordText="Zion," />
+        <Word WordId="3580896" WordIndex="9" WordText="On" />
+        <Word WordId="3580897" WordIndex="10" WordText="king" />
+        <Word WordId="3580898" WordIndex="11" WordText="Solomon," />
+        <Word WordId="3580899" WordIndex="12" WordText="with" />
+        <Word WordId="3580900" WordIndex="13" WordText="the" />
+        <Word WordId="3580901" WordIndex="14" WordText="crown," />
+        <Word WordId="3580902" WordIndex="15" WordText="With" />
+        <Word WordId="3580903" WordIndex="16" WordText="which" />
+        <Word WordId="3580904" WordIndex="17" WordText="his" />
+        <Word WordId="3580905" WordIndex="18" WordText="mother" />
+        <Word WordId="3580906" WordIndex="19" WordText="crowned" />
+        <Word WordId="3580907" WordIndex="20" WordText="him," />
+        <Word WordId="3580908" WordIndex="21" WordText="In" />
+        <Word WordId="3580909" WordIndex="22" WordText="the" />
+        <Word WordId="3580910" WordIndex="23" WordText="day" />
+        <Word WordId="3580911" WordIndex="24" WordText="of" />
+        <Word WordId="3580912" WordIndex="25" WordText="his" />
+        <Word WordId="3580913" WordIndex="26" WordText="espousals," />
+        <Word WordId="3580914" WordIndex="27" WordText="And" />
+        <Word WordId="3580915" WordIndex="28" WordText="in" />
+        <Word WordId="3580916" WordIndex="29" WordText="the" />
+        <Word WordId="3580917" WordIndex="30" WordText="day" />
+        <Word WordId="3580918" WordIndex="31" WordText="of" />
+        <Word WordId="3580919" WordIndex="32" WordText="the" />
+        <Word WordId="3580920" WordIndex="33" WordText="joy" />
+        <Word WordId="3580921" WordIndex="34" WordText="of" />
+        <Word WordId="3580922" WordIndex="35" WordText="his" />
+        <Word WordId="3580923" WordIndex="36" WordText="heart!" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+  <Chapter ChapterId="675" ChapterNumber="4">
+    <Verse VerseId="17583" VerseNumber="1">
+      <VerseVersion VerseId="17583" VersionId="5">
+        <Word WordId="3580924" WordIndex="1" WordText="Lo," />
+        <Word WordId="3580925" WordIndex="2" WordText="thou" />
+        <Word WordId="3580926" WordIndex="3" WordText="[art]" />
+        <Word WordId="3580927" WordIndex="4" WordText="fair," />
+        <Word WordId="3580928" WordIndex="5" WordText="my" />
+        <Word WordId="3580929" WordIndex="6" WordText="friend," />
+        <Word WordId="3580930" WordIndex="7" WordText="lo," />
+        <Word WordId="3580931" WordIndex="8" WordText="thou" />
+        <Word WordId="3580932" WordIndex="9" WordText="[art]" />
+        <Word WordId="3580933" WordIndex="10" WordText="fair," />
+        <Word WordId="3580934" WordIndex="11" WordText="Thine" />
+        <Word WordId="3580935" WordIndex="12" WordText="eyes" />
+        <Word WordId="3580936" WordIndex="13" WordText="[are]" />
+        <Word WordId="3580937" WordIndex="14" WordText="doves" />
+        <Word WordId="3580938" WordIndex="15" WordText="behind" />
+        <Word WordId="3580939" WordIndex="16" WordText="thy" />
+        <Word WordId="3580940" WordIndex="17" WordText="veil," />
+        <Word WordId="3580941" WordIndex="18" WordText="Thy" />
+        <Word WordId="3580942" WordIndex="19" WordText="hair" />
+        <Word WordId="3580943" WordIndex="20" WordText="as" />
+        <Word WordId="3580944" WordIndex="21" WordText="a" />
+        <Word WordId="3580945" WordIndex="22" WordText="row" />
+        <Word WordId="3580946" WordIndex="23" WordText="of" />
+        <Word WordId="3580947" WordIndex="24" WordText="the" />
+        <Word WordId="3580948" WordIndex="25" WordText="goats" />
+        <Word WordId="3580949" WordIndex="26" WordText="That" />
+        <Word WordId="3580950" WordIndex="27" WordText="have" />
+        <Word WordId="3580951" WordIndex="28" WordText="shone" />
+        <Word WordId="3580952" WordIndex="29" WordText="from" />
+        <Word WordId="3580953" WordIndex="30" WordText="mount" />
+        <Word WordId="3580954" WordIndex="31" WordText="Gilead," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17584" VerseNumber="2">
+      <VerseVersion VerseId="17584" VersionId="5">
+        <Word WordId="3580955" WordIndex="1" WordText="Thy" />
+        <Word WordId="3580956" WordIndex="2" WordText="teeth" />
+        <Word WordId="3580957" WordIndex="3" WordText="as" />
+        <Word WordId="3580958" WordIndex="4" WordText="a" />
+        <Word WordId="3580959" WordIndex="5" WordText="row" />
+        <Word WordId="3580960" WordIndex="6" WordText="of" />
+        <Word WordId="3580961" WordIndex="7" WordText="the" />
+        <Word WordId="3580962" WordIndex="8" WordText="shorn" />
+        <Word WordId="3580963" WordIndex="9" WordText="ones" />
+        <Word WordId="3580964" WordIndex="10" WordText="That" />
+        <Word WordId="3580965" WordIndex="11" WordText="have" />
+        <Word WordId="3580966" WordIndex="12" WordText="come" />
+        <Word WordId="3580967" WordIndex="13" WordText="up" />
+        <Word WordId="3580968" WordIndex="14" WordText="from" />
+        <Word WordId="3580969" WordIndex="15" WordText="the" />
+        <Word WordId="3580970" WordIndex="16" WordText="washing," />
+        <Word WordId="3580971" WordIndex="17" WordText="For" />
+        <Word WordId="3580972" WordIndex="18" WordText="all" />
+        <Word WordId="3580973" WordIndex="19" WordText="of" />
+        <Word WordId="3580974" WordIndex="20" WordText="them" />
+        <Word WordId="3580975" WordIndex="21" WordText="are" />
+        <Word WordId="3580976" WordIndex="22" WordText="forming" />
+        <Word WordId="3580977" WordIndex="23" WordText="twins," />
+        <Word WordId="3580978" WordIndex="24" WordText="And" />
+        <Word WordId="3580979" WordIndex="25" WordText="a" />
+        <Word WordId="3580980" WordIndex="26" WordText="bereaved" />
+        <Word WordId="3580981" WordIndex="27" WordText="one" />
+        <Word WordId="3580982" WordIndex="28" WordText="is" />
+        <Word WordId="3580983" WordIndex="29" WordText="not" />
+        <Word WordId="3580984" WordIndex="30" WordText="among" />
+        <Word WordId="3580985" WordIndex="31" WordText="them." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17585" VerseNumber="3">
+      <VerseVersion VerseId="17585" VersionId="5">
+        <Word WordId="3580986" WordIndex="1" WordText="As" />
+        <Word WordId="3580987" WordIndex="2" WordText="a" />
+        <Word WordId="3580988" WordIndex="3" WordText="thread" />
+        <Word WordId="3580989" WordIndex="4" WordText="of" />
+        <Word WordId="3580990" WordIndex="5" WordText="scarlet" />
+        <Word WordId="3580991" WordIndex="6" WordText="[are]" />
+        <Word WordId="3580992" WordIndex="7" WordText="thy" />
+        <Word WordId="3580993" WordIndex="8" WordText="lips," />
+        <Word WordId="3580994" WordIndex="9" WordText="And" />
+        <Word WordId="3580995" WordIndex="10" WordText="thy" />
+        <Word WordId="3580996" WordIndex="11" WordText="speech" />
+        <Word WordId="3580997" WordIndex="12" WordText="[is]" />
+        <Word WordId="3580998" WordIndex="13" WordText="comely," />
+        <Word WordId="3580999" WordIndex="14" WordText="As" />
+        <Word WordId="3581000" WordIndex="15" WordText="the" />
+        <Word WordId="3581001" WordIndex="16" WordText="work" />
+        <Word WordId="3581002" WordIndex="17" WordText="of" />
+        <Word WordId="3581003" WordIndex="18" WordText="the" />
+        <Word WordId="3581004" WordIndex="19" WordText="pomegranate" />
+        <Word WordId="3581005" WordIndex="20" WordText="[is]" />
+        <Word WordId="3581006" WordIndex="21" WordText="thy" />
+        <Word WordId="3581007" WordIndex="22" WordText="temple" />
+        <Word WordId="3581008" WordIndex="23" WordText="behind" />
+        <Word WordId="3581009" WordIndex="24" WordText="thy" />
+        <Word WordId="3581010" WordIndex="25" WordText="veil," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17586" VerseNumber="4">
+      <VerseVersion VerseId="17586" VersionId="5">
+        <Word WordId="3581011" WordIndex="1" WordText="As" />
+        <Word WordId="3581012" WordIndex="2" WordText="the" />
+        <Word WordId="3581013" WordIndex="3" WordText="tower" />
+        <Word WordId="3581014" WordIndex="4" WordText="of" />
+        <Word WordId="3581015" WordIndex="5" WordText="David" />
+        <Word WordId="3581016" WordIndex="6" WordText="[is]" />
+        <Word WordId="3581017" WordIndex="7" WordText="thy" />
+        <Word WordId="3581018" WordIndex="8" WordText="neck," />
+        <Word WordId="3581019" WordIndex="9" WordText="built" />
+        <Word WordId="3581020" WordIndex="10" WordText="for" />
+        <Word WordId="3581021" WordIndex="11" WordText="an" />
+        <Word WordId="3581022" WordIndex="12" WordText="armoury," />
+        <Word WordId="3581023" WordIndex="13" WordText="The" />
+        <Word WordId="3581024" WordIndex="14" WordText="chief" />
+        <Word WordId="3581025" WordIndex="15" WordText="of" />
+        <Word WordId="3581026" WordIndex="16" WordText="the" />
+        <Word WordId="3581027" WordIndex="17" WordText="shields" />
+        <Word WordId="3581028" WordIndex="18" WordText="are" />
+        <Word WordId="3581029" WordIndex="19" WordText="hung" />
+        <Word WordId="3581030" WordIndex="20" WordText="on" />
+        <Word WordId="3581031" WordIndex="21" WordText="it," />
+        <Word WordId="3581032" WordIndex="22" WordText="All" />
+        <Word WordId="3581033" WordIndex="23" WordText="shields" />
+        <Word WordId="3581034" WordIndex="24" WordText="of" />
+        <Word WordId="3581035" WordIndex="25" WordText="the" />
+        <Word WordId="3581036" WordIndex="26" WordText="mighty." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17587" VerseNumber="5">
+      <VerseVersion VerseId="17587" VersionId="5">
+        <Word WordId="3581037" WordIndex="1" WordText="Thy" />
+        <Word WordId="3581038" WordIndex="2" WordText="two" />
+        <Word WordId="3581039" WordIndex="3" WordText="breasts" />
+        <Word WordId="3581040" WordIndex="4" WordText="[are]" />
+        <Word WordId="3581041" WordIndex="5" WordText="as" />
+        <Word WordId="3581042" WordIndex="6" WordText="two" />
+        <Word WordId="3581043" WordIndex="7" WordText="fawns," />
+        <Word WordId="3581044" WordIndex="8" WordText="Twins" />
+        <Word WordId="3581045" WordIndex="9" WordText="of" />
+        <Word WordId="3581046" WordIndex="10" WordText="a" />
+        <Word WordId="3581047" WordIndex="11" WordText="roe," />
+        <Word WordId="3581048" WordIndex="12" WordText="that" />
+        <Word WordId="3581049" WordIndex="13" WordText="are" />
+        <Word WordId="3581050" WordIndex="14" WordText="feeding" />
+        <Word WordId="3581051" WordIndex="15" WordText="among" />
+        <Word WordId="3581052" WordIndex="16" WordText="lilies." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17588" VerseNumber="6">
+      <VerseVersion VerseId="17588" VersionId="5">
+        <Word WordId="3581053" WordIndex="1" WordText="Till" />
+        <Word WordId="3581054" WordIndex="2" WordText="the" />
+        <Word WordId="3581055" WordIndex="3" WordText="day" />
+        <Word WordId="3581056" WordIndex="4" WordText="doth" />
+        <Word WordId="3581057" WordIndex="5" WordText="break" />
+        <Word WordId="3581058" WordIndex="6" WordText="forth," />
+        <Word WordId="3581059" WordIndex="7" WordText="And" />
+        <Word WordId="3581060" WordIndex="8" WordText="the" />
+        <Word WordId="3581061" WordIndex="9" WordText="shadows" />
+        <Word WordId="3581062" WordIndex="10" WordText="have" />
+        <Word WordId="3581063" WordIndex="11" WordText="fled" />
+        <Word WordId="3581064" WordIndex="12" WordText="away," />
+        <Word WordId="3581065" WordIndex="13" WordText="I" />
+        <Word WordId="3581066" WordIndex="14" WordText="will" />
+        <Word WordId="3581067" WordIndex="15" WordText="get" />
+        <Word WordId="3581068" WordIndex="16" WordText="me" />
+        <Word WordId="3581069" WordIndex="17" WordText="unto" />
+        <Word WordId="3581070" WordIndex="18" WordText="the" />
+        <Word WordId="3581071" WordIndex="19" WordText="mountain" />
+        <Word WordId="3581072" WordIndex="20" WordText="of" />
+        <Word WordId="3581073" WordIndex="21" WordText="myrrh," />
+        <Word WordId="3581074" WordIndex="22" WordText="And" />
+        <Word WordId="3581075" WordIndex="23" WordText="unto" />
+        <Word WordId="3581076" WordIndex="24" WordText="the" />
+        <Word WordId="3581077" WordIndex="25" WordText="hill" />
+        <Word WordId="3581078" WordIndex="26" WordText="of" />
+        <Word WordId="3581079" WordIndex="27" WordText="frankincense." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17589" VerseNumber="7">
+      <VerseVersion VerseId="17589" VersionId="5">
+        <Word WordId="3581080" WordIndex="1" WordText="Thou" />
+        <Word WordId="3581081" WordIndex="2" WordText="[art]" />
+        <Word WordId="3581082" WordIndex="3" WordText="all" />
+        <Word WordId="3581083" WordIndex="4" WordText="fair," />
+        <Word WordId="3581084" WordIndex="5" WordText="my" />
+        <Word WordId="3581085" WordIndex="6" WordText="friend," />
+        <Word WordId="3581086" WordIndex="7" WordText="And" />
+        <Word WordId="3581087" WordIndex="8" WordText="a" />
+        <Word WordId="3581088" WordIndex="9" WordText="blemish" />
+        <Word WordId="3581089" WordIndex="10" WordText="there" />
+        <Word WordId="3581090" WordIndex="11" WordText="is" />
+        <Word WordId="3581091" WordIndex="12" WordText="not" />
+        <Word WordId="3581092" WordIndex="13" WordText="in" />
+        <Word WordId="3581093" WordIndex="14" WordText="thee." />
+        <Word WordId="3581094" WordIndex="15" WordText="Come" />
+        <Word WordId="3581095" WordIndex="16" WordText="from" />
+        <Word WordId="3581096" WordIndex="17" WordText="Lebanon," />
+        <Word WordId="3581097" WordIndex="18" WordText="O" />
+        <Word WordId="3581098" WordIndex="19" WordText="spouse," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17590" VerseNumber="8">
+      <VerseVersion VerseId="17590" VersionId="5">
+        <Word WordId="3581099" WordIndex="1" WordText="Come" />
+        <Word WordId="3581100" WordIndex="2" WordText="from" />
+        <Word WordId="3581101" WordIndex="3" WordText="Lebanon," />
+        <Word WordId="3581102" WordIndex="4" WordText="come" />
+        <Word WordId="3581103" WordIndex="5" WordText="thou" />
+        <Word WordId="3581104" WordIndex="6" WordText="in." />
+        <Word WordId="3581105" WordIndex="7" WordText="Look" />
+        <Word WordId="3581106" WordIndex="8" WordText="from" />
+        <Word WordId="3581107" WordIndex="9" WordText="the" />
+        <Word WordId="3581108" WordIndex="10" WordText="top" />
+        <Word WordId="3581109" WordIndex="11" WordText="of" />
+        <Word WordId="3581110" WordIndex="12" WordText="Amana," />
+        <Word WordId="3581111" WordIndex="13" WordText="From" />
+        <Word WordId="3581112" WordIndex="14" WordText="the" />
+        <Word WordId="3581113" WordIndex="15" WordText="top" />
+        <Word WordId="3581114" WordIndex="16" WordText="of" />
+        <Word WordId="3581115" WordIndex="17" WordText="Shenir" />
+        <Word WordId="3581116" WordIndex="18" WordText="and" />
+        <Word WordId="3581117" WordIndex="19" WordText="Hermon," />
+        <Word WordId="3581118" WordIndex="20" WordText="From" />
+        <Word WordId="3581119" WordIndex="21" WordText="the" />
+        <Word WordId="3581120" WordIndex="22" WordText="habitations" />
+        <Word WordId="3581121" WordIndex="23" WordText="of" />
+        <Word WordId="3581122" WordIndex="24" WordText="lions," />
+        <Word WordId="3581123" WordIndex="25" WordText="From" />
+        <Word WordId="3581124" WordIndex="26" WordText="the" />
+        <Word WordId="3581125" WordIndex="27" WordText="mountains" />
+        <Word WordId="3581126" WordIndex="28" WordText="of" />
+        <Word WordId="3581127" WordIndex="29" WordText="leopards." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17591" VerseNumber="9">
+      <VerseVersion VerseId="17591" VersionId="5">
+        <Word WordId="3581128" WordIndex="1" WordText="Thou" />
+        <Word WordId="3581129" WordIndex="2" WordText="hast" />
+        <Word WordId="3581130" WordIndex="3" WordText="emboldened" />
+        <Word WordId="3581131" WordIndex="4" WordText="me," />
+        <Word WordId="3581132" WordIndex="5" WordText="my" />
+        <Word WordId="3581133" WordIndex="6" WordText="sister-spouse," />
+        <Word WordId="3581134" WordIndex="7" WordText="Emboldened" />
+        <Word WordId="3581135" WordIndex="8" WordText="me" />
+        <Word WordId="3581136" WordIndex="9" WordText="with" />
+        <Word WordId="3581137" WordIndex="10" WordText="one" />
+        <Word WordId="3581138" WordIndex="11" WordText="of" />
+        <Word WordId="3581139" WordIndex="12" WordText="thine" />
+        <Word WordId="3581140" WordIndex="13" WordText="eyes," />
+        <Word WordId="3581141" WordIndex="14" WordText="With" />
+        <Word WordId="3581142" WordIndex="15" WordText="one" />
+        <Word WordId="3581143" WordIndex="16" WordText="chain" />
+        <Word WordId="3581144" WordIndex="17" WordText="of" />
+        <Word WordId="3581145" WordIndex="18" WordText="thy" />
+        <Word WordId="3581146" WordIndex="19" WordText="neck." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17592" VerseNumber="10">
+      <VerseVersion VerseId="17592" VersionId="5">
+        <Word WordId="3581147" WordIndex="1" WordText="How" />
+        <Word WordId="3581148" WordIndex="2" WordText="wonderful" />
+        <Word WordId="3581149" WordIndex="3" WordText="have" />
+        <Word WordId="3581150" WordIndex="4" WordText="been" />
+        <Word WordId="3581151" WordIndex="5" WordText="thy" />
+        <Word WordId="3581152" WordIndex="6" WordText="loves," />
+        <Word WordId="3581153" WordIndex="7" WordText="my" />
+        <Word WordId="3581154" WordIndex="8" WordText="sister-spouse," />
+        <Word WordId="3581155" WordIndex="9" WordText="How" />
+        <Word WordId="3581156" WordIndex="10" WordText="much" />
+        <Word WordId="3581157" WordIndex="11" WordText="better" />
+        <Word WordId="3581158" WordIndex="12" WordText="have" />
+        <Word WordId="3581159" WordIndex="13" WordText="been" />
+        <Word WordId="3581160" WordIndex="14" WordText="thy" />
+        <Word WordId="3581161" WordIndex="15" WordText="loves" />
+        <Word WordId="3581162" WordIndex="16" WordText="than" />
+        <Word WordId="3581163" WordIndex="17" WordText="wine," />
+        <Word WordId="3581164" WordIndex="18" WordText="And" />
+        <Word WordId="3581165" WordIndex="19" WordText="the" />
+        <Word WordId="3581166" WordIndex="20" WordText="fragrance" />
+        <Word WordId="3581167" WordIndex="21" WordText="of" />
+        <Word WordId="3581168" WordIndex="22" WordText="thy" />
+        <Word WordId="3581169" WordIndex="23" WordText="perfumes" />
+        <Word WordId="3581170" WordIndex="24" WordText="than" />
+        <Word WordId="3581171" WordIndex="25" WordText="all" />
+        <Word WordId="3581172" WordIndex="26" WordText="spices." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17593" VerseNumber="11">
+      <VerseVersion VerseId="17593" VersionId="5">
+        <Word WordId="3581173" WordIndex="1" WordText="Thy" />
+        <Word WordId="3581174" WordIndex="2" WordText="lips" />
+        <Word WordId="3581175" WordIndex="3" WordText="drop" />
+        <Word WordId="3581176" WordIndex="4" WordText="honey," />
+        <Word WordId="3581177" WordIndex="5" WordText="O" />
+        <Word WordId="3581178" WordIndex="6" WordText="spouse," />
+        <Word WordId="3581179" WordIndex="7" WordText="Honey" />
+        <Word WordId="3581180" WordIndex="8" WordText="and" />
+        <Word WordId="3581181" WordIndex="9" WordText="milk" />
+        <Word WordId="3581182" WordIndex="10" WordText="[are]" />
+        <Word WordId="3581183" WordIndex="11" WordText="under" />
+        <Word WordId="3581184" WordIndex="12" WordText="thy" />
+        <Word WordId="3581185" WordIndex="13" WordText="tongue," />
+        <Word WordId="3581186" WordIndex="14" WordText="And" />
+        <Word WordId="3581187" WordIndex="15" WordText="the" />
+        <Word WordId="3581188" WordIndex="16" WordText="fragrance" />
+        <Word WordId="3581189" WordIndex="17" WordText="of" />
+        <Word WordId="3581190" WordIndex="18" WordText="thy" />
+        <Word WordId="3581191" WordIndex="19" WordText="garments" />
+        <Word WordId="3581192" WordIndex="20" WordText="[Is]" />
+        <Word WordId="3581193" WordIndex="21" WordText="as" />
+        <Word WordId="3581194" WordIndex="22" WordText="the" />
+        <Word WordId="3581195" WordIndex="23" WordText="fragrance" />
+        <Word WordId="3581196" WordIndex="24" WordText="of" />
+        <Word WordId="3581197" WordIndex="25" WordText="Lebanon." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17594" VerseNumber="12">
+      <VerseVersion VerseId="17594" VersionId="5">
+        <Word WordId="3581198" WordIndex="1" WordText="A" />
+        <Word WordId="3581199" WordIndex="2" WordText="garden" />
+        <Word WordId="3581200" WordIndex="3" WordText="shut" />
+        <Word WordId="3581201" WordIndex="4" WordText="up" />
+        <Word WordId="3581202" WordIndex="5" WordText="[is]" />
+        <Word WordId="3581203" WordIndex="6" WordText="my" />
+        <Word WordId="3581204" WordIndex="7" WordText="sister-spouse," />
+        <Word WordId="3581205" WordIndex="8" WordText="A" />
+        <Word WordId="3581206" WordIndex="9" WordText="spring" />
+        <Word WordId="3581207" WordIndex="10" WordText="shut" />
+        <Word WordId="3581208" WordIndex="11" WordText="up" />
+        <Word WordId="3581209" WordIndex="12" WordText="--" />
+        <Word WordId="3581210" WordIndex="13" WordText="a" />
+        <Word WordId="3581211" WordIndex="14" WordText="fountain" />
+        <Word WordId="3581212" WordIndex="15" WordText="sealed." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17595" VerseNumber="13">
+      <VerseVersion VerseId="17595" VersionId="5">
+        <Word WordId="3581213" WordIndex="1" WordText="Thy" />
+        <Word WordId="3581214" WordIndex="2" WordText="shoots" />
+        <Word WordId="3581215" WordIndex="3" WordText="a" />
+        <Word WordId="3581216" WordIndex="4" WordText="paradise" />
+        <Word WordId="3581217" WordIndex="5" WordText="of" />
+        <Word WordId="3581218" WordIndex="6" WordText="pomegranates," />
+        <Word WordId="3581219" WordIndex="7" WordText="With" />
+        <Word WordId="3581220" WordIndex="8" WordText="precious" />
+        <Word WordId="3581221" WordIndex="9" WordText="fruits," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17596" VerseNumber="14">
+      <VerseVersion VerseId="17596" VersionId="5">
+        <Word WordId="3581222" WordIndex="1" WordText="Cypresses" />
+        <Word WordId="3581223" WordIndex="2" WordText="with" />
+        <Word WordId="3581224" WordIndex="3" WordText="nard" />
+        <Word WordId="3581225" WordIndex="4" WordText="--" />
+        <Word WordId="3581226" WordIndex="5" WordText="nard" />
+        <Word WordId="3581227" WordIndex="6" WordText="and" />
+        <Word WordId="3581228" WordIndex="7" WordText="saffron," />
+        <Word WordId="3581229" WordIndex="8" WordText="Cane" />
+        <Word WordId="3581230" WordIndex="9" WordText="and" />
+        <Word WordId="3581231" WordIndex="10" WordText="cinnamon," />
+        <Word WordId="3581232" WordIndex="11" WordText="With" />
+        <Word WordId="3581233" WordIndex="12" WordText="all" />
+        <Word WordId="3581234" WordIndex="13" WordText="trees" />
+        <Word WordId="3581235" WordIndex="14" WordText="of" />
+        <Word WordId="3581236" WordIndex="15" WordText="frankincense," />
+        <Word WordId="3581237" WordIndex="16" WordText="Myrrh" />
+        <Word WordId="3581238" WordIndex="17" WordText="and" />
+        <Word WordId="3581239" WordIndex="18" WordText="aloes," />
+        <Word WordId="3581240" WordIndex="19" WordText="with" />
+        <Word WordId="3581241" WordIndex="20" WordText="all" />
+        <Word WordId="3581242" WordIndex="21" WordText="chief" />
+        <Word WordId="3581243" WordIndex="22" WordText="spices." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17597" VerseNumber="15">
+      <VerseVersion VerseId="17597" VersionId="5">
+        <Word WordId="3581244" WordIndex="1" WordText="A" />
+        <Word WordId="3581245" WordIndex="2" WordText="fount" />
+        <Word WordId="3581246" WordIndex="3" WordText="of" />
+        <Word WordId="3581247" WordIndex="4" WordText="gardens," />
+        <Word WordId="3581248" WordIndex="5" WordText="a" />
+        <Word WordId="3581249" WordIndex="6" WordText="well" />
+        <Word WordId="3581250" WordIndex="7" WordText="of" />
+        <Word WordId="3581251" WordIndex="8" WordText="living" />
+        <Word WordId="3581252" WordIndex="9" WordText="waters," />
+        <Word WordId="3581253" WordIndex="10" WordText="And" />
+        <Word WordId="3581254" WordIndex="11" WordText="flowings" />
+        <Word WordId="3581255" WordIndex="12" WordText="from" />
+        <Word WordId="3581256" WordIndex="13" WordText="Lebanon!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17598" VerseNumber="16">
+      <VerseVersion VerseId="17598" VersionId="5">
+        <Word WordId="3581257" WordIndex="1" WordText="Awake," />
+        <Word WordId="3581258" WordIndex="2" WordText="O" />
+        <Word WordId="3581259" WordIndex="3" WordText="north" />
+        <Word WordId="3581260" WordIndex="4" WordText="wind," />
+        <Word WordId="3581261" WordIndex="5" WordText="and" />
+        <Word WordId="3581262" WordIndex="6" WordText="come," />
+        <Word WordId="3581263" WordIndex="7" WordText="O" />
+        <Word WordId="3581264" WordIndex="8" WordText="south," />
+        <Word WordId="3581265" WordIndex="9" WordText="Cause" />
+        <Word WordId="3581266" WordIndex="10" WordText="my" />
+        <Word WordId="3581267" WordIndex="11" WordText="garden" />
+        <Word WordId="3581268" WordIndex="12" WordText="to" />
+        <Word WordId="3581269" WordIndex="13" WordText="breathe" />
+        <Word WordId="3581270" WordIndex="14" WordText="forth," />
+        <Word WordId="3581271" WordIndex="15" WordText="its" />
+        <Word WordId="3581272" WordIndex="16" WordText="spices" />
+        <Word WordId="3581273" WordIndex="17" WordText="let" />
+        <Word WordId="3581274" WordIndex="18" WordText="flow," />
+        <Word WordId="3581275" WordIndex="19" WordText="Let" />
+        <Word WordId="3581276" WordIndex="20" WordText="my" />
+        <Word WordId="3581277" WordIndex="21" WordText="beloved" />
+        <Word WordId="3581278" WordIndex="22" WordText="come" />
+        <Word WordId="3581279" WordIndex="23" WordText="to" />
+        <Word WordId="3581280" WordIndex="24" WordText="his" />
+        <Word WordId="3581281" WordIndex="25" WordText="garden," />
+        <Word WordId="3581282" WordIndex="26" WordText="And" />
+        <Word WordId="3581283" WordIndex="27" WordText="eat" />
+        <Word WordId="3581284" WordIndex="28" WordText="its" />
+        <Word WordId="3581285" WordIndex="29" WordText="pleasant" />
+        <Word WordId="3581286" WordIndex="30" WordText="fruits!" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+  <Chapter ChapterId="676" ChapterNumber="5">
+    <Verse VerseId="17599" VerseNumber="1">
+      <VerseVersion VerseId="17599" VersionId="5">
+        <Word WordId="3581287" WordIndex="1" WordText="I" />
+        <Word WordId="3581288" WordIndex="2" WordText="have" />
+        <Word WordId="3581289" WordIndex="3" WordText="come" />
+        <Word WordId="3581290" WordIndex="4" WordText="in" />
+        <Word WordId="3581291" WordIndex="5" WordText="to" />
+        <Word WordId="3581292" WordIndex="6" WordText="my" />
+        <Word WordId="3581293" WordIndex="7" WordText="garden," />
+        <Word WordId="3581294" WordIndex="8" WordText="my" />
+        <Word WordId="3581295" WordIndex="9" WordText="sister-spouse," />
+        <Word WordId="3581296" WordIndex="10" WordText="I" />
+        <Word WordId="3581297" WordIndex="11" WordText="have" />
+        <Word WordId="3581298" WordIndex="12" WordText="plucked" />
+        <Word WordId="3581299" WordIndex="13" WordText="my" />
+        <Word WordId="3581300" WordIndex="14" WordText="myrrh" />
+        <Word WordId="3581301" WordIndex="15" WordText="with" />
+        <Word WordId="3581302" WordIndex="16" WordText="my" />
+        <Word WordId="3581303" WordIndex="17" WordText="spice," />
+        <Word WordId="3581304" WordIndex="18" WordText="I" />
+        <Word WordId="3581305" WordIndex="19" WordText="have" />
+        <Word WordId="3581306" WordIndex="20" WordText="eaten" />
+        <Word WordId="3581307" WordIndex="21" WordText="my" />
+        <Word WordId="3581308" WordIndex="22" WordText="comb" />
+        <Word WordId="3581309" WordIndex="23" WordText="with" />
+        <Word WordId="3581310" WordIndex="24" WordText="my" />
+        <Word WordId="3581311" WordIndex="25" WordText="honey," />
+        <Word WordId="3581312" WordIndex="26" WordText="I" />
+        <Word WordId="3581313" WordIndex="27" WordText="have" />
+        <Word WordId="3581314" WordIndex="28" WordText="drunk" />
+        <Word WordId="3581315" WordIndex="29" WordText="my" />
+        <Word WordId="3581316" WordIndex="30" WordText="wine" />
+        <Word WordId="3581317" WordIndex="31" WordText="with" />
+        <Word WordId="3581318" WordIndex="32" WordText="my" />
+        <Word WordId="3581319" WordIndex="33" WordText="milk." />
+        <Word WordId="3581320" WordIndex="34" WordText="Eat," />
+        <Word WordId="3581321" WordIndex="35" WordText="O" />
+        <Word WordId="3581322" WordIndex="36" WordText="friends," />
+        <Word WordId="3581323" WordIndex="37" WordText="drink," />
+        <Word WordId="3581324" WordIndex="38" WordText="Yea," />
+        <Word WordId="3581325" WordIndex="39" WordText="drink" />
+        <Word WordId="3581326" WordIndex="40" WordText="abundantly," />
+        <Word WordId="3581327" WordIndex="41" WordText="O" />
+        <Word WordId="3581328" WordIndex="42" WordText="beloved" />
+        <Word WordId="3581329" WordIndex="43" WordText="ones!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17600" VerseNumber="2">
+      <VerseVersion VerseId="17600" VersionId="5">
+        <Word WordId="3581330" WordIndex="1" WordText="I" />
+        <Word WordId="3581331" WordIndex="2" WordText="am" />
+        <Word WordId="3581332" WordIndex="3" WordText="sleeping," />
+        <Word WordId="3581333" WordIndex="4" WordText="but" />
+        <Word WordId="3581334" WordIndex="5" WordText="my" />
+        <Word WordId="3581335" WordIndex="6" WordText="heart" />
+        <Word WordId="3581336" WordIndex="7" WordText="waketh:" />
+        <Word WordId="3581337" WordIndex="8" WordText="The" />
+        <Word WordId="3581338" WordIndex="9" WordText="sound" />
+        <Word WordId="3581339" WordIndex="10" WordText="of" />
+        <Word WordId="3581340" WordIndex="11" WordText="my" />
+        <Word WordId="3581341" WordIndex="12" WordText="beloved" />
+        <Word WordId="3581342" WordIndex="13" WordText="knocking!" />
+        <Word WordId="3581343" WordIndex="14" WordText="`Open" />
+        <Word WordId="3581344" WordIndex="15" WordText="to" />
+        <Word WordId="3581345" WordIndex="16" WordText="me," />
+        <Word WordId="3581346" WordIndex="17" WordText="my" />
+        <Word WordId="3581347" WordIndex="18" WordText="sister," />
+        <Word WordId="3581348" WordIndex="19" WordText="my" />
+        <Word WordId="3581349" WordIndex="20" WordText="friend," />
+        <Word WordId="3581350" WordIndex="21" WordText="My" />
+        <Word WordId="3581351" WordIndex="22" WordText="dove," />
+        <Word WordId="3581352" WordIndex="23" WordText="my" />
+        <Word WordId="3581353" WordIndex="24" WordText="perfect" />
+        <Word WordId="3581354" WordIndex="25" WordText="one," />
+        <Word WordId="3581355" WordIndex="26" WordText="For" />
+        <Word WordId="3581356" WordIndex="27" WordText="my" />
+        <Word WordId="3581357" WordIndex="28" WordText="head" />
+        <Word WordId="3581358" WordIndex="29" WordText="is" />
+        <Word WordId="3581359" WordIndex="30" WordText="filled" />
+        <Word WordId="3581360" WordIndex="31" WordText="[with]" />
+        <Word WordId="3581361" WordIndex="32" WordText="dew," />
+        <Word WordId="3581362" WordIndex="33" WordText="My" />
+        <Word WordId="3581363" WordIndex="34" WordText="locks" />
+        <Word WordId="3581364" WordIndex="35" WordText="[with]" />
+        <Word WordId="3581365" WordIndex="36" WordText="drops" />
+        <Word WordId="3581366" WordIndex="37" WordText="of" />
+        <Word WordId="3581367" WordIndex="38" WordText="the" />
+        <Word WordId="3581368" WordIndex="39" WordText="night.'" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17601" VerseNumber="3">
+      <VerseVersion VerseId="17601" VersionId="5">
+        <Word WordId="3581369" WordIndex="1" WordText="I" />
+        <Word WordId="3581370" WordIndex="2" WordText="have" />
+        <Word WordId="3581371" WordIndex="3" WordText="put" />
+        <Word WordId="3581372" WordIndex="4" WordText="off" />
+        <Word WordId="3581373" WordIndex="5" WordText="my" />
+        <Word WordId="3581374" WordIndex="6" WordText="coat," />
+        <Word WordId="3581375" WordIndex="7" WordText="how" />
+        <Word WordId="3581376" WordIndex="8" WordText="do" />
+        <Word WordId="3581377" WordIndex="9" WordText="I" />
+        <Word WordId="3581378" WordIndex="10" WordText="put" />
+        <Word WordId="3581379" WordIndex="11" WordText="it" />
+        <Word WordId="3581380" WordIndex="12" WordText="on?" />
+        <Word WordId="3581381" WordIndex="13" WordText="I" />
+        <Word WordId="3581382" WordIndex="14" WordText="have" />
+        <Word WordId="3581383" WordIndex="15" WordText="washed" />
+        <Word WordId="3581384" WordIndex="16" WordText="my" />
+        <Word WordId="3581385" WordIndex="17" WordText="feet," />
+        <Word WordId="3581386" WordIndex="18" WordText="how" />
+        <Word WordId="3581387" WordIndex="19" WordText="do" />
+        <Word WordId="3581388" WordIndex="20" WordText="I" />
+        <Word WordId="3581389" WordIndex="21" WordText="defile" />
+        <Word WordId="3581390" WordIndex="22" WordText="them?" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17602" VerseNumber="4">
+      <VerseVersion VerseId="17602" VersionId="5">
+        <Word WordId="3581391" WordIndex="1" WordText="My" />
+        <Word WordId="3581392" WordIndex="2" WordText="beloved" />
+        <Word WordId="3581393" WordIndex="3" WordText="sent" />
+        <Word WordId="3581394" WordIndex="4" WordText="his" />
+        <Word WordId="3581395" WordIndex="5" WordText="hand" />
+        <Word WordId="3581396" WordIndex="6" WordText="from" />
+        <Word WordId="3581397" WordIndex="7" WordText="the" />
+        <Word WordId="3581398" WordIndex="8" WordText="net-work," />
+        <Word WordId="3581399" WordIndex="9" WordText="And" />
+        <Word WordId="3581400" WordIndex="10" WordText="my" />
+        <Word WordId="3581401" WordIndex="11" WordText="bowels" />
+        <Word WordId="3581402" WordIndex="12" WordText="were" />
+        <Word WordId="3581403" WordIndex="13" WordText="moved" />
+        <Word WordId="3581404" WordIndex="14" WordText="for" />
+        <Word WordId="3581405" WordIndex="15" WordText="him." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17603" VerseNumber="5">
+      <VerseVersion VerseId="17603" VersionId="5">
+        <Word WordId="3581406" WordIndex="1" WordText="I" />
+        <Word WordId="3581407" WordIndex="2" WordText="rose" />
+        <Word WordId="3581408" WordIndex="3" WordText="to" />
+        <Word WordId="3581409" WordIndex="4" WordText="open" />
+        <Word WordId="3581410" WordIndex="5" WordText="to" />
+        <Word WordId="3581411" WordIndex="6" WordText="my" />
+        <Word WordId="3581412" WordIndex="7" WordText="beloved," />
+        <Word WordId="3581413" WordIndex="8" WordText="And" />
+        <Word WordId="3581414" WordIndex="9" WordText="my" />
+        <Word WordId="3581415" WordIndex="10" WordText="hands" />
+        <Word WordId="3581416" WordIndex="11" WordText="dropped" />
+        <Word WordId="3581417" WordIndex="12" WordText="myrrh," />
+        <Word WordId="3581418" WordIndex="13" WordText="Yea," />
+        <Word WordId="3581419" WordIndex="14" WordText="my" />
+        <Word WordId="3581420" WordIndex="15" WordText="fingers" />
+        <Word WordId="3581421" WordIndex="16" WordText="flowing" />
+        <Word WordId="3581422" WordIndex="17" WordText="myrrh," />
+        <Word WordId="3581423" WordIndex="18" WordText="On" />
+        <Word WordId="3581424" WordIndex="19" WordText="the" />
+        <Word WordId="3581425" WordIndex="20" WordText="handles" />
+        <Word WordId="3581426" WordIndex="21" WordText="of" />
+        <Word WordId="3581427" WordIndex="22" WordText="the" />
+        <Word WordId="3581428" WordIndex="23" WordText="lock." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17604" VerseNumber="6">
+      <VerseVersion VerseId="17604" VersionId="5">
+        <Word WordId="3581429" WordIndex="1" WordText="I" />
+        <Word WordId="3581430" WordIndex="2" WordText="opened" />
+        <Word WordId="3581431" WordIndex="3" WordText="to" />
+        <Word WordId="3581432" WordIndex="4" WordText="my" />
+        <Word WordId="3581433" WordIndex="5" WordText="beloved," />
+        <Word WordId="3581434" WordIndex="6" WordText="But" />
+        <Word WordId="3581435" WordIndex="7" WordText="my" />
+        <Word WordId="3581436" WordIndex="8" WordText="beloved" />
+        <Word WordId="3581437" WordIndex="9" WordText="withdrew" />
+        <Word WordId="3581438" WordIndex="10" WordText="--" />
+        <Word WordId="3581439" WordIndex="11" WordText="he" />
+        <Word WordId="3581440" WordIndex="12" WordText="passed" />
+        <Word WordId="3581441" WordIndex="13" WordText="on," />
+        <Word WordId="3581442" WordIndex="14" WordText="My" />
+        <Word WordId="3581443" WordIndex="15" WordText="soul" />
+        <Word WordId="3581444" WordIndex="16" WordText="went" />
+        <Word WordId="3581445" WordIndex="17" WordText="forth" />
+        <Word WordId="3581446" WordIndex="18" WordText="when" />
+        <Word WordId="3581447" WordIndex="19" WordText="he" />
+        <Word WordId="3581448" WordIndex="20" WordText="spake," />
+        <Word WordId="3581449" WordIndex="21" WordText="I" />
+        <Word WordId="3581450" WordIndex="22" WordText="sought" />
+        <Word WordId="3581451" WordIndex="23" WordText="him," />
+        <Word WordId="3581452" WordIndex="24" WordText="and" />
+        <Word WordId="3581453" WordIndex="25" WordText="found" />
+        <Word WordId="3581454" WordIndex="26" WordText="him" />
+        <Word WordId="3581455" WordIndex="27" WordText="not." />
+        <Word WordId="3581456" WordIndex="28" WordText="I" />
+        <Word WordId="3581457" WordIndex="29" WordText="called" />
+        <Word WordId="3581458" WordIndex="30" WordText="him," />
+        <Word WordId="3581459" WordIndex="31" WordText="and" />
+        <Word WordId="3581460" WordIndex="32" WordText="he" />
+        <Word WordId="3581461" WordIndex="33" WordText="answered" />
+        <Word WordId="3581462" WordIndex="34" WordText="me" />
+        <Word WordId="3581463" WordIndex="35" WordText="not." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17605" VerseNumber="7">
+      <VerseVersion VerseId="17605" VersionId="5">
+        <Word WordId="3581464" WordIndex="1" WordText="The" />
+        <Word WordId="3581465" WordIndex="2" WordText="watchmen" />
+        <Word WordId="3581466" WordIndex="3" WordText="who" />
+        <Word WordId="3581467" WordIndex="4" WordText="go" />
+        <Word WordId="3581468" WordIndex="5" WordText="round" />
+        <Word WordId="3581469" WordIndex="6" WordText="about" />
+        <Word WordId="3581470" WordIndex="7" WordText="the" />
+        <Word WordId="3581471" WordIndex="8" WordText="city," />
+        <Word WordId="3581472" WordIndex="9" WordText="Found" />
+        <Word WordId="3581473" WordIndex="10" WordText="me," />
+        <Word WordId="3581474" WordIndex="11" WordText="smote" />
+        <Word WordId="3581475" WordIndex="12" WordText="me," />
+        <Word WordId="3581476" WordIndex="13" WordText="wounded" />
+        <Word WordId="3581477" WordIndex="14" WordText="me," />
+        <Word WordId="3581478" WordIndex="15" WordText="Keepers" />
+        <Word WordId="3581479" WordIndex="16" WordText="of" />
+        <Word WordId="3581480" WordIndex="17" WordText="the" />
+        <Word WordId="3581481" WordIndex="18" WordText="walls" />
+        <Word WordId="3581482" WordIndex="19" WordText="lifted" />
+        <Word WordId="3581483" WordIndex="20" WordText="up" />
+        <Word WordId="3581484" WordIndex="21" WordText="my" />
+        <Word WordId="3581485" WordIndex="22" WordText="veil" />
+        <Word WordId="3581486" WordIndex="23" WordText="from" />
+        <Word WordId="3581487" WordIndex="24" WordText="off" />
+        <Word WordId="3581488" WordIndex="25" WordText="me." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17606" VerseNumber="8">
+      <VerseVersion VerseId="17606" VersionId="5">
+        <Word WordId="3581489" WordIndex="1" WordText="I" />
+        <Word WordId="3581490" WordIndex="2" WordText="have" />
+        <Word WordId="3581491" WordIndex="3" WordText="adjured" />
+        <Word WordId="3581492" WordIndex="4" WordText="you," />
+        <Word WordId="3581493" WordIndex="5" WordText="daughters" />
+        <Word WordId="3581494" WordIndex="6" WordText="of" />
+        <Word WordId="3581495" WordIndex="7" WordText="Jerusalem," />
+        <Word WordId="3581496" WordIndex="8" WordText="If" />
+        <Word WordId="3581497" WordIndex="9" WordText="ye" />
+        <Word WordId="3581498" WordIndex="10" WordText="find" />
+        <Word WordId="3581499" WordIndex="11" WordText="my" />
+        <Word WordId="3581500" WordIndex="12" WordText="beloved" />
+        <Word WordId="3581501" WordIndex="13" WordText="--" />
+        <Word WordId="3581502" WordIndex="14" WordText="What" />
+        <Word WordId="3581503" WordIndex="15" WordText="do" />
+        <Word WordId="3581504" WordIndex="16" WordText="ye" />
+        <Word WordId="3581505" WordIndex="17" WordText="tell" />
+        <Word WordId="3581506" WordIndex="18" WordText="him?" />
+        <Word WordId="3581507" WordIndex="19" WordText="that" />
+        <Word WordId="3581508" WordIndex="20" WordText="I" />
+        <Word WordId="3581509" WordIndex="21" WordText="[am]" />
+        <Word WordId="3581510" WordIndex="22" WordText="sick" />
+        <Word WordId="3581511" WordIndex="23" WordText="with" />
+        <Word WordId="3581512" WordIndex="24" WordText="love!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17607" VerseNumber="9">
+      <VerseVersion VerseId="17607" VersionId="5">
+        <Word WordId="3581513" WordIndex="1" WordText="What" />
+        <Word WordId="3581514" WordIndex="2" WordText="[is]" />
+        <Word WordId="3581515" WordIndex="3" WordText="thy" />
+        <Word WordId="3581516" WordIndex="4" WordText="beloved" />
+        <Word WordId="3581517" WordIndex="5" WordText="above" />
+        <Word WordId="3581518" WordIndex="6" WordText="[any]" />
+        <Word WordId="3581519" WordIndex="7" WordText="beloved," />
+        <Word WordId="3581520" WordIndex="8" WordText="O" />
+        <Word WordId="3581521" WordIndex="9" WordText="fair" />
+        <Word WordId="3581522" WordIndex="10" WordText="among" />
+        <Word WordId="3581523" WordIndex="11" WordText="women?" />
+        <Word WordId="3581524" WordIndex="12" WordText="What" />
+        <Word WordId="3581525" WordIndex="13" WordText="[is]" />
+        <Word WordId="3581526" WordIndex="14" WordText="thy" />
+        <Word WordId="3581527" WordIndex="15" WordText="beloved" />
+        <Word WordId="3581528" WordIndex="16" WordText="above" />
+        <Word WordId="3581529" WordIndex="17" WordText="[any]" />
+        <Word WordId="3581530" WordIndex="18" WordText="beloved," />
+        <Word WordId="3581531" WordIndex="19" WordText="That" />
+        <Word WordId="3581532" WordIndex="20" WordText="thus" />
+        <Word WordId="3581533" WordIndex="21" WordText="thou" />
+        <Word WordId="3581534" WordIndex="22" WordText="hast" />
+        <Word WordId="3581535" WordIndex="23" WordText="adjured" />
+        <Word WordId="3581536" WordIndex="24" WordText="us?" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17608" VerseNumber="10">
+      <VerseVersion VerseId="17608" VersionId="5">
+        <Word WordId="3581537" WordIndex="1" WordText="My" />
+        <Word WordId="3581538" WordIndex="2" WordText="beloved" />
+        <Word WordId="3581539" WordIndex="3" WordText="[is]" />
+        <Word WordId="3581540" WordIndex="4" WordText="clear" />
+        <Word WordId="3581541" WordIndex="5" WordText="and" />
+        <Word WordId="3581542" WordIndex="6" WordText="ruddy," />
+        <Word WordId="3581543" WordIndex="7" WordText="Conspicuous" />
+        <Word WordId="3581544" WordIndex="8" WordText="above" />
+        <Word WordId="3581545" WordIndex="9" WordText="a" />
+        <Word WordId="3581546" WordIndex="10" WordText="myriad!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17609" VerseNumber="11">
+      <VerseVersion VerseId="17609" VersionId="5">
+        <Word WordId="3581547" WordIndex="1" WordText="His" />
+        <Word WordId="3581548" WordIndex="2" WordText="head" />
+        <Word WordId="3581549" WordIndex="3" WordText="[is]" />
+        <Word WordId="3581550" WordIndex="4" WordText="pure" />
+        <Word WordId="3581551" WordIndex="5" WordText="gold" />
+        <Word WordId="3581552" WordIndex="6" WordText="--" />
+        <Word WordId="3581553" WordIndex="7" WordText="fine" />
+        <Word WordId="3581554" WordIndex="8" WordText="gold," />
+        <Word WordId="3581555" WordIndex="9" WordText="His" />
+        <Word WordId="3581556" WordIndex="10" WordText="locks" />
+        <Word WordId="3581557" WordIndex="11" WordText="flowing," />
+        <Word WordId="3581558" WordIndex="12" WordText="dark" />
+        <Word WordId="3581559" WordIndex="13" WordText="as" />
+        <Word WordId="3581560" WordIndex="14" WordText="a" />
+        <Word WordId="3581561" WordIndex="15" WordText="raven," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17610" VerseNumber="12">
+      <VerseVersion VerseId="17610" VersionId="5">
+        <Word WordId="3581562" WordIndex="1" WordText="His" />
+        <Word WordId="3581563" WordIndex="2" WordText="eyes" />
+        <Word WordId="3581564" WordIndex="3" WordText="as" />
+        <Word WordId="3581565" WordIndex="4" WordText="doves" />
+        <Word WordId="3581566" WordIndex="5" WordText="by" />
+        <Word WordId="3581567" WordIndex="6" WordText="streams" />
+        <Word WordId="3581568" WordIndex="7" WordText="of" />
+        <Word WordId="3581569" WordIndex="8" WordText="water," />
+        <Word WordId="3581570" WordIndex="9" WordText="Washing" />
+        <Word WordId="3581571" WordIndex="10" WordText="in" />
+        <Word WordId="3581572" WordIndex="11" WordText="milk," />
+        <Word WordId="3581573" WordIndex="12" WordText="sitting" />
+        <Word WordId="3581574" WordIndex="13" WordText="in" />
+        <Word WordId="3581575" WordIndex="14" WordText="fulness." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17611" VerseNumber="13">
+      <VerseVersion VerseId="17611" VersionId="5">
+        <Word WordId="3581576" WordIndex="1" WordText="His" />
+        <Word WordId="3581577" WordIndex="2" WordText="cheeks" />
+        <Word WordId="3581578" WordIndex="3" WordText="as" />
+        <Word WordId="3581579" WordIndex="4" WordText="a" />
+        <Word WordId="3581580" WordIndex="5" WordText="bed" />
+        <Word WordId="3581581" WordIndex="6" WordText="of" />
+        <Word WordId="3581582" WordIndex="7" WordText="the" />
+        <Word WordId="3581583" WordIndex="8" WordText="spice," />
+        <Word WordId="3581584" WordIndex="9" WordText="towers" />
+        <Word WordId="3581585" WordIndex="10" WordText="of" />
+        <Word WordId="3581586" WordIndex="11" WordText="perfumes," />
+        <Word WordId="3581587" WordIndex="12" WordText="His" />
+        <Word WordId="3581588" WordIndex="13" WordText="lips" />
+        <Word WordId="3581589" WordIndex="14" WordText="[are]" />
+        <Word WordId="3581590" WordIndex="15" WordText="lilies," />
+        <Word WordId="3581591" WordIndex="16" WordText="dropping" />
+        <Word WordId="3581592" WordIndex="17" WordText="flowing" />
+        <Word WordId="3581593" WordIndex="18" WordText="myrrh," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17612" VerseNumber="14">
+      <VerseVersion VerseId="17612" VersionId="5">
+        <Word WordId="3581594" WordIndex="1" WordText="His" />
+        <Word WordId="3581595" WordIndex="2" WordText="hands" />
+        <Word WordId="3581596" WordIndex="3" WordText="rings" />
+        <Word WordId="3581597" WordIndex="4" WordText="of" />
+        <Word WordId="3581598" WordIndex="5" WordText="gold," />
+        <Word WordId="3581599" WordIndex="6" WordText="set" />
+        <Word WordId="3581600" WordIndex="7" WordText="with" />
+        <Word WordId="3581601" WordIndex="8" WordText="beryl," />
+        <Word WordId="3581602" WordIndex="9" WordText="His" />
+        <Word WordId="3581603" WordIndex="10" WordText="heart" />
+        <Word WordId="3581604" WordIndex="11" WordText="bright" />
+        <Word WordId="3581605" WordIndex="12" WordText="ivory," />
+        <Word WordId="3581606" WordIndex="13" WordText="covered" />
+        <Word WordId="3581607" WordIndex="14" WordText="with" />
+        <Word WordId="3581608" WordIndex="15" WordText="sapphires," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17613" VerseNumber="15">
+      <VerseVersion VerseId="17613" VersionId="5">
+        <Word WordId="3581609" WordIndex="1" WordText="His" />
+        <Word WordId="3581610" WordIndex="2" WordText="limbs" />
+        <Word WordId="3581611" WordIndex="3" WordText="pillars" />
+        <Word WordId="3581612" WordIndex="4" WordText="of" />
+        <Word WordId="3581613" WordIndex="5" WordText="marble," />
+        <Word WordId="3581614" WordIndex="6" WordText="Founded" />
+        <Word WordId="3581615" WordIndex="7" WordText="on" />
+        <Word WordId="3581616" WordIndex="8" WordText="sockets" />
+        <Word WordId="3581617" WordIndex="9" WordText="of" />
+        <Word WordId="3581618" WordIndex="10" WordText="fine" />
+        <Word WordId="3581619" WordIndex="11" WordText="gold," />
+        <Word WordId="3581620" WordIndex="12" WordText="His" />
+        <Word WordId="3581621" WordIndex="13" WordText="appearance" />
+        <Word WordId="3581622" WordIndex="14" WordText="as" />
+        <Word WordId="3581623" WordIndex="15" WordText="Lebanon," />
+        <Word WordId="3581624" WordIndex="16" WordText="choice" />
+        <Word WordId="3581625" WordIndex="17" WordText="as" />
+        <Word WordId="3581626" WordIndex="18" WordText="the" />
+        <Word WordId="3581627" WordIndex="19" WordText="cedars." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17614" VerseNumber="16">
+      <VerseVersion VerseId="17614" VersionId="5">
+        <Word WordId="3581628" WordIndex="1" WordText="His" />
+        <Word WordId="3581629" WordIndex="2" WordText="mouth" />
+        <Word WordId="3581630" WordIndex="3" WordText="is" />
+        <Word WordId="3581631" WordIndex="4" WordText="sweetness" />
+        <Word WordId="3581632" WordIndex="5" WordText="--" />
+        <Word WordId="3581633" WordIndex="6" WordText="and" />
+        <Word WordId="3581634" WordIndex="7" WordText="all" />
+        <Word WordId="3581635" WordIndex="8" WordText="of" />
+        <Word WordId="3581636" WordIndex="9" WordText="him" />
+        <Word WordId="3581637" WordIndex="10" WordText="desirable," />
+        <Word WordId="3581638" WordIndex="11" WordText="This" />
+        <Word WordId="3581639" WordIndex="12" WordText="[is]" />
+        <Word WordId="3581640" WordIndex="13" WordText="my" />
+        <Word WordId="3581641" WordIndex="14" WordText="beloved," />
+        <Word WordId="3581642" WordIndex="15" WordText="and" />
+        <Word WordId="3581643" WordIndex="16" WordText="this" />
+        <Word WordId="3581644" WordIndex="17" WordText="my" />
+        <Word WordId="3581645" WordIndex="18" WordText="friend," />
+        <Word WordId="3581646" WordIndex="19" WordText="O" />
+        <Word WordId="3581647" WordIndex="20" WordText="daughters" />
+        <Word WordId="3581648" WordIndex="21" WordText="of" />
+        <Word WordId="3581649" WordIndex="22" WordText="Jerusalem!" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+  <Chapter ChapterId="677" ChapterNumber="6">
+    <Verse VerseId="17615" VerseNumber="1">
+      <VerseVersion VerseId="17615" VersionId="5">
+        <Word WordId="3581650" WordIndex="1" WordText="Whither" />
+        <Word WordId="3581651" WordIndex="2" WordText="hath" />
+        <Word WordId="3581652" WordIndex="3" WordText="thy" />
+        <Word WordId="3581653" WordIndex="4" WordText="beloved" />
+        <Word WordId="3581654" WordIndex="5" WordText="gone," />
+        <Word WordId="3581655" WordIndex="6" WordText="O" />
+        <Word WordId="3581656" WordIndex="7" WordText="fair" />
+        <Word WordId="3581657" WordIndex="8" WordText="among" />
+        <Word WordId="3581658" WordIndex="9" WordText="women?" />
+        <Word WordId="3581659" WordIndex="10" WordText="Whither" />
+        <Word WordId="3581660" WordIndex="11" WordText="hath" />
+        <Word WordId="3581661" WordIndex="12" WordText="thy" />
+        <Word WordId="3581662" WordIndex="13" WordText="beloved" />
+        <Word WordId="3581663" WordIndex="14" WordText="turned," />
+        <Word WordId="3581664" WordIndex="15" WordText="And" />
+        <Word WordId="3581665" WordIndex="16" WordText="we" />
+        <Word WordId="3581666" WordIndex="17" WordText="seek" />
+        <Word WordId="3581667" WordIndex="18" WordText="him" />
+        <Word WordId="3581668" WordIndex="19" WordText="with" />
+        <Word WordId="3581669" WordIndex="20" WordText="thee?" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17616" VerseNumber="2">
+      <VerseVersion VerseId="17616" VersionId="5">
+        <Word WordId="3581670" WordIndex="1" WordText="My" />
+        <Word WordId="3581671" WordIndex="2" WordText="beloved" />
+        <Word WordId="3581672" WordIndex="3" WordText="went" />
+        <Word WordId="3581673" WordIndex="4" WordText="down" />
+        <Word WordId="3581674" WordIndex="5" WordText="to" />
+        <Word WordId="3581675" WordIndex="6" WordText="his" />
+        <Word WordId="3581676" WordIndex="7" WordText="garden," />
+        <Word WordId="3581677" WordIndex="8" WordText="To" />
+        <Word WordId="3581678" WordIndex="9" WordText="the" />
+        <Word WordId="3581679" WordIndex="10" WordText="beds" />
+        <Word WordId="3581680" WordIndex="11" WordText="of" />
+        <Word WordId="3581681" WordIndex="12" WordText="the" />
+        <Word WordId="3581682" WordIndex="13" WordText="spice," />
+        <Word WordId="3581683" WordIndex="14" WordText="To" />
+        <Word WordId="3581684" WordIndex="15" WordText="delight" />
+        <Word WordId="3581685" WordIndex="16" WordText="himself" />
+        <Word WordId="3581686" WordIndex="17" WordText="in" />
+        <Word WordId="3581687" WordIndex="18" WordText="the" />
+        <Word WordId="3581688" WordIndex="19" WordText="gardens," />
+        <Word WordId="3581689" WordIndex="20" WordText="and" />
+        <Word WordId="3581690" WordIndex="21" WordText="to" />
+        <Word WordId="3581691" WordIndex="22" WordText="gather" />
+        <Word WordId="3581692" WordIndex="23" WordText="lilies." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17617" VerseNumber="3">
+      <VerseVersion VerseId="17617" VersionId="5">
+        <Word WordId="3581693" WordIndex="1" WordText="I" />
+        <Word WordId="3581694" WordIndex="2" WordText="[am]" />
+        <Word WordId="3581695" WordIndex="3" WordText="my" />
+        <Word WordId="3581696" WordIndex="4" WordText="beloved's," />
+        <Word WordId="3581697" WordIndex="5" WordText="and" />
+        <Word WordId="3581698" WordIndex="6" WordText="my" />
+        <Word WordId="3581699" WordIndex="7" WordText="beloved" />
+        <Word WordId="3581700" WordIndex="8" WordText="[is]" />
+        <Word WordId="3581701" WordIndex="9" WordText="mine," />
+        <Word WordId="3581702" WordIndex="10" WordText="Who" />
+        <Word WordId="3581703" WordIndex="11" WordText="is" />
+        <Word WordId="3581704" WordIndex="12" WordText="delighting" />
+        <Word WordId="3581705" WordIndex="13" WordText="himself" />
+        <Word WordId="3581706" WordIndex="14" WordText="among" />
+        <Word WordId="3581707" WordIndex="15" WordText="the" />
+        <Word WordId="3581708" WordIndex="16" WordText="lilies." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17618" VerseNumber="4">
+      <VerseVersion VerseId="17618" VersionId="5">
+        <Word WordId="3581709" WordIndex="1" WordText="Fair" />
+        <Word WordId="3581710" WordIndex="2" WordText="[art]" />
+        <Word WordId="3581711" WordIndex="3" WordText="thou," />
+        <Word WordId="3581712" WordIndex="4" WordText="my" />
+        <Word WordId="3581713" WordIndex="5" WordText="friend," />
+        <Word WordId="3581714" WordIndex="6" WordText="as" />
+        <Word WordId="3581715" WordIndex="7" WordText="Tirzah," />
+        <Word WordId="3581716" WordIndex="8" WordText="Comely" />
+        <Word WordId="3581717" WordIndex="9" WordText="as" />
+        <Word WordId="3581718" WordIndex="10" WordText="Jerusalem," />
+        <Word WordId="3581719" WordIndex="11" WordText="Awe-inspiring" />
+        <Word WordId="3581720" WordIndex="12" WordText="as" />
+        <Word WordId="3581721" WordIndex="13" WordText="bannered" />
+        <Word WordId="3581722" WordIndex="14" WordText="hosts." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17619" VerseNumber="5">
+      <VerseVersion VerseId="17619" VersionId="5">
+        <Word WordId="3581723" WordIndex="1" WordText="Turn" />
+        <Word WordId="3581724" WordIndex="2" WordText="round" />
+        <Word WordId="3581725" WordIndex="3" WordText="thine" />
+        <Word WordId="3581726" WordIndex="4" WordText="eyes" />
+        <Word WordId="3581727" WordIndex="5" WordText="from" />
+        <Word WordId="3581728" WordIndex="6" WordText="before" />
+        <Word WordId="3581729" WordIndex="7" WordText="me," />
+        <Word WordId="3581730" WordIndex="8" WordText="Because" />
+        <Word WordId="3581731" WordIndex="9" WordText="they" />
+        <Word WordId="3581732" WordIndex="10" WordText="have" />
+        <Word WordId="3581733" WordIndex="11" WordText="made" />
+        <Word WordId="3581734" WordIndex="12" WordText="me" />
+        <Word WordId="3581735" WordIndex="13" WordText="proud." />
+        <Word WordId="3581736" WordIndex="14" WordText="Thy" />
+        <Word WordId="3581737" WordIndex="15" WordText="hair" />
+        <Word WordId="3581738" WordIndex="16" WordText="[is]" />
+        <Word WordId="3581739" WordIndex="17" WordText="as" />
+        <Word WordId="3581740" WordIndex="18" WordText="a" />
+        <Word WordId="3581741" WordIndex="19" WordText="row" />
+        <Word WordId="3581742" WordIndex="20" WordText="of" />
+        <Word WordId="3581743" WordIndex="21" WordText="the" />
+        <Word WordId="3581744" WordIndex="22" WordText="goats," />
+        <Word WordId="3581745" WordIndex="23" WordText="That" />
+        <Word WordId="3581746" WordIndex="24" WordText="have" />
+        <Word WordId="3581747" WordIndex="25" WordText="shone" />
+        <Word WordId="3581748" WordIndex="26" WordText="from" />
+        <Word WordId="3581749" WordIndex="27" WordText="Gilead," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17620" VerseNumber="6">
+      <VerseVersion VerseId="17620" VersionId="5">
+        <Word WordId="3581750" WordIndex="1" WordText="Thy" />
+        <Word WordId="3581751" WordIndex="2" WordText="teeth" />
+        <Word WordId="3581752" WordIndex="3" WordText="as" />
+        <Word WordId="3581753" WordIndex="4" WordText="a" />
+        <Word WordId="3581754" WordIndex="5" WordText="row" />
+        <Word WordId="3581755" WordIndex="6" WordText="of" />
+        <Word WordId="3581756" WordIndex="7" WordText="the" />
+        <Word WordId="3581757" WordIndex="8" WordText="lambs," />
+        <Word WordId="3581758" WordIndex="9" WordText="That" />
+        <Word WordId="3581759" WordIndex="10" WordText="have" />
+        <Word WordId="3581760" WordIndex="11" WordText="come" />
+        <Word WordId="3581761" WordIndex="12" WordText="up" />
+        <Word WordId="3581762" WordIndex="13" WordText="from" />
+        <Word WordId="3581763" WordIndex="14" WordText="the" />
+        <Word WordId="3581764" WordIndex="15" WordText="washing," />
+        <Word WordId="3581765" WordIndex="16" WordText="Because" />
+        <Word WordId="3581766" WordIndex="17" WordText="all" />
+        <Word WordId="3581767" WordIndex="18" WordText="of" />
+        <Word WordId="3581768" WordIndex="19" WordText="them" />
+        <Word WordId="3581769" WordIndex="20" WordText="are" />
+        <Word WordId="3581770" WordIndex="21" WordText="forming" />
+        <Word WordId="3581771" WordIndex="22" WordText="twins," />
+        <Word WordId="3581772" WordIndex="23" WordText="And" />
+        <Word WordId="3581773" WordIndex="24" WordText="a" />
+        <Word WordId="3581774" WordIndex="25" WordText="bereaved" />
+        <Word WordId="3581775" WordIndex="26" WordText="one" />
+        <Word WordId="3581776" WordIndex="27" WordText="is" />
+        <Word WordId="3581777" WordIndex="28" WordText="not" />
+        <Word WordId="3581778" WordIndex="29" WordText="among" />
+        <Word WordId="3581779" WordIndex="30" WordText="them." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17621" VerseNumber="7">
+      <VerseVersion VerseId="17621" VersionId="5">
+        <Word WordId="3581780" WordIndex="1" WordText="As" />
+        <Word WordId="3581781" WordIndex="2" WordText="the" />
+        <Word WordId="3581782" WordIndex="3" WordText="work" />
+        <Word WordId="3581783" WordIndex="4" WordText="of" />
+        <Word WordId="3581784" WordIndex="5" WordText="the" />
+        <Word WordId="3581785" WordIndex="6" WordText="pomegranate" />
+        <Word WordId="3581786" WordIndex="7" WordText="[is]" />
+        <Word WordId="3581787" WordIndex="8" WordText="thy" />
+        <Word WordId="3581788" WordIndex="9" WordText="temple" />
+        <Word WordId="3581789" WordIndex="10" WordText="behind" />
+        <Word WordId="3581790" WordIndex="11" WordText="thy" />
+        <Word WordId="3581791" WordIndex="12" WordText="veil." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17622" VerseNumber="8">
+      <VerseVersion VerseId="17622" VersionId="5">
+        <Word WordId="3581792" WordIndex="1" WordText="Sixty" />
+        <Word WordId="3581793" WordIndex="2" WordText="are" />
+        <Word WordId="3581794" WordIndex="3" WordText="queens," />
+        <Word WordId="3581795" WordIndex="4" WordText="and" />
+        <Word WordId="3581796" WordIndex="5" WordText="eighty" />
+        <Word WordId="3581797" WordIndex="6" WordText="concubines," />
+        <Word WordId="3581798" WordIndex="7" WordText="And" />
+        <Word WordId="3581799" WordIndex="8" WordText="virgins" />
+        <Word WordId="3581800" WordIndex="9" WordText="without" />
+        <Word WordId="3581801" WordIndex="10" WordText="number." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17623" VerseNumber="9">
+      <VerseVersion VerseId="17623" VersionId="5">
+        <Word WordId="3581802" WordIndex="1" WordText="One" />
+        <Word WordId="3581803" WordIndex="2" WordText="is" />
+        <Word WordId="3581804" WordIndex="3" WordText="my" />
+        <Word WordId="3581805" WordIndex="4" WordText="dove," />
+        <Word WordId="3581806" WordIndex="5" WordText="my" />
+        <Word WordId="3581807" WordIndex="6" WordText="perfect" />
+        <Word WordId="3581808" WordIndex="7" WordText="one," />
+        <Word WordId="3581809" WordIndex="8" WordText="One" />
+        <Word WordId="3581810" WordIndex="9" WordText="she" />
+        <Word WordId="3581811" WordIndex="10" WordText="[is]" />
+        <Word WordId="3581812" WordIndex="11" WordText="of" />
+        <Word WordId="3581813" WordIndex="12" WordText="her" />
+        <Word WordId="3581814" WordIndex="13" WordText="mother," />
+        <Word WordId="3581815" WordIndex="14" WordText="The" />
+        <Word WordId="3581816" WordIndex="15" WordText="choice" />
+        <Word WordId="3581817" WordIndex="16" WordText="one" />
+        <Word WordId="3581818" WordIndex="17" WordText="she" />
+        <Word WordId="3581819" WordIndex="18" WordText="[is]" />
+        <Word WordId="3581820" WordIndex="19" WordText="of" />
+        <Word WordId="3581821" WordIndex="20" WordText="her" />
+        <Word WordId="3581822" WordIndex="21" WordText="that" />
+        <Word WordId="3581823" WordIndex="22" WordText="bare" />
+        <Word WordId="3581824" WordIndex="23" WordText="her," />
+        <Word WordId="3581825" WordIndex="24" WordText="Daughters" />
+        <Word WordId="3581826" WordIndex="25" WordText="saw," />
+        <Word WordId="3581827" WordIndex="26" WordText="and" />
+        <Word WordId="3581828" WordIndex="27" WordText="pronounce" />
+        <Word WordId="3581829" WordIndex="28" WordText="her" />
+        <Word WordId="3581830" WordIndex="29" WordText="happy," />
+        <Word WordId="3581831" WordIndex="30" WordText="Queens" />
+        <Word WordId="3581832" WordIndex="31" WordText="and" />
+        <Word WordId="3581833" WordIndex="32" WordText="concubines," />
+        <Word WordId="3581834" WordIndex="33" WordText="and" />
+        <Word WordId="3581835" WordIndex="34" WordText="they" />
+        <Word WordId="3581836" WordIndex="35" WordText="praise" />
+        <Word WordId="3581837" WordIndex="36" WordText="her." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17624" VerseNumber="10">
+      <VerseVersion VerseId="17624" VersionId="5">
+        <Word WordId="3581838" WordIndex="1" WordText="`Who" />
+        <Word WordId="3581839" WordIndex="2" WordText="[is]" />
+        <Word WordId="3581840" WordIndex="3" WordText="this" />
+        <Word WordId="3581841" WordIndex="4" WordText="that" />
+        <Word WordId="3581842" WordIndex="5" WordText="is" />
+        <Word WordId="3581843" WordIndex="6" WordText="looking" />
+        <Word WordId="3581844" WordIndex="7" WordText="forth" />
+        <Word WordId="3581845" WordIndex="8" WordText="as" />
+        <Word WordId="3581846" WordIndex="9" WordText="morning," />
+        <Word WordId="3581847" WordIndex="10" WordText="Fair" />
+        <Word WordId="3581848" WordIndex="11" WordText="as" />
+        <Word WordId="3581849" WordIndex="12" WordText="the" />
+        <Word WordId="3581850" WordIndex="13" WordText="moon" />
+        <Word WordId="3581851" WordIndex="14" WordText="--" />
+        <Word WordId="3581852" WordIndex="15" WordText="clear" />
+        <Word WordId="3581853" WordIndex="16" WordText="as" />
+        <Word WordId="3581854" WordIndex="17" WordText="the" />
+        <Word WordId="3581855" WordIndex="18" WordText="sun," />
+        <Word WordId="3581856" WordIndex="19" WordText="Awe-inspiring" />
+        <Word WordId="3581857" WordIndex="20" WordText="as" />
+        <Word WordId="3581858" WordIndex="21" WordText="bannered" />
+        <Word WordId="3581859" WordIndex="22" WordText="hosts?'" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17625" VerseNumber="11">
+      <VerseVersion VerseId="17625" VersionId="5">
+        <Word WordId="3581860" WordIndex="1" WordText="Unto" />
+        <Word WordId="3581861" WordIndex="2" WordText="a" />
+        <Word WordId="3581862" WordIndex="3" WordText="garden" />
+        <Word WordId="3581863" WordIndex="4" WordText="of" />
+        <Word WordId="3581864" WordIndex="5" WordText="nuts" />
+        <Word WordId="3581865" WordIndex="6" WordText="I" />
+        <Word WordId="3581866" WordIndex="7" WordText="went" />
+        <Word WordId="3581867" WordIndex="8" WordText="down," />
+        <Word WordId="3581868" WordIndex="9" WordText="To" />
+        <Word WordId="3581869" WordIndex="10" WordText="look" />
+        <Word WordId="3581870" WordIndex="11" WordText="on" />
+        <Word WordId="3581871" WordIndex="12" WordText="the" />
+        <Word WordId="3581872" WordIndex="13" WordText="buds" />
+        <Word WordId="3581873" WordIndex="14" WordText="of" />
+        <Word WordId="3581874" WordIndex="15" WordText="the" />
+        <Word WordId="3581875" WordIndex="16" WordText="valley," />
+        <Word WordId="3581876" WordIndex="17" WordText="To" />
+        <Word WordId="3581877" WordIndex="18" WordText="see" />
+        <Word WordId="3581878" WordIndex="19" WordText="whither" />
+        <Word WordId="3581879" WordIndex="20" WordText="the" />
+        <Word WordId="3581880" WordIndex="21" WordText="vine" />
+        <Word WordId="3581881" WordIndex="22" WordText="had" />
+        <Word WordId="3581882" WordIndex="23" WordText="flourished," />
+        <Word WordId="3581883" WordIndex="24" WordText="The" />
+        <Word WordId="3581884" WordIndex="25" WordText="pomegranates" />
+        <Word WordId="3581885" WordIndex="26" WordText="had" />
+        <Word WordId="3581886" WordIndex="27" WordText="blossomed" />
+        <Word WordId="3581887" WordIndex="28" WordText="--" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17626" VerseNumber="12">
+      <VerseVersion VerseId="17626" VersionId="5">
+        <Word WordId="3581888" WordIndex="1" WordText="I" />
+        <Word WordId="3581889" WordIndex="2" WordText="knew" />
+        <Word WordId="3581890" WordIndex="3" WordText="not" />
+        <Word WordId="3581891" WordIndex="4" WordText="my" />
+        <Word WordId="3581892" WordIndex="5" WordText="soul," />
+        <Word WordId="3581893" WordIndex="6" WordText="It" />
+        <Word WordId="3581894" WordIndex="7" WordText="made" />
+        <Word WordId="3581895" WordIndex="8" WordText="me" />
+        <Word WordId="3581896" WordIndex="9" WordText="--" />
+        <Word WordId="3581897" WordIndex="10" WordText="chariots" />
+        <Word WordId="3581898" WordIndex="11" WordText="of" />
+        <Word WordId="3581899" WordIndex="12" WordText="my" />
+        <Word WordId="3581900" WordIndex="13" WordText="people" />
+        <Word WordId="3581901" WordIndex="14" WordText="Nadib." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17627" VerseNumber="13">
+      <VerseVersion VerseId="17627" VersionId="5">
+        <Word WordId="3581902" WordIndex="1" WordText="Return," />
+        <Word WordId="3581903" WordIndex="2" WordText="return," />
+        <Word WordId="3581904" WordIndex="3" WordText="O" />
+        <Word WordId="3581905" WordIndex="4" WordText="Shulammith!" />
+        <Word WordId="3581906" WordIndex="5" WordText="Return," />
+        <Word WordId="3581907" WordIndex="6" WordText="return," />
+        <Word WordId="3581908" WordIndex="7" WordText="and" />
+        <Word WordId="3581909" WordIndex="8" WordText="we" />
+        <Word WordId="3581910" WordIndex="9" WordText="look" />
+        <Word WordId="3581911" WordIndex="10" WordText="upon" />
+        <Word WordId="3581912" WordIndex="11" WordText="thee." />
+        <Word WordId="3581913" WordIndex="12" WordText="What" />
+        <Word WordId="3581914" WordIndex="13" WordText="do" />
+        <Word WordId="3581915" WordIndex="14" WordText="ye" />
+        <Word WordId="3581916" WordIndex="15" WordText="see" />
+        <Word WordId="3581917" WordIndex="16" WordText="in" />
+        <Word WordId="3581918" WordIndex="17" WordText="Shulammith?" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+  <Chapter ChapterId="678" ChapterNumber="7">
+    <Verse VerseId="17628" VerseNumber="1">
+      <VerseVersion VerseId="17628" VersionId="5">
+        <Word WordId="3581919" WordIndex="1" WordText="As" />
+        <Word WordId="3581920" WordIndex="2" WordText="the" />
+        <Word WordId="3581921" WordIndex="3" WordText="chorus" />
+        <Word WordId="3581922" WordIndex="4" WordText="of" />
+        <Word WordId="3581923" WordIndex="5" WordText="`Mahanaim.'" />
+        <Word WordId="3581924" WordIndex="6" WordText="How" />
+        <Word WordId="3581925" WordIndex="7" WordText="beautiful" />
+        <Word WordId="3581926" WordIndex="8" WordText="were" />
+        <Word WordId="3581927" WordIndex="9" WordText="thy" />
+        <Word WordId="3581928" WordIndex="10" WordText="feet" />
+        <Word WordId="3581929" WordIndex="11" WordText="with" />
+        <Word WordId="3581930" WordIndex="12" WordText="sandals," />
+        <Word WordId="3581931" WordIndex="13" WordText="O" />
+        <Word WordId="3581932" WordIndex="14" WordText="daughter" />
+        <Word WordId="3581933" WordIndex="15" WordText="of" />
+        <Word WordId="3581934" WordIndex="16" WordText="Nadib." />
+        <Word WordId="3581935" WordIndex="17" WordText="The" />
+        <Word WordId="3581936" WordIndex="18" WordText="turnings" />
+        <Word WordId="3581937" WordIndex="19" WordText="of" />
+        <Word WordId="3581938" WordIndex="20" WordText="thy" />
+        <Word WordId="3581939" WordIndex="21" WordText="sides" />
+        <Word WordId="3581940" WordIndex="22" WordText="[are]" />
+        <Word WordId="3581941" WordIndex="23" WordText="as" />
+        <Word WordId="3581942" WordIndex="24" WordText="ornaments," />
+        <Word WordId="3581943" WordIndex="25" WordText="Work" />
+        <Word WordId="3581944" WordIndex="26" WordText="of" />
+        <Word WordId="3581945" WordIndex="27" WordText="the" />
+        <Word WordId="3581946" WordIndex="28" WordText="hands" />
+        <Word WordId="3581947" WordIndex="29" WordText="of" />
+        <Word WordId="3581948" WordIndex="30" WordText="an" />
+        <Word WordId="3581949" WordIndex="31" WordText="artificer." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17629" VerseNumber="2">
+      <VerseVersion VerseId="17629" VersionId="5">
+        <Word WordId="3581950" WordIndex="1" WordText="Thy" />
+        <Word WordId="3581951" WordIndex="2" WordText="waist" />
+        <Word WordId="3581952" WordIndex="3" WordText="[is]" />
+        <Word WordId="3581953" WordIndex="4" WordText="a" />
+        <Word WordId="3581954" WordIndex="5" WordText="basin" />
+        <Word WordId="3581955" WordIndex="6" WordText="of" />
+        <Word WordId="3581956" WordIndex="7" WordText="roundness," />
+        <Word WordId="3581957" WordIndex="8" WordText="It" />
+        <Word WordId="3581958" WordIndex="9" WordText="lacketh" />
+        <Word WordId="3581959" WordIndex="10" WordText="not" />
+        <Word WordId="3581960" WordIndex="11" WordText="the" />
+        <Word WordId="3581961" WordIndex="12" WordText="mixture," />
+        <Word WordId="3581962" WordIndex="13" WordText="Thy" />
+        <Word WordId="3581963" WordIndex="14" WordText="body" />
+        <Word WordId="3581964" WordIndex="15" WordText="a" />
+        <Word WordId="3581965" WordIndex="16" WordText="heap" />
+        <Word WordId="3581966" WordIndex="17" WordText="of" />
+        <Word WordId="3581967" WordIndex="18" WordText="wheat," />
+        <Word WordId="3581968" WordIndex="19" WordText="fenced" />
+        <Word WordId="3581969" WordIndex="20" WordText="with" />
+        <Word WordId="3581970" WordIndex="21" WordText="lilies," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17630" VerseNumber="3">
+      <VerseVersion VerseId="17630" VersionId="5">
+        <Word WordId="3581971" WordIndex="1" WordText="Thy" />
+        <Word WordId="3581972" WordIndex="2" WordText="two" />
+        <Word WordId="3581973" WordIndex="3" WordText="breasts" />
+        <Word WordId="3581974" WordIndex="4" WordText="as" />
+        <Word WordId="3581975" WordIndex="5" WordText="two" />
+        <Word WordId="3581976" WordIndex="6" WordText="young" />
+        <Word WordId="3581977" WordIndex="7" WordText="ones," />
+        <Word WordId="3581978" WordIndex="8" WordText="twins" />
+        <Word WordId="3581979" WordIndex="9" WordText="of" />
+        <Word WordId="3581980" WordIndex="10" WordText="a" />
+        <Word WordId="3581981" WordIndex="11" WordText="roe," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17631" VerseNumber="4">
+      <VerseVersion VerseId="17631" VersionId="5">
+        <Word WordId="3581982" WordIndex="1" WordText="Thy" />
+        <Word WordId="3581983" WordIndex="2" WordText="neck" />
+        <Word WordId="3581984" WordIndex="3" WordText="as" />
+        <Word WordId="3581985" WordIndex="4" WordText="a" />
+        <Word WordId="3581986" WordIndex="5" WordText="tower" />
+        <Word WordId="3581987" WordIndex="6" WordText="of" />
+        <Word WordId="3581988" WordIndex="7" WordText="the" />
+        <Word WordId="3581989" WordIndex="8" WordText="ivory," />
+        <Word WordId="3581990" WordIndex="9" WordText="Thine" />
+        <Word WordId="3581991" WordIndex="10" WordText="eyes" />
+        <Word WordId="3581992" WordIndex="11" WordText="pools" />
+        <Word WordId="3581993" WordIndex="12" WordText="in" />
+        <Word WordId="3581994" WordIndex="13" WordText="Heshbon," />
+        <Word WordId="3581995" WordIndex="14" WordText="near" />
+        <Word WordId="3581996" WordIndex="15" WordText="the" />
+        <Word WordId="3581997" WordIndex="16" WordText="gate" />
+        <Word WordId="3581998" WordIndex="17" WordText="of" />
+        <Word WordId="3581999" WordIndex="18" WordText="Bath-Rabbim," />
+        <Word WordId="3582000" WordIndex="19" WordText="Thy" />
+        <Word WordId="3582001" WordIndex="20" WordText="face" />
+        <Word WordId="3582002" WordIndex="21" WordText="as" />
+        <Word WordId="3582003" WordIndex="22" WordText="a" />
+        <Word WordId="3582004" WordIndex="23" WordText="tower" />
+        <Word WordId="3582005" WordIndex="24" WordText="of" />
+        <Word WordId="3582006" WordIndex="25" WordText="Lebanon" />
+        <Word WordId="3582007" WordIndex="26" WordText="looking" />
+        <Word WordId="3582008" WordIndex="27" WordText="to" />
+        <Word WordId="3582009" WordIndex="28" WordText="Damascus," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17632" VerseNumber="5">
+      <VerseVersion VerseId="17632" VersionId="5">
+        <Word WordId="3582010" WordIndex="1" WordText="Thy" />
+        <Word WordId="3582011" WordIndex="2" WordText="head" />
+        <Word WordId="3582012" WordIndex="3" WordText="upon" />
+        <Word WordId="3582013" WordIndex="4" WordText="thee" />
+        <Word WordId="3582014" WordIndex="5" WordText="as" />
+        <Word WordId="3582015" WordIndex="6" WordText="Carmel," />
+        <Word WordId="3582016" WordIndex="7" WordText="And" />
+        <Word WordId="3582017" WordIndex="8" WordText="the" />
+        <Word WordId="3582018" WordIndex="9" WordText="locks" />
+        <Word WordId="3582019" WordIndex="10" WordText="of" />
+        <Word WordId="3582020" WordIndex="11" WordText="thy" />
+        <Word WordId="3582021" WordIndex="12" WordText="head" />
+        <Word WordId="3582022" WordIndex="13" WordText="as" />
+        <Word WordId="3582023" WordIndex="14" WordText="purple," />
+        <Word WordId="3582024" WordIndex="15" WordText="The" />
+        <Word WordId="3582025" WordIndex="16" WordText="king" />
+        <Word WordId="3582026" WordIndex="17" WordText="is" />
+        <Word WordId="3582027" WordIndex="18" WordText="bound" />
+        <Word WordId="3582028" WordIndex="19" WordText="with" />
+        <Word WordId="3582029" WordIndex="20" WordText="the" />
+        <Word WordId="3582030" WordIndex="21" WordText="flowings!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17633" VerseNumber="6">
+      <VerseVersion VerseId="17633" VersionId="5">
+        <Word WordId="3582031" WordIndex="1" WordText="How" />
+        <Word WordId="3582032" WordIndex="2" WordText="fair" />
+        <Word WordId="3582033" WordIndex="3" WordText="and" />
+        <Word WordId="3582034" WordIndex="4" WordText="how" />
+        <Word WordId="3582035" WordIndex="5" WordText="pleasant" />
+        <Word WordId="3582036" WordIndex="6" WordText="hast" />
+        <Word WordId="3582037" WordIndex="7" WordText="thou" />
+        <Word WordId="3582038" WordIndex="8" WordText="been," />
+        <Word WordId="3582039" WordIndex="9" WordText="O" />
+        <Word WordId="3582040" WordIndex="10" WordText="love," />
+        <Word WordId="3582041" WordIndex="11" WordText="in" />
+        <Word WordId="3582042" WordIndex="12" WordText="delights." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17634" VerseNumber="7">
+      <VerseVersion VerseId="17634" VersionId="5">
+        <Word WordId="3582043" WordIndex="1" WordText="This" />
+        <Word WordId="3582044" WordIndex="2" WordText="thy" />
+        <Word WordId="3582045" WordIndex="3" WordText="stature" />
+        <Word WordId="3582046" WordIndex="4" WordText="hath" />
+        <Word WordId="3582047" WordIndex="5" WordText="been" />
+        <Word WordId="3582048" WordIndex="6" WordText="like" />
+        <Word WordId="3582049" WordIndex="7" WordText="to" />
+        <Word WordId="3582050" WordIndex="8" WordText="a" />
+        <Word WordId="3582051" WordIndex="9" WordText="palm," />
+        <Word WordId="3582052" WordIndex="10" WordText="And" />
+        <Word WordId="3582053" WordIndex="11" WordText="thy" />
+        <Word WordId="3582054" WordIndex="12" WordText="breasts" />
+        <Word WordId="3582055" WordIndex="13" WordText="to" />
+        <Word WordId="3582056" WordIndex="14" WordText="clusters." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17635" VerseNumber="8">
+      <VerseVersion VerseId="17635" VersionId="5">
+        <Word WordId="3582057" WordIndex="1" WordText="I" />
+        <Word WordId="3582058" WordIndex="2" WordText="said," />
+        <Word WordId="3582059" WordIndex="3" WordText="`Let" />
+        <Word WordId="3582060" WordIndex="4" WordText="me" />
+        <Word WordId="3582061" WordIndex="5" WordText="go" />
+        <Word WordId="3582062" WordIndex="6" WordText="up" />
+        <Word WordId="3582063" WordIndex="7" WordText="on" />
+        <Word WordId="3582064" WordIndex="8" WordText="the" />
+        <Word WordId="3582065" WordIndex="9" WordText="palm," />
+        <Word WordId="3582066" WordIndex="10" WordText="Let" />
+        <Word WordId="3582067" WordIndex="11" WordText="me" />
+        <Word WordId="3582068" WordIndex="12" WordText="lay" />
+        <Word WordId="3582069" WordIndex="13" WordText="hold" />
+        <Word WordId="3582070" WordIndex="14" WordText="on" />
+        <Word WordId="3582071" WordIndex="15" WordText="its" />
+        <Word WordId="3582072" WordIndex="16" WordText="boughs," />
+        <Word WordId="3582073" WordIndex="17" WordText="Yea," />
+        <Word WordId="3582074" WordIndex="18" WordText="let" />
+        <Word WordId="3582075" WordIndex="19" WordText="thy" />
+        <Word WordId="3582076" WordIndex="20" WordText="breasts" />
+        <Word WordId="3582077" WordIndex="21" WordText="be," />
+        <Word WordId="3582078" WordIndex="22" WordText="I" />
+        <Word WordId="3582079" WordIndex="23" WordText="pray" />
+        <Word WordId="3582080" WordIndex="24" WordText="thee," />
+        <Word WordId="3582081" WordIndex="25" WordText="as" />
+        <Word WordId="3582082" WordIndex="26" WordText="clusters" />
+        <Word WordId="3582083" WordIndex="27" WordText="of" />
+        <Word WordId="3582084" WordIndex="28" WordText="the" />
+        <Word WordId="3582085" WordIndex="29" WordText="vine," />
+        <Word WordId="3582086" WordIndex="30" WordText="And" />
+        <Word WordId="3582087" WordIndex="31" WordText="the" />
+        <Word WordId="3582088" WordIndex="32" WordText="fragrance" />
+        <Word WordId="3582089" WordIndex="33" WordText="of" />
+        <Word WordId="3582090" WordIndex="34" WordText="thy" />
+        <Word WordId="3582091" WordIndex="35" WordText="face" />
+        <Word WordId="3582092" WordIndex="36" WordText="as" />
+        <Word WordId="3582093" WordIndex="37" WordText="citrons," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17636" VerseNumber="9">
+      <VerseVersion VerseId="17636" VersionId="5">
+        <Word WordId="3582094" WordIndex="1" WordText="And" />
+        <Word WordId="3582095" WordIndex="2" WordText="thy" />
+        <Word WordId="3582096" WordIndex="3" WordText="palate" />
+        <Word WordId="3582097" WordIndex="4" WordText="as" />
+        <Word WordId="3582098" WordIndex="5" WordText="the" />
+        <Word WordId="3582099" WordIndex="6" WordText="good" />
+        <Word WordId="3582100" WordIndex="7" WordText="wine" />
+        <Word WordId="3582101" WordIndex="8" WordText="--'" />
+        <Word WordId="3582102" WordIndex="9" WordText="Flowing" />
+        <Word WordId="3582103" WordIndex="10" WordText="to" />
+        <Word WordId="3582104" WordIndex="11" WordText="my" />
+        <Word WordId="3582105" WordIndex="12" WordText="beloved" />
+        <Word WordId="3582106" WordIndex="13" WordText="in" />
+        <Word WordId="3582107" WordIndex="14" WordText="uprightness," />
+        <Word WordId="3582108" WordIndex="15" WordText="Strengthening" />
+        <Word WordId="3582109" WordIndex="16" WordText="the" />
+        <Word WordId="3582110" WordIndex="17" WordText="lips" />
+        <Word WordId="3582111" WordIndex="18" WordText="of" />
+        <Word WordId="3582112" WordIndex="19" WordText="the" />
+        <Word WordId="3582113" WordIndex="20" WordText="aged!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17637" VerseNumber="10">
+      <VerseVersion VerseId="17637" VersionId="5">
+        <Word WordId="3582114" WordIndex="1" WordText="I" />
+        <Word WordId="3582115" WordIndex="2" WordText="[am]" />
+        <Word WordId="3582116" WordIndex="3" WordText="my" />
+        <Word WordId="3582117" WordIndex="4" WordText="beloved's," />
+        <Word WordId="3582118" WordIndex="5" WordText="and" />
+        <Word WordId="3582119" WordIndex="6" WordText="on" />
+        <Word WordId="3582120" WordIndex="7" WordText="me" />
+        <Word WordId="3582121" WordIndex="8" WordText="[is]" />
+        <Word WordId="3582122" WordIndex="9" WordText="his" />
+        <Word WordId="3582123" WordIndex="10" WordText="desire." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17638" VerseNumber="11">
+      <VerseVersion VerseId="17638" VersionId="5">
+        <Word WordId="3582124" WordIndex="1" WordText="Come," />
+        <Word WordId="3582125" WordIndex="2" WordText="my" />
+        <Word WordId="3582126" WordIndex="3" WordText="beloved," />
+        <Word WordId="3582127" WordIndex="4" WordText="we" />
+        <Word WordId="3582128" WordIndex="5" WordText="go" />
+        <Word WordId="3582129" WordIndex="6" WordText="forth" />
+        <Word WordId="3582130" WordIndex="7" WordText="to" />
+        <Word WordId="3582131" WordIndex="8" WordText="the" />
+        <Word WordId="3582132" WordIndex="9" WordText="field," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17639" VerseNumber="12">
+      <VerseVersion VerseId="17639" VersionId="5">
+        <Word WordId="3582133" WordIndex="1" WordText="We" />
+        <Word WordId="3582134" WordIndex="2" WordText="lodge" />
+        <Word WordId="3582135" WordIndex="3" WordText="in" />
+        <Word WordId="3582136" WordIndex="4" WordText="the" />
+        <Word WordId="3582137" WordIndex="5" WordText="villages," />
+        <Word WordId="3582138" WordIndex="6" WordText="we" />
+        <Word WordId="3582139" WordIndex="7" WordText="go" />
+        <Word WordId="3582140" WordIndex="8" WordText="early" />
+        <Word WordId="3582141" WordIndex="9" WordText="to" />
+        <Word WordId="3582142" WordIndex="10" WordText="the" />
+        <Word WordId="3582143" WordIndex="11" WordText="vineyards," />
+        <Word WordId="3582144" WordIndex="12" WordText="We" />
+        <Word WordId="3582145" WordIndex="13" WordText="see" />
+        <Word WordId="3582146" WordIndex="14" WordText="if" />
+        <Word WordId="3582147" WordIndex="15" WordText="the" />
+        <Word WordId="3582148" WordIndex="16" WordText="vine" />
+        <Word WordId="3582149" WordIndex="17" WordText="hath" />
+        <Word WordId="3582150" WordIndex="18" WordText="flourished," />
+        <Word WordId="3582151" WordIndex="19" WordText="The" />
+        <Word WordId="3582152" WordIndex="20" WordText="sweet" />
+        <Word WordId="3582153" WordIndex="21" WordText="smelling-flower" />
+        <Word WordId="3582154" WordIndex="22" WordText="hath" />
+        <Word WordId="3582155" WordIndex="23" WordText="opened." />
+        <Word WordId="3582156" WordIndex="24" WordText="The" />
+        <Word WordId="3582157" WordIndex="25" WordText="pomegranates" />
+        <Word WordId="3582158" WordIndex="26" WordText="have" />
+        <Word WordId="3582159" WordIndex="27" WordText="blossomed," />
+        <Word WordId="3582160" WordIndex="28" WordText="There" />
+        <Word WordId="3582161" WordIndex="29" WordText="do" />
+        <Word WordId="3582162" WordIndex="30" WordText="I" />
+        <Word WordId="3582163" WordIndex="31" WordText="give" />
+        <Word WordId="3582164" WordIndex="32" WordText="to" />
+        <Word WordId="3582165" WordIndex="33" WordText="thee" />
+        <Word WordId="3582166" WordIndex="34" WordText="my" />
+        <Word WordId="3582167" WordIndex="35" WordText="loves;" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17640" VerseNumber="13">
+      <VerseVersion VerseId="17640" VersionId="5">
+        <Word WordId="3582168" WordIndex="1" WordText="The" />
+        <Word WordId="3582169" WordIndex="2" WordText="mandrakes" />
+        <Word WordId="3582170" WordIndex="3" WordText="have" />
+        <Word WordId="3582171" WordIndex="4" WordText="given" />
+        <Word WordId="3582172" WordIndex="5" WordText="fragrance," />
+        <Word WordId="3582173" WordIndex="6" WordText="And" />
+        <Word WordId="3582174" WordIndex="7" WordText="at" />
+        <Word WordId="3582175" WordIndex="8" WordText="our" />
+        <Word WordId="3582176" WordIndex="9" WordText="openings" />
+        <Word WordId="3582177" WordIndex="10" WordText="all" />
+        <Word WordId="3582178" WordIndex="11" WordText="pleasant" />
+        <Word WordId="3582179" WordIndex="12" WordText="things," />
+        <Word WordId="3582180" WordIndex="13" WordText="New," />
+        <Word WordId="3582181" WordIndex="14" WordText="yea," />
+        <Word WordId="3582182" WordIndex="15" WordText="old," />
+        <Word WordId="3582183" WordIndex="16" WordText="my" />
+        <Word WordId="3582184" WordIndex="17" WordText="beloved," />
+        <Word WordId="3582185" WordIndex="18" WordText="I" />
+        <Word WordId="3582186" WordIndex="19" WordText="laid" />
+        <Word WordId="3582187" WordIndex="20" WordText="up" />
+        <Word WordId="3582188" WordIndex="21" WordText="for" />
+        <Word WordId="3582189" WordIndex="22" WordText="thee!" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+  <Chapter ChapterId="679" ChapterNumber="8">
+    <Verse VerseId="17641" VerseNumber="1">
+      <VerseVersion VerseId="17641" VersionId="5">
+        <Word WordId="3582190" WordIndex="1" WordText="Who" />
+        <Word WordId="3582191" WordIndex="2" WordText="doth" />
+        <Word WordId="3582192" WordIndex="3" WordText="make" />
+        <Word WordId="3582193" WordIndex="4" WordText="thee" />
+        <Word WordId="3582194" WordIndex="5" WordText="as" />
+        <Word WordId="3582195" WordIndex="6" WordText="a" />
+        <Word WordId="3582196" WordIndex="7" WordText="brother" />
+        <Word WordId="3582197" WordIndex="8" WordText="to" />
+        <Word WordId="3582198" WordIndex="9" WordText="me," />
+        <Word WordId="3582199" WordIndex="10" WordText="Sucking" />
+        <Word WordId="3582200" WordIndex="11" WordText="the" />
+        <Word WordId="3582201" WordIndex="12" WordText="breasts" />
+        <Word WordId="3582202" WordIndex="13" WordText="of" />
+        <Word WordId="3582203" WordIndex="14" WordText="my" />
+        <Word WordId="3582204" WordIndex="15" WordText="mother?" />
+        <Word WordId="3582205" WordIndex="16" WordText="I" />
+        <Word WordId="3582206" WordIndex="17" WordText="find" />
+        <Word WordId="3582207" WordIndex="18" WordText="thee" />
+        <Word WordId="3582208" WordIndex="19" WordText="without," />
+        <Word WordId="3582209" WordIndex="20" WordText="I" />
+        <Word WordId="3582210" WordIndex="21" WordText="kiss" />
+        <Word WordId="3582211" WordIndex="22" WordText="thee," />
+        <Word WordId="3582212" WordIndex="23" WordText="Yea," />
+        <Word WordId="3582213" WordIndex="24" WordText="they" />
+        <Word WordId="3582214" WordIndex="25" WordText="do" />
+        <Word WordId="3582215" WordIndex="26" WordText="not" />
+        <Word WordId="3582216" WordIndex="27" WordText="despise" />
+        <Word WordId="3582217" WordIndex="28" WordText="me," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17642" VerseNumber="2">
+      <VerseVersion VerseId="17642" VersionId="5">
+        <Word WordId="3582218" WordIndex="1" WordText="I" />
+        <Word WordId="3582219" WordIndex="2" WordText="lead" />
+        <Word WordId="3582220" WordIndex="3" WordText="thee," />
+        <Word WordId="3582221" WordIndex="4" WordText="I" />
+        <Word WordId="3582222" WordIndex="5" WordText="bring" />
+        <Word WordId="3582223" WordIndex="6" WordText="thee" />
+        <Word WordId="3582224" WordIndex="7" WordText="in" />
+        <Word WordId="3582225" WordIndex="8" WordText="unto" />
+        <Word WordId="3582226" WordIndex="9" WordText="my" />
+        <Word WordId="3582227" WordIndex="10" WordText="mother's" />
+        <Word WordId="3582228" WordIndex="11" WordText="house," />
+        <Word WordId="3582229" WordIndex="12" WordText="She" />
+        <Word WordId="3582230" WordIndex="13" WordText="doth" />
+        <Word WordId="3582231" WordIndex="14" WordText="teach" />
+        <Word WordId="3582232" WordIndex="15" WordText="me," />
+        <Word WordId="3582233" WordIndex="16" WordText="I" />
+        <Word WordId="3582234" WordIndex="17" WordText="cause" />
+        <Word WordId="3582235" WordIndex="18" WordText="thee" />
+        <Word WordId="3582236" WordIndex="19" WordText="to" />
+        <Word WordId="3582237" WordIndex="20" WordText="drink" />
+        <Word WordId="3582238" WordIndex="21" WordText="of" />
+        <Word WordId="3582239" WordIndex="22" WordText="the" />
+        <Word WordId="3582240" WordIndex="23" WordText="perfumed" />
+        <Word WordId="3582241" WordIndex="24" WordText="wine," />
+        <Word WordId="3582242" WordIndex="25" WordText="Of" />
+        <Word WordId="3582243" WordIndex="26" WordText="the" />
+        <Word WordId="3582244" WordIndex="27" WordText="juice" />
+        <Word WordId="3582245" WordIndex="28" WordText="of" />
+        <Word WordId="3582246" WordIndex="29" WordText="my" />
+        <Word WordId="3582247" WordIndex="30" WordText="pomegranate," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17643" VerseNumber="3">
+      <VerseVersion VerseId="17643" VersionId="5">
+        <Word WordId="3582248" WordIndex="1" WordText="His" />
+        <Word WordId="3582249" WordIndex="2" WordText="left" />
+        <Word WordId="3582250" WordIndex="3" WordText="hand" />
+        <Word WordId="3582251" WordIndex="4" WordText="[is]" />
+        <Word WordId="3582252" WordIndex="5" WordText="under" />
+        <Word WordId="3582253" WordIndex="6" WordText="my" />
+        <Word WordId="3582254" WordIndex="7" WordText="head," />
+        <Word WordId="3582255" WordIndex="8" WordText="And" />
+        <Word WordId="3582256" WordIndex="9" WordText="his" />
+        <Word WordId="3582257" WordIndex="10" WordText="right" />
+        <Word WordId="3582258" WordIndex="11" WordText="doth" />
+        <Word WordId="3582259" WordIndex="12" WordText="embrace" />
+        <Word WordId="3582260" WordIndex="13" WordText="me." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17644" VerseNumber="4">
+      <VerseVersion VerseId="17644" VersionId="5">
+        <Word WordId="3582261" WordIndex="1" WordText="I" />
+        <Word WordId="3582262" WordIndex="2" WordText="have" />
+        <Word WordId="3582263" WordIndex="3" WordText="adjured" />
+        <Word WordId="3582264" WordIndex="4" WordText="you," />
+        <Word WordId="3582265" WordIndex="5" WordText="daughters" />
+        <Word WordId="3582266" WordIndex="6" WordText="of" />
+        <Word WordId="3582267" WordIndex="7" WordText="Jerusalem," />
+        <Word WordId="3582268" WordIndex="8" WordText="How" />
+        <Word WordId="3582269" WordIndex="9" WordText="ye" />
+        <Word WordId="3582270" WordIndex="10" WordText="stir" />
+        <Word WordId="3582271" WordIndex="11" WordText="up," />
+        <Word WordId="3582272" WordIndex="12" WordText="And" />
+        <Word WordId="3582273" WordIndex="13" WordText="how" />
+        <Word WordId="3582274" WordIndex="14" WordText="ye" />
+        <Word WordId="3582275" WordIndex="15" WordText="wake" />
+        <Word WordId="3582276" WordIndex="16" WordText="the" />
+        <Word WordId="3582277" WordIndex="17" WordText="love" />
+        <Word WordId="3582278" WordIndex="18" WordText="till" />
+        <Word WordId="3582279" WordIndex="19" WordText="she" />
+        <Word WordId="3582280" WordIndex="20" WordText="please!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17645" VerseNumber="5">
+      <VerseVersion VerseId="17645" VersionId="5">
+        <Word WordId="3582281" WordIndex="1" WordText="Who" />
+        <Word WordId="3582282" WordIndex="2" WordText="[is]" />
+        <Word WordId="3582283" WordIndex="3" WordText="this" />
+        <Word WordId="3582284" WordIndex="4" WordText="coming" />
+        <Word WordId="3582285" WordIndex="5" WordText="from" />
+        <Word WordId="3582286" WordIndex="6" WordText="the" />
+        <Word WordId="3582287" WordIndex="7" WordText="wilderness," />
+        <Word WordId="3582288" WordIndex="8" WordText="Hasting" />
+        <Word WordId="3582289" WordIndex="9" WordText="herself" />
+        <Word WordId="3582290" WordIndex="10" WordText="for" />
+        <Word WordId="3582291" WordIndex="11" WordText="her" />
+        <Word WordId="3582292" WordIndex="12" WordText="beloved?" />
+        <Word WordId="3582293" WordIndex="13" WordText="Under" />
+        <Word WordId="3582294" WordIndex="14" WordText="the" />
+        <Word WordId="3582295" WordIndex="15" WordText="citron-tree" />
+        <Word WordId="3582296" WordIndex="16" WordText="I" />
+        <Word WordId="3582297" WordIndex="17" WordText="have" />
+        <Word WordId="3582298" WordIndex="18" WordText="waked" />
+        <Word WordId="3582299" WordIndex="19" WordText="thee," />
+        <Word WordId="3582300" WordIndex="20" WordText="There" />
+        <Word WordId="3582301" WordIndex="21" WordText="did" />
+        <Word WordId="3582302" WordIndex="22" WordText="thy" />
+        <Word WordId="3582303" WordIndex="23" WordText="mother" />
+        <Word WordId="3582304" WordIndex="24" WordText="pledge" />
+        <Word WordId="3582305" WordIndex="25" WordText="thee," />
+        <Word WordId="3582306" WordIndex="26" WordText="There" />
+        <Word WordId="3582307" WordIndex="27" WordText="she" />
+        <Word WordId="3582308" WordIndex="28" WordText="gave" />
+        <Word WordId="3582309" WordIndex="29" WordText="a" />
+        <Word WordId="3582310" WordIndex="30" WordText="pledge" />
+        <Word WordId="3582311" WordIndex="31" WordText="[that]" />
+        <Word WordId="3582312" WordIndex="32" WordText="bare" />
+        <Word WordId="3582313" WordIndex="33" WordText="thee." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17646" VerseNumber="6">
+      <VerseVersion VerseId="17646" VersionId="5">
+        <Word WordId="3582314" WordIndex="1" WordText="Set" />
+        <Word WordId="3582315" WordIndex="2" WordText="me" />
+        <Word WordId="3582316" WordIndex="3" WordText="as" />
+        <Word WordId="3582317" WordIndex="4" WordText="a" />
+        <Word WordId="3582318" WordIndex="5" WordText="seal" />
+        <Word WordId="3582319" WordIndex="6" WordText="on" />
+        <Word WordId="3582320" WordIndex="7" WordText="thy" />
+        <Word WordId="3582321" WordIndex="8" WordText="heart," />
+        <Word WordId="3582322" WordIndex="9" WordText="as" />
+        <Word WordId="3582323" WordIndex="10" WordText="a" />
+        <Word WordId="3582324" WordIndex="11" WordText="seal" />
+        <Word WordId="3582325" WordIndex="12" WordText="on" />
+        <Word WordId="3582326" WordIndex="13" WordText="thine" />
+        <Word WordId="3582327" WordIndex="14" WordText="arm," />
+        <Word WordId="3582328" WordIndex="15" WordText="For" />
+        <Word WordId="3582329" WordIndex="16" WordText="strong" />
+        <Word WordId="3582330" WordIndex="17" WordText="as" />
+        <Word WordId="3582331" WordIndex="18" WordText="death" />
+        <Word WordId="3582332" WordIndex="19" WordText="is" />
+        <Word WordId="3582333" WordIndex="20" WordText="love," />
+        <Word WordId="3582334" WordIndex="21" WordText="Sharp" />
+        <Word WordId="3582335" WordIndex="22" WordText="as" />
+        <Word WordId="3582336" WordIndex="23" WordText="Sheol" />
+        <Word WordId="3582337" WordIndex="24" WordText="is" />
+        <Word WordId="3582338" WordIndex="25" WordText="jealousy," />
+        <Word WordId="3582339" WordIndex="26" WordText="Its" />
+        <Word WordId="3582340" WordIndex="27" WordText="burnings" />
+        <Word WordId="3582341" WordIndex="28" WordText="[are]" />
+        <Word WordId="3582342" WordIndex="29" WordText="burnings" />
+        <Word WordId="3582343" WordIndex="30" WordText="of" />
+        <Word WordId="3582344" WordIndex="31" WordText="fire," />
+        <Word WordId="3582345" WordIndex="32" WordText="a" />
+        <Word WordId="3582346" WordIndex="33" WordText="flame" />
+        <Word WordId="3582347" WordIndex="34" WordText="of" />
+        <Word WordId="3582348" WordIndex="35" WordText="Jah!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17647" VerseNumber="7">
+      <VerseVersion VerseId="17647" VersionId="5">
+        <Word WordId="3582349" WordIndex="1" WordText="Many" />
+        <Word WordId="3582350" WordIndex="2" WordText="waters" />
+        <Word WordId="3582351" WordIndex="3" WordText="are" />
+        <Word WordId="3582352" WordIndex="4" WordText="not" />
+        <Word WordId="3582353" WordIndex="5" WordText="able" />
+        <Word WordId="3582354" WordIndex="6" WordText="to" />
+        <Word WordId="3582355" WordIndex="7" WordText="quench" />
+        <Word WordId="3582356" WordIndex="8" WordText="the" />
+        <Word WordId="3582357" WordIndex="9" WordText="love," />
+        <Word WordId="3582358" WordIndex="10" WordText="And" />
+        <Word WordId="3582359" WordIndex="11" WordText="floods" />
+        <Word WordId="3582360" WordIndex="12" WordText="do" />
+        <Word WordId="3582361" WordIndex="13" WordText="not" />
+        <Word WordId="3582362" WordIndex="14" WordText="wash" />
+        <Word WordId="3582363" WordIndex="15" WordText="it" />
+        <Word WordId="3582364" WordIndex="16" WordText="away." />
+        <Word WordId="3582365" WordIndex="17" WordText="If" />
+        <Word WordId="3582366" WordIndex="18" WordText="one" />
+        <Word WordId="3582367" WordIndex="19" WordText="give" />
+        <Word WordId="3582368" WordIndex="20" WordText="all" />
+        <Word WordId="3582369" WordIndex="21" WordText="the" />
+        <Word WordId="3582370" WordIndex="22" WordText="wealth" />
+        <Word WordId="3582371" WordIndex="23" WordText="of" />
+        <Word WordId="3582372" WordIndex="24" WordText="his" />
+        <Word WordId="3582373" WordIndex="25" WordText="house" />
+        <Word WordId="3582374" WordIndex="26" WordText="for" />
+        <Word WordId="3582375" WordIndex="27" WordText="love," />
+        <Word WordId="3582376" WordIndex="28" WordText="Treading" />
+        <Word WordId="3582377" WordIndex="29" WordText="down" />
+        <Word WordId="3582378" WordIndex="30" WordText="--" />
+        <Word WordId="3582379" WordIndex="31" WordText="they" />
+        <Word WordId="3582380" WordIndex="32" WordText="tread" />
+        <Word WordId="3582381" WordIndex="33" WordText="upon" />
+        <Word WordId="3582382" WordIndex="34" WordText="it." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17648" VerseNumber="8">
+      <VerseVersion VerseId="17648" VersionId="5">
+        <Word WordId="3582383" WordIndex="1" WordText="We" />
+        <Word WordId="3582384" WordIndex="2" WordText="have" />
+        <Word WordId="3582385" WordIndex="3" WordText="a" />
+        <Word WordId="3582386" WordIndex="4" WordText="little" />
+        <Word WordId="3582387" WordIndex="5" WordText="sister," />
+        <Word WordId="3582388" WordIndex="6" WordText="and" />
+        <Word WordId="3582389" WordIndex="7" WordText="breasts" />
+        <Word WordId="3582390" WordIndex="8" WordText="she" />
+        <Word WordId="3582391" WordIndex="9" WordText="hath" />
+        <Word WordId="3582392" WordIndex="10" WordText="not," />
+        <Word WordId="3582393" WordIndex="11" WordText="What" />
+        <Word WordId="3582394" WordIndex="12" WordText="do" />
+        <Word WordId="3582395" WordIndex="13" WordText="we" />
+        <Word WordId="3582396" WordIndex="14" WordText="do" />
+        <Word WordId="3582397" WordIndex="15" WordText="for" />
+        <Word WordId="3582398" WordIndex="16" WordText="our" />
+        <Word WordId="3582399" WordIndex="17" WordText="sister," />
+        <Word WordId="3582400" WordIndex="18" WordText="In" />
+        <Word WordId="3582401" WordIndex="19" WordText="the" />
+        <Word WordId="3582402" WordIndex="20" WordText="day" />
+        <Word WordId="3582403" WordIndex="21" WordText="that" />
+        <Word WordId="3582404" WordIndex="22" WordText="it" />
+        <Word WordId="3582405" WordIndex="23" WordText="is" />
+        <Word WordId="3582406" WordIndex="24" WordText="told" />
+        <Word WordId="3582407" WordIndex="25" WordText="of" />
+        <Word WordId="3582408" WordIndex="26" WordText="her?" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17649" VerseNumber="9">
+      <VerseVersion VerseId="17649" VersionId="5">
+        <Word WordId="3582409" WordIndex="1" WordText="If" />
+        <Word WordId="3582410" WordIndex="2" WordText="she" />
+        <Word WordId="3582411" WordIndex="3" WordText="is" />
+        <Word WordId="3582412" WordIndex="4" WordText="a" />
+        <Word WordId="3582413" WordIndex="5" WordText="wall," />
+        <Word WordId="3582414" WordIndex="6" WordText="we" />
+        <Word WordId="3582415" WordIndex="7" WordText="build" />
+        <Word WordId="3582416" WordIndex="8" WordText="by" />
+        <Word WordId="3582417" WordIndex="9" WordText="her" />
+        <Word WordId="3582418" WordIndex="10" WordText="a" />
+        <Word WordId="3582419" WordIndex="11" WordText="palace" />
+        <Word WordId="3582420" WordIndex="12" WordText="of" />
+        <Word WordId="3582421" WordIndex="13" WordText="silver." />
+        <Word WordId="3582422" WordIndex="14" WordText="And" />
+        <Word WordId="3582423" WordIndex="15" WordText="if" />
+        <Word WordId="3582424" WordIndex="16" WordText="she" />
+        <Word WordId="3582425" WordIndex="17" WordText="is" />
+        <Word WordId="3582426" WordIndex="18" WordText="a" />
+        <Word WordId="3582427" WordIndex="19" WordText="door," />
+        <Word WordId="3582428" WordIndex="20" WordText="We" />
+        <Word WordId="3582429" WordIndex="21" WordText="fashion" />
+        <Word WordId="3582430" WordIndex="22" WordText="by" />
+        <Word WordId="3582431" WordIndex="23" WordText="her" />
+        <Word WordId="3582432" WordIndex="24" WordText="board-work" />
+        <Word WordId="3582433" WordIndex="25" WordText="of" />
+        <Word WordId="3582434" WordIndex="26" WordText="cedar." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17650" VerseNumber="10">
+      <VerseVersion VerseId="17650" VersionId="5">
+        <Word WordId="3582435" WordIndex="1" WordText="I" />
+        <Word WordId="3582436" WordIndex="2" WordText="[am]" />
+        <Word WordId="3582437" WordIndex="3" WordText="a" />
+        <Word WordId="3582438" WordIndex="4" WordText="wall," />
+        <Word WordId="3582439" WordIndex="5" WordText="and" />
+        <Word WordId="3582440" WordIndex="6" WordText="my" />
+        <Word WordId="3582441" WordIndex="7" WordText="breasts" />
+        <Word WordId="3582442" WordIndex="8" WordText="as" />
+        <Word WordId="3582443" WordIndex="9" WordText="towers," />
+        <Word WordId="3582444" WordIndex="10" WordText="Then" />
+        <Word WordId="3582445" WordIndex="11" WordText="I" />
+        <Word WordId="3582446" WordIndex="12" WordText="have" />
+        <Word WordId="3582447" WordIndex="13" WordText="been" />
+        <Word WordId="3582448" WordIndex="14" WordText="in" />
+        <Word WordId="3582449" WordIndex="15" WordText="his" />
+        <Word WordId="3582450" WordIndex="16" WordText="eyes" />
+        <Word WordId="3582451" WordIndex="17" WordText="as" />
+        <Word WordId="3582452" WordIndex="18" WordText="one" />
+        <Word WordId="3582453" WordIndex="19" WordText="finding" />
+        <Word WordId="3582454" WordIndex="20" WordText="peace." />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17651" VerseNumber="11">
+      <VerseVersion VerseId="17651" VersionId="5">
+        <Word WordId="3582455" WordIndex="1" WordText="Solomon" />
+        <Word WordId="3582456" WordIndex="2" WordText="hath" />
+        <Word WordId="3582457" WordIndex="3" WordText="a" />
+        <Word WordId="3582458" WordIndex="4" WordText="vineyard" />
+        <Word WordId="3582459" WordIndex="5" WordText="in" />
+        <Word WordId="3582460" WordIndex="6" WordText="Baal-Hamon," />
+        <Word WordId="3582461" WordIndex="7" WordText="He" />
+        <Word WordId="3582462" WordIndex="8" WordText="hath" />
+        <Word WordId="3582463" WordIndex="9" WordText="given" />
+        <Word WordId="3582464" WordIndex="10" WordText="the" />
+        <Word WordId="3582465" WordIndex="11" WordText="vineyard" />
+        <Word WordId="3582466" WordIndex="12" WordText="to" />
+        <Word WordId="3582467" WordIndex="13" WordText="keepers," />
+        <Word WordId="3582468" WordIndex="14" WordText="Each" />
+        <Word WordId="3582469" WordIndex="15" WordText="bringeth" />
+        <Word WordId="3582470" WordIndex="16" WordText="for" />
+        <Word WordId="3582471" WordIndex="17" WordText="its" />
+        <Word WordId="3582472" WordIndex="18" WordText="fruit" />
+        <Word WordId="3582473" WordIndex="19" WordText="a" />
+        <Word WordId="3582474" WordIndex="20" WordText="thousand" />
+        <Word WordId="3582475" WordIndex="21" WordText="silverlings;" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17652" VerseNumber="12">
+      <VerseVersion VerseId="17652" VersionId="5">
+        <Word WordId="3582476" WordIndex="1" WordText="My" />
+        <Word WordId="3582477" WordIndex="2" WordText="vineyard" />
+        <Word WordId="3582478" WordIndex="3" WordText="--" />
+        <Word WordId="3582479" WordIndex="4" WordText="my" />
+        <Word WordId="3582480" WordIndex="5" WordText="own" />
+        <Word WordId="3582481" WordIndex="6" WordText="--" />
+        <Word WordId="3582482" WordIndex="7" WordText="is" />
+        <Word WordId="3582483" WordIndex="8" WordText="before" />
+        <Word WordId="3582484" WordIndex="9" WordText="me," />
+        <Word WordId="3582485" WordIndex="10" WordText="The" />
+        <Word WordId="3582486" WordIndex="11" WordText="thousand" />
+        <Word WordId="3582487" WordIndex="12" WordText="[is]" />
+        <Word WordId="3582488" WordIndex="13" WordText="for" />
+        <Word WordId="3582489" WordIndex="14" WordText="thee," />
+        <Word WordId="3582490" WordIndex="15" WordText="O" />
+        <Word WordId="3582491" WordIndex="16" WordText="Solomon." />
+        <Word WordId="3582492" WordIndex="17" WordText="And" />
+        <Word WordId="3582493" WordIndex="18" WordText="the" />
+        <Word WordId="3582494" WordIndex="19" WordText="two" />
+        <Word WordId="3582495" WordIndex="20" WordText="hundred" />
+        <Word WordId="3582496" WordIndex="21" WordText="for" />
+        <Word WordId="3582497" WordIndex="22" WordText="those" />
+        <Word WordId="3582498" WordIndex="23" WordText="keeping" />
+        <Word WordId="3582499" WordIndex="24" WordText="its" />
+        <Word WordId="3582500" WordIndex="25" WordText="fruit." />
+        <Word WordId="3582501" WordIndex="26" WordText="O" />
+        <Word WordId="3582502" WordIndex="27" WordText="dweller" />
+        <Word WordId="3582503" WordIndex="28" WordText="in" />
+        <Word WordId="3582504" WordIndex="29" WordText="gardens!" />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17653" VerseNumber="13">
+      <VerseVersion VerseId="17653" VersionId="5">
+        <Word WordId="3582505" WordIndex="1" WordText="The" />
+        <Word WordId="3582506" WordIndex="2" WordText="companions" />
+        <Word WordId="3582507" WordIndex="3" WordText="are" />
+        <Word WordId="3582508" WordIndex="4" WordText="attending" />
+        <Word WordId="3582509" WordIndex="5" WordText="to" />
+        <Word WordId="3582510" WordIndex="6" WordText="thy" />
+        <Word WordId="3582511" WordIndex="7" WordText="voice," />
+        <Word WordId="3582512" WordIndex="8" WordText="Cause" />
+        <Word WordId="3582513" WordIndex="9" WordText="me" />
+        <Word WordId="3582514" WordIndex="10" WordText="to" />
+        <Word WordId="3582515" WordIndex="11" WordText="hear." />
+        <Word WordId="3582516" WordIndex="12" WordText="Flee," />
+        <Word WordId="3582517" WordIndex="13" WordText="my" />
+        <Word WordId="3582518" WordIndex="14" WordText="beloved," />
+        <Word WordId="3582519" WordIndex="15" WordText="and" />
+        <Word WordId="3582520" WordIndex="16" WordText="be" />
+        <Word WordId="3582521" WordIndex="17" WordText="like" />
+        <Word WordId="3582522" WordIndex="18" WordText="to" />
+        <Word WordId="3582523" WordIndex="19" WordText="a" />
+        <Word WordId="3582524" WordIndex="20" WordText="roe," />
+      </VerseVersion>
+    </Verse>
+    <Verse VerseId="17654" VerseNumber="14">
+      <VerseVersion VerseId="17654" VersionId="5">
+        <Word WordId="3582525" WordIndex="1" WordText="Or" />
+        <Word WordId="3582526" WordIndex="2" WordText="to" />
+        <Word WordId="3582527" WordIndex="3" WordText="a" />
+        <Word WordId="3582528" WordIndex="4" WordText="young" />
+        <Word WordId="3582529" WordIndex="5" WordText="one" />
+        <Word WordId="3582530" WordIndex="6" WordText="of" />
+        <Word WordId="3582531" WordIndex="7" WordText="the" />
+        <Word WordId="3582532" WordIndex="8" WordText="harts" />
+        <Word WordId="3582533" WordIndex="9" WordText="on" />
+        <Word WordId="3582534" WordIndex="10" WordText="mountains" />
+        <Word WordId="3582535" WordIndex="11" WordText="of" />
+        <Word WordId="3582536" WordIndex="12" WordText="spices!" />
+      </VerseVersion>
+    </Verse>
+  </Chapter>
+</Book>

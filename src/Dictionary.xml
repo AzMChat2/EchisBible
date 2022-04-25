@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionary>
+	<Words>
+		<Recognized>
+			<Word>Echis</Word>
+			<Word>Strongs</Word>
+			<Word>Renderer</Word>
+			<Word>Highlite</Word>
+			<Word>Speach</Word>
+			<Word>Prev</Word>
+		</Recognized>
+	</Words>
+	<Acronyms>
+		<CasingExceptions>
+			<Acronym>IOC</Acronym>
+			<Acronym>KJ</Acronym>
+			<Acronym>KJ21</Acronym>
+			<Acronym>NKJV</Acronym>
+			<Acronym>NIV</Acronym>
+			<Acronym>NASB</Acronym>
+			<Acronym>YLT</Acronym>
+			<Acronym>NIT</Acronym>
+			<Acronym>WOC</Acronym>
+		</CasingExceptions>
+	</Acronyms>
+</Dictionary>
